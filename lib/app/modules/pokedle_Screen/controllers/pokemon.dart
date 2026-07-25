@@ -76,7 +76,8 @@ class Pokemon {
     return name.toLowerCase().contains(q) ||
         nameTh.toLowerCase().contains(q) ||
         romajiTh.toLowerCase().contains(q) ||
-        romajiEn.toLowerCase().contains(q);
+        romajiEn.toLowerCase().contains(q) ||
+        id.toString().contains(q);
   }
 
   @override

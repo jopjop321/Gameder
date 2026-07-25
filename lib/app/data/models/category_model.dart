@@ -22,7 +22,7 @@ final List<GameCategory> mockCategories = [
     imagePath: 'assets/images/pikachi.png',
     textColor: Colors.black,
     gameType: 'pokedle',
-    genFile: 'gen1',
+    genFile: 'all',
   ),
   // GameCategory(title: 'ความรู้ทั่วไป', ... gameType: 'trivia'),
 ];
