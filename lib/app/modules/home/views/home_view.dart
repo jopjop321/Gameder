@@ -1,9 +1,5 @@
-import 'package:flutter/material.dart';
-import 'package:get/get.dart';
-import '../controllers/home_controller.dart';
-import 'package:gameder/widgets/category_card_item.dart';
-import 'package:gameder/app/data/models/category_model.dart';
-import 'package:gameder/app/modules/pokedle_Screen/views/pokedle_screen.dart'; // 👈 import หน้าเกม
+import 'package:gameder/constants/imports.dart';
+
 
 class HomeView extends GetView<HomeController> {
   const HomeView({super.key});
@@ -56,15 +52,17 @@ class HomeView extends GetView<HomeController> {
   }
 
   void _handleCardTap(GameCategory category) {
-    switch (category.gameType) {
-      case 'pokedle':
-        Get.to(() => GameScreen(genFile: category.genFile ?? 'gen1'));
-        break;
-      // case 'trivia':
-      //   Get.to(() => TriviaScreen());
-      //   break;
-      default:
-        Get.snackbar('เร็วๆ นี้', '${category.title} ยังไม่เปิดให้เล่นครับ');
-    }
+  switch (category.gameType) {
+    case 'pokedle_menu':
+      // พาไปหน้าเลือกหมวดหมู่ย่อยของ Pokedle
+      Get.to(() => PokedleCategoryScreen());
+      break;
+    case 'pokedle':
+      // พาไปหน้าเล่นเกม Pokedle พร้อมส่ง genFile ไปให้
+      Get.to(() => GameScreen(genFile: category.genFile ?? 'gen1'));
+      break;
+    default:
+      Get.snackbar('เร็วๆ นี้', '${category.title} ยังไม่เปิดให้เล่นครับ');
   }
+}
 }
