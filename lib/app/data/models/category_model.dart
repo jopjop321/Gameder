@@ -2,18 +2,24 @@ import 'package:flutter/material.dart';
 
 class GameCategory {
   final String title;
-  final String imagePath;
+  final String? imagePath;
+  final IconData? icon;
   final Color textColor;
-  final String gameType; // เพิ่มตัวนี้: ระบุว่าการ์ดนี้คือเกมอะไร
-  final String? genFile; // เพิ่มตัวนี้: เฉพาะ Pokedle ใช้ระบุ 'gen1', 'gen2', 'all'
+  final String gameType;
 
-  GameCategory({
+  /// Pokedle only: 'gen1', 'gen2', ..., or 'all'.
+  final String? genFile;
+  final String? gameId;
+
+  const GameCategory({
     required this.title,
-    required this.imagePath,
     required this.textColor,
     required this.gameType,
+    this.imagePath,
+    this.icon,
     this.genFile,
-  });
+    this.gameId,
+  }) : assert(imagePath != null || icon != null);
 }
 
 final List<GameCategory> mockCategories = [
@@ -24,79 +30,70 @@ final List<GameCategory> mockCategories = [
     gameType: 'pokedle_menu',
     genFile: 'pokedle_menu',
   ),
+  GameCategory(
+    title: 'อาหารนี้คืออะไร?',
+    imagePath: 'assets/images/food.png',
+    textColor: Colors.black,
+    gameType: 'food_menu',
+  ),
   // GameCategory(title: 'ความรู้ทั่วไป', ... gameType: 'trivia'),
 ];
 
-// ข้อมูลหมวดหมู่ย่อย สำหรับหน้า Pokedle โดยเฉพาะ
+/// Sub-categories for the Pokedle selection screen.
 final List<GameCategory> pokedleCategories = [
-  GameCategory(
+  const GameCategory(
     title: 'Gen 1-9 (ทุกหมวด)',
-    imagePath: 'assets/images/pikachi.png', // เปลี่ยนชื่อรูปตามที่คุณมี
+    imagePath: 'assets/images/pikachi.png',
     textColor: Colors.black,
     gameType: 'pokedle',
-    genFile: 'all', // คีย์เวิร์ดสำหรับดึงทุกไฟล์
+    genFile: 'all',
   ),
-  GameCategory(
-    title: 'Generation 1',
-    imagePath: 'assets/images/pikachi.png', // ใช้รูปของ Gen 1
-    textColor: Colors.black,
-    gameType: 'pokedle',
-    genFile: 'gen1',
+  ...List.generate(
+    9,
+    (i) => GameCategory(
+      title: 'Generation ${i + 1}',
+      imagePath: 'assets/images/pikachi.png',
+      textColor: Colors.black,
+      gameType: 'pokedle',
+      genFile: 'gen${i + 1}',
+    ),
   ),
-  GameCategory(
-    title: 'Generation 2',
-    imagePath: 'assets/images/pikachi.png', // เปลี่ยนชื่อรูป
+];
+
+final List<GameCategory> foodCategories = [
+  const GameCategory(
+    title: 'อาหารไทย',
+    imagePath: 'assets/images/food.png',
     textColor: Colors.black,
-    gameType: 'pokedle',
-    genFile: 'gen2',
+    gameType: 'food_quiz',
+    gameId: 'thai',
   ),
-  GameCategory(
-    title: 'Generation 3',
-    imagePath: 'assets/images/pikachi.png', // เปลี่ยนชื่อรูป
+  const GameCategory(
+    title: 'อาหารญี่ปุ่น',
+    imagePath: 'assets/images/food.png',
     textColor: Colors.black,
-    gameType: 'pokedle',
-    genFile: 'gen3',
+    gameType: 'food_quiz',
+    gameId: 'japanese',
   ),
-  GameCategory(
-    title: 'Generation 4',
-    imagePath: 'assets/images/pikachi.png', // ใช้รูปของ Gen 1
+  const GameCategory(
+    title: 'อาหารจีน',
+    imagePath: 'assets/images/food.png',
     textColor: Colors.black,
-    gameType: 'pokedle',
-    genFile: 'gen4',
+    gameType: 'food_quiz',
+    gameId: 'chinese',
   ),
-  GameCategory(
-    title: 'Generation 5',
-    imagePath: 'assets/images/pikachi.png', // เปลี่ยนชื่อรูป
+  const GameCategory(
+    title: 'อาหารยุโรป',
+    imagePath: 'assets/images/food.png',
     textColor: Colors.black,
-    gameType: 'pokedle',
-    genFile: 'gen5',
+    gameType: 'food_quiz',
+    gameId: 'european',
   ),
-  GameCategory(
-    title: 'Generation 6',
-    imagePath: 'assets/images/pikachi.png', // เปลี่ยนชื่อรูป
+  const GameCategory(
+    title: 'อาหารทั่วโลก',
+    imagePath: 'assets/images/food.png',
     textColor: Colors.black,
-    gameType: 'pokedle',
-    genFile: 'gen6',
-  ),
-  GameCategory(
-    title: 'Generation 7',
-    imagePath: 'assets/images/pikachi.png', // ใช้รูปของ Gen 1
-    textColor: Colors.black,
-    gameType: 'pokedle',
-    genFile: 'gen7',
-  ),
-  GameCategory(
-    title: 'Generation 8',
-    imagePath: 'assets/images/pikachi.png', // เปลี่ยนชื่อรูป
-    textColor: Colors.black,
-    gameType: 'pokedle',
-    genFile: 'gen8',
-  ),
-  GameCategory(
-    title: 'Generation 9',
-    imagePath: 'assets/images/pikachi.png', // เปลี่ยนชื่อรูป
-    textColor: Colors.black,
-    gameType: 'pokedle',
-    genFile: 'gen9',
+    gameType: 'food_quiz',
+    gameId: 'world',
   ),
 ];

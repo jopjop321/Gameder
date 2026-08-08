@@ -33,19 +33,29 @@ class CategoryCardItem extends StatelessWidget {
           borderRadius: BorderRadius.circular(18.0),
           child: Stack(
             children: [
-              Positioned.fill(
-                child: Image.asset(category.imagePath, fit: BoxFit.cover),
-              ),
+              Positioned.fill(child: _buildCardVisual()),
               Positioned(
                 top: 12,
                 left: 12,
                 right: 12,
-                child: Text(
-                  category.title,
-                  style: TextStyle(
-                    fontSize: 18,
-                    fontWeight: FontWeight.bold,
-                    color: category.textColor,
+                child: Container(
+                  padding: const EdgeInsets.symmetric(
+                    horizontal: 10,
+                    vertical: 6,
+                  ),
+                  decoration: BoxDecoration(
+                    color: category.textColor == Colors.white
+                        ? Colors.black.withOpacity(0.45)
+                        : Colors.white,
+                    borderRadius: BorderRadius.circular(10.0),
+                  ),
+                  child: Text(
+                    category.title,
+                    style: TextStyle(
+                      fontSize: 18,
+                      fontWeight: FontWeight.bold,
+                      color: category.textColor,
+                    ),
                   ),
                 ),
               ),
@@ -53,6 +63,19 @@ class CategoryCardItem extends StatelessWidget {
           ),
         ),
       ),
+    );
+  }
+
+  Widget _buildCardVisual() {
+    final imagePath = category.imagePath;
+    if (imagePath != null) {
+      return Image.asset(imagePath, fit: BoxFit.cover);
+    }
+
+    return Container(
+      color: const Color(0xFF1C4E63),
+      alignment: Alignment.center,
+      child: Icon(category.icon, color: Colors.white, size: 76),
     );
   }
 }
