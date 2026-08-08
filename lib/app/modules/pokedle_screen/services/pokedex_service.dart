@@ -12,7 +12,7 @@ class PokedexService {
 
     for (final file in files) {
       try {
-        final raw = await rootBundle.loadString('assets/data/$file.json');
+        final raw = await rootBundle.loadString('assets/data/pokedle/$file.json');
         final List<dynamic> jsonList = jsonDecode(raw) as List<dynamic>;
         for (final item in jsonList) {
           final p = Pokemon.fromJson(item as Map<String, dynamic>);

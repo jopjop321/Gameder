@@ -6,19 +6,18 @@ class PokedleCategoryScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: const Color(0xFFD35400), // สีพื้นหลังแบบเดียวกัน
+      backgroundColor: kAppBackgroundColor,
       appBar: AppBar(
         title: const Text('เลือก Generation'),
-        backgroundColor: Colors.transparent, // ปรับตามดีไซน์
+        backgroundColor: Colors.transparent,
+        foregroundColor: Colors.white,
         elevation: 0,
       ),
       body: SafeArea(
-        // ใช้ Widget ตัวเดียวกันเป๊ะ!
         child: ResponsiveCategoryGrid(
-          categories: pokedleCategories, // เปลี่ยนเป็นลิสต์ของ Gen 1, 2, 3
+          categories: pokedleCategories,
           onCardTap: (category) {
-             // โลจิกเมื่อกดการ์ด Gen
-             Get.to(() => GameScreen(genFile: category.genFile ?? 'gen1'));
+            Get.to(() => GameScreen(genFile: category.genFile ?? 'gen1'));
           },
         ),
       ),
