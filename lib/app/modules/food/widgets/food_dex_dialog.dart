@@ -1,22 +1,26 @@
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 
 import '../models/food.dart';
 import '../theme/foodle_theme.dart';
 
-Future<void> showFoodDexDialog(
+Future<Food?> showFoodDexDialog(
   BuildContext context,
   List<Food> availableFoods,
 ) {
   final searchController = TextEditingController();
   var selectedCountry = 'ทั้งหมด';
 
-  return showDialog<void>(
+  return showDialog<Food>(
     context: context,
     builder: (dialogContext) => StatefulBuilder(
       builder: (context, setModalState) {
         final countries =
             availableFoods.map((food) => food.country).toSet().toList()
               ..sort();
+        final countryDisplayNames = {
+          for (final f in availableFoods) f.country: f.displayCountry,
+        };
         final filteredFoods = availableFoods.where((food) {
           final hasSelectedCountry =
               selectedCountry == 'ทั้งหมด' || food.country == selectedCountry;
@@ -41,7 +45,9 @@ Future<void> showFoodDexDialog(
                       const SizedBox(width: 8),
                       Expanded(
                         child: Text(
-                          'คลังอาหาร (${filteredFoods.length})',
+                          'food_dexTitle'.trParams(
+                            {'count': '${filteredFoods.length}'},
+                          ),
                           style: const TextStyle(
                             color: Colors.white,
                             fontSize: 20,
@@ -52,7 +58,7 @@ Future<void> showFoodDexDialog(
                       IconButton(
                         onPressed: () => Navigator.of(dialogContext).pop(),
                         icon: const Icon(Icons.close, color: Colors.white),
-                        tooltip: 'ปิด',
+                        tooltip: 'common_close'.tr,
                       ),
                     ],
                   ),
@@ -67,7 +73,7 @@ Future<void> showFoodDexDialog(
                           onChanged: (_) => setModalState(() {}),
                           style: const TextStyle(color: Colors.white),
                           decoration: InputDecoration(
-                            hintText: 'ค้นหาชื่ออาหาร',
+                            hintText: 'food_dexSearchHint'.tr,
                             hintStyle: const TextStyle(color: Colors.white54),
                             prefixIcon: const Icon(
                               Icons.search,
@@ -88,6 +94,7 @@ Future<void> showFoodDexDialog(
                         width: 156,
                         child: DropdownButtonFormField<String>(
                           value: selectedCountry,
+                          isExpanded: true,
                           dropdownColor: kFoodPanelColor,
                           style: const TextStyle(color: Colors.white),
                           decoration: InputDecoration(
@@ -102,15 +109,15 @@ Future<void> showFoodDexDialog(
                             ),
                           ),
                           items: [
-                            const DropdownMenuItem(
+                            DropdownMenuItem(
                               value: 'ทั้งหมด',
-                              child: Text('ทุกประเทศ'),
+                              child: Text('food_dexAllCountries'.tr),
                             ),
                             ...countries.map(
                               (country) => DropdownMenuItem(
                                 value: country,
                                 child: Text(
-                                  country,
+                                  countryDisplayNames[country] ?? country,
                                   overflow: TextOverflow.ellipsis,
                                 ),
                               ),
@@ -142,16 +149,17 @@ Future<void> showFoodDexDialog(
                           ),
                         ),
                         title: Text(
-                          food.name,
+                          food.displayName,
                           style: const TextStyle(
                             color: Colors.white,
                             fontWeight: FontWeight.w600,
                           ),
                         ),
                         subtitle: Text(
-                          '${food.country} · ${food.dishType} · ${food.cookingMethod}',
+                          '${food.displayCountry} · ${food.displayDishType} · ${food.displayCookingMethod}',
                           style: const TextStyle(color: Colors.white60),
                         ),
+                        onTap: () => Navigator.of(dialogContext).pop(food),
                       );
                     },
                   ),

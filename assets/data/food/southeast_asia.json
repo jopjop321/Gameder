@@ -1,0 +1,2016 @@
+[
+  {
+    "collection": "southeast_asia",
+    "name": "เฝอ",
+    "name_en": "Phở",
+    "country": "เวียดนาม",
+    "country_en": "Vietnam",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "นาซีโกเร็ง",
+    "name_en": "Nasi Goreng",
+    "country": "อินโดนีเซีย",
+    "country_en": "Indonesia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
+    "main_ingredient": "ข้าว",
+    "main_ingredient_en": "Rice",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "หวาน",
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Spicy"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "เปาะเปี๊ยะสด",
+    "name_en": "Vietnamese Fresh Spring Rolls (Gỏi Cuốn)",
+    "country": "เวียดนาม",
+    "country_en": "Vietnam",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "กุ้ง",
+    "main_ingredient_en": "Shrimp",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ลวก",
+    "cooking_method_en": "Blanched",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "บั๋นหมี่",
+    "name_en": "Bánh Mì",
+    "country": "เวียดนาม",
+    "country_en": "Vietnam",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "แซนด์วิช",
+    "dish_type_en": "Sandwich",
+    "main_ingredient": "หมูยอ",
+    "main_ingredient_en": "Vietnamese Pork Roll",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เค็ม",
+      "เปรี้ยว"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Sour"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "บั๋นแซว",
+    "name_en": "Bánh Xèo",
+    "country": "เวียดนาม",
+    "country_en": "Vietnam",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "แป้ง",
+    "dish_type_en": "Batter Dish",
+    "main_ingredient": "กุ้ง",
+    "main_ingredient_en": "Shrimp",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "บุ๋นชา",
+    "name_en": "Bún Chả",
+    "country": "เวียดนาม",
+    "country_en": "Vietnam",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "จานเดียว",
+    "dish_type_en": "One-Dish Meal",
+    "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เปรี้ยว",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Sweet"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "กาแฟเวียดนาม",
+    "name_en": "Vietnamese Coffee",
+    "country": "เวียดนาม",
+    "country_en": "Vietnam",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เครื่องดื่ม",
+    "dish_type_en": "Beverage",
+    "main_ingredient": "กาแฟ",
+    "main_ingredient_en": "Coffee",
+    "ingredient_group": "เครื่องปรุง",
+    "ingredient_group_en": "Seasoning",
+    "cooking_method": "ชง",
+    "cooking_method_en": "Brewed",
+    "flavors": [
+      "หวาน",
+      "ขม"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Bitter"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "กอมกาเวียดนาม",
+    "name_en": "Vietnamese Chicken Rice (Cơm Gà)",
+    "country": "เวียดนาม",
+    "country_en": "Vietnam",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
+    "main_ingredient": "ไก่",
+    "main_ingredient_en": "Chicken",
+    "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "ซาเต๊ะ",
+    "name_en": "Satay",
+    "country": "อินโดนีเซีย",
+    "country_en": "Indonesia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของย่าง",
+    "dish_type_en": "Grilled Dish",
+    "main_ingredient": "ไก่",
+    "main_ingredient_en": "Chicken",
+    "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "หวาน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Salty"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "เรินดัง",
+    "name_en": "Rendang",
+    "country": "อินโดนีเซีย",
+    "country_en": "Indonesia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "แกง",
+    "dish_type_en": "Curry",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "เคี่ยว",
+    "cooking_method_en": "Simmered",
+    "flavors": [
+      "เผ็ดเข้มข้น"
+    ],
+    "flavors_en": [
+      "Intensely Spicy"
+    ],
+    "spice_level": 3,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "กาโดกาโด",
+    "name_en": "Gado-Gado",
+    "country": "อินโดนีเซีย",
+    "country_en": "Indonesia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "สลัด",
+    "dish_type_en": "Salad",
+    "main_ingredient": "ผักรวม",
+    "main_ingredient_en": "Mixed Vegetables",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ลวก",
+    "cooking_method_en": "Blanched",
+    "flavors": [
+      "เค็ม",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Rich"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "ลักซา",
+    "name_en": "Laksa",
+    "country": "มาเลเซีย",
+    "country_en": "Malaysia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
+    "main_ingredient": "กุ้ง",
+    "main_ingredient_en": "Shrimp",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เผ็ด",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Rich"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "นาซิเลอมัก",
+    "name_en": "Nasi Lemak",
+    "country": "มาเลเซีย",
+    "country_en": "Malaysia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
+    "main_ingredient": "ข้าว",
+    "main_ingredient_en": "Rice",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "หุงพร้อมกัน",
+    "cooking_method_en": "Cooked Together",
+    "flavors": [
+      "เผ็ด",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Rich"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "ปูผัดพริกสิงคโปร์",
+    "name_en": "Singapore Chili Crab",
+    "country": "สิงคโปร์",
+    "country_en": "Singapore",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "ปู",
+    "main_ingredient_en": "Crab",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เผ็ด",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Sweet"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "อาโดโบฟิลิปปินส์",
+    "name_en": "Filipino Adobo",
+    "country": "ฟิลิปปินส์",
+    "country_en": "Philippines",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ตุ๋น",
+    "cooking_method_en": "Stewed/Braised",
+    "flavors": [
+      "เปรี้ยว",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "เลชอนหมูหัน",
+    "name_en": "Lechon (Whole Roast Pig)",
+    "country": "ฟิลิปปินส์",
+    "country_en": "Philippines",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "โมฮิงกา",
+    "name_en": "Mohinga",
+    "country": "เมียนมา",
+    "country_en": "Myanmar",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
+    "main_ingredient": "ปลา",
+    "main_ingredient_en": "Fish",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "ลาบลาว",
+    "name_en": "Lao Larb",
+    "country": "ลาว",
+    "country_en": "Laos",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "สลัด",
+    "dish_type_en": "Salad",
+    "main_ingredient": "เนื้อสัตว์",
+    "main_ingredient_en": "Meat",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ตำ",
+    "cooking_method_en": "Pounded",
+    "flavors": [
+      "เผ็ด",
+      "เปรี้ยว"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Sour"
+    ],
+    "spice_level": 3,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "อาม็อกกัมพูชา",
+    "name_en": "Cambodian Amok",
+    "country": "กัมพูชา",
+    "country_en": "Cambodia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "แกง",
+    "dish_type_en": "Curry",
+    "main_ingredient": "ปลา",
+    "main_ingredient_en": "Fish",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "นึ่ง",
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "เผ็ด",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Rich"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "บุ๋นบ่อเว้",
+    "name_en": "Bún Bò Huế",
+    "country": "เวียดนาม",
+    "country_en": "Vietnam",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Spicy"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "หมี่กรอบเวียดนาม",
+    "name_en": "Vietnamese Crispy Noodles (Mì Xào Giòn)",
+    "country": "เวียดนาม",
+    "country_en": "Vietnam",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
+    "main_ingredient": "บะหมี่",
+    "main_ingredient_en": "Egg Noodles",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "ข้าวเหนียวเวียดนาม",
+    "name_en": "Vietnamese Sticky Rice (Xôi)",
+    "country": "เวียดนาม",
+    "country_en": "Vietnam",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
+    "main_ingredient": "ข้าวเหนียว",
+    "main_ingredient_en": "Sticky Rice",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "นึ่ง",
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "หวาน",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "ปอเปี๊ยะทอดเวียดนาม",
+    "name_en": "Vietnamese Fried Spring Rolls (Chả Giò)",
+    "country": "เวียดนาม",
+    "country_en": "Vietnam",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "บุ๋นรีเยอปูเวียดนาม",
+    "name_en": "Vietnamese Crab Noodle Soup (Bún Riêu Cua)",
+    "country": "เวียดนาม",
+    "country_en": "Vietnam",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
+    "main_ingredient": "ปู",
+    "main_ingredient_en": "Crab",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เปรี้ยว"
+    ],
+    "flavors_en": [
+      "Sour"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "ข้าวหมูย่างเวียดนาม",
+    "name_en": "Vietnamese Grilled Pork Rice (Cơm Tấm)",
+    "country": "เวียดนาม",
+    "country_en": "Vietnam",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
+    "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "หมูยอเวียดนาม",
+    "name_en": "Vietnamese Pork Roll (Giò Lụa)",
+    "country": "เวียดนาม",
+    "country_en": "Vietnam",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "นึ่ง",
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "ยำมะละกอเวียดนาม",
+    "name_en": "Vietnamese Green Papaya Salad",
+    "country": "เวียดนาม",
+    "country_en": "Vietnam",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "สลัด",
+    "dish_type_en": "Salad",
+    "main_ingredient": "มะละกอ",
+    "main_ingredient_en": "Papaya",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ตำ",
+    "cooking_method_en": "Pounded",
+    "flavors": [
+      "เปรี้ยว",
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Spicy"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "บั๋นก๊วน",
+    "name_en": "Bánh Cuốn",
+    "country": "เวียดนาม",
+    "country_en": "Vietnam",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "นึ่ง",
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "เนื้อย่างตะไคร้เวียดนาม",
+    "name_en": "Vietnamese Lemongrass Grilled Beef",
+    "country": "เวียดนาม",
+    "country_en": "Vietnam",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของย่าง",
+    "dish_type_en": "Grilled Dish",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เค็มหอมตะไคร้"
+    ],
+    "flavors_en": [
+      "Salty Lemongrass Aroma"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "ปลาทอดขมิ้นเวียดนาม",
+    "name_en": "Vietnamese Turmeric Fried Fish (Chả Cá)",
+    "country": "เวียดนาม",
+    "country_en": "Vietnam",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "ปลา",
+    "main_ingredient_en": "Fish",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็มหอมขมิ้น"
+    ],
+    "flavors_en": [
+      "Salty Turmeric Aroma"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "มีก็อเร็ง",
+    "name_en": "Mie Goreng",
+    "country": "อินโดนีเซีย",
+    "country_en": "Indonesia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
+    "main_ingredient": "บะหมี่",
+    "main_ingredient_en": "Egg Noodles",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Sweet"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "โซโตอายัม",
+    "name_en": "Soto Ayam",
+    "country": "อินโดนีเซีย",
+    "country_en": "Indonesia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ซุป",
+    "dish_type_en": "Soup",
+    "main_ingredient": "ไก่",
+    "main_ingredient_en": "Chicken",
+    "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เผ็ดหอมเครื่องเทศ"
+    ],
+    "flavors_en": [
+      "Spicy and Aromatic Spices"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "บักโซ",
+    "name_en": "Bakso",
+    "country": "อินโดนีเซีย",
+    "country_en": "Indonesia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ซุป",
+    "dish_type_en": "Soup",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "กรุงปุก",
+    "name_en": "Kerupuk (Indonesian Crackers)",
+    "country": "อินโดนีเซีย",
+    "country_en": "Indonesia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "แป้ง",
+    "main_ingredient_en": "Flour",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "เทมเป้ทอด",
+    "name_en": "Fried Tempeh",
+    "country": "อินโดนีเซีย",
+    "country_en": "Indonesia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของทอด",
+    "dish_type_en": "Fried Dish",
+    "main_ingredient": "เทมเป้",
+    "main_ingredient_en": "Tempeh",
+    "ingredient_group": "พืช",
+    "ingredient_group_en": "Plant-based",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "บาบีกูลิง",
+    "name_en": "Babi Guling",
+    "country": "อินโดนีเซีย",
+    "country_en": "Indonesia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เผ็ดหอมเครื่องเทศ"
+    ],
+    "flavors_en": [
+      "Spicy and Aromatic Spices"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "อายัมโกเร็ง",
+    "name_en": "Ayam Goreng",
+    "country": "อินโดนีเซีย",
+    "country_en": "Indonesia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของทอด",
+    "dish_type_en": "Fried Dish",
+    "main_ingredient": "ไก่",
+    "main_ingredient_en": "Chicken",
+    "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "กูไลอินโดนีเซีย",
+    "name_en": "Indonesian Gulai",
+    "country": "อินโดนีเซีย",
+    "country_en": "Indonesia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "แกง",
+    "dish_type_en": "Curry",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "เคี่ยว",
+    "cooking_method_en": "Simmered",
+    "flavors": [
+      "เผ็ด",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Rich"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "มาร์ตาบัก",
+    "name_en": "Martabak",
+    "country": "อินโดนีเซีย",
+    "country_en": "Indonesia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "ไข่",
+    "main_ingredient_en": "Eggs",
+    "ingredient_group": "ไข่",
+    "ingredient_group_en": "Eggs",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "ปีซังโกเร็ง",
+    "name_en": "Pisang Goreng",
+    "country": "อินโดนีเซีย",
+    "country_en": "Indonesia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "กล้วย",
+    "main_ingredient_en": "Banana",
+    "ingredient_group": "พืช",
+    "ingredient_group_en": "Plant-based",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "ซุปหางวัวอินโดนีเซีย",
+    "name_en": "Indonesian Oxtail Soup (Sop Buntut)",
+    "country": "อินโดนีเซีย",
+    "country_en": "Indonesia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ซุป",
+    "dish_type_en": "Soup",
+    "main_ingredient": "หางวัว",
+    "main_ingredient_en": "Oxtail",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "เปเปสอิกัน",
+    "name_en": "Pepes Ikan",
+    "country": "อินโดนีเซีย",
+    "country_en": "Indonesia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "ปลา",
+    "main_ingredient_en": "Fish",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "นึ่ง",
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "เผ็ดหอมเครื่องเทศ"
+    ],
+    "flavors_en": [
+      "Spicy and Aromatic Spices"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "ซัมบัลอินโดนีเซีย",
+    "name_en": "Indonesian Sambal",
+    "country": "อินโดนีเซีย",
+    "country_en": "Indonesia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เครื่องเคียง",
+    "dish_type_en": "Accompaniment",
+    "main_ingredient": "พริก",
+    "main_ingredient_en": "Chili",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ตำ",
+    "cooking_method_en": "Pounded",
+    "flavors": [
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Spicy"
+    ],
+    "spice_level": 3,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "บักกุ๊ดเต๋",
+    "name_en": "Bak Kut Teh",
+    "country": "มาเลเซีย",
+    "country_en": "Malaysia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ซุป",
+    "dish_type_en": "Soup",
+    "main_ingredient": "ซี่โครงหมู",
+    "main_ingredient_en": "Pork Ribs",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็มสมุนไพร"
+    ],
+    "flavors_en": [
+      "Salty Herbal"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "โรตีจาไน",
+    "name_en": "Roti Canai",
+    "country": "มาเลเซีย",
+    "country_en": "Malaysia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "แป้ง",
+    "dish_type_en": "Batter Dish",
+    "main_ingredient": "แป้ง",
+    "main_ingredient_en": "Flour",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "ชาร์กวยเตี๋ยว",
+    "name_en": "Char Kway Teow",
+    "country": "มาเลเซีย",
+    "country_en": "Malaysia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
+    "main_ingredient": "กุ้ง",
+    "main_ingredient_en": "Shrimp",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Sweet"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "อาซัมลักซา",
+    "name_en": "Asam Laksa",
+    "country": "มาเลเซีย",
+    "country_en": "Malaysia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
+    "main_ingredient": "ปลา",
+    "main_ingredient_en": "Fish",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เปรี้ยว",
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Spicy"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "เค้กลาปิส",
+    "name_en": "Kek Lapis (Layer Cake)",
+    "country": "มาเลเซีย",
+    "country_en": "Malaysia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "แป้ง",
+    "main_ingredient_en": "Flour",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "ปลาย่างซัมบัลมาเลเซีย",
+    "name_en": "Malaysian Grilled Fish with Sambal (Ikan Bakar)",
+    "country": "มาเลเซีย",
+    "country_en": "Malaysia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของย่าง",
+    "dish_type_en": "Grilled Dish",
+    "main_ingredient": "ปลา",
+    "main_ingredient_en": "Fish",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Spicy"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "ข้าวมันไก่สิงคโปร์",
+    "name_en": "Singapore Chicken Rice",
+    "country": "สิงคโปร์",
+    "country_en": "Singapore",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
+    "main_ingredient": "ไก่",
+    "main_ingredient_en": "Chicken",
+    "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "ลักซาสิงคโปร์",
+    "name_en": "Singapore Laksa",
+    "country": "สิงคโปร์",
+    "country_en": "Singapore",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
+    "main_ingredient": "กุ้ง",
+    "main_ingredient_en": "Shrimp",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เผ็ด",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Rich"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "ก๋วยเตี๋ยวผัดสิงคโปร์",
+    "name_en": "Singapore Fried Bee Hoon",
+    "country": "สิงคโปร์",
+    "country_en": "Singapore",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
+    "main_ingredient": "หมี่ซั่ว",
+    "main_ingredient_en": "Mee Sua Noodles",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เผ็ด",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Salty"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "โรจั๊กสิงคโปร์",
+    "name_en": "Rojak",
+    "country": "สิงคโปร์",
+    "country_en": "Singapore",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "สลัด",
+    "dish_type_en": "Salad",
+    "main_ingredient": "ผลไม้รวม",
+    "main_ingredient_en": "Mixed Fruits",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ตำ",
+    "cooking_method_en": "Pounded",
+    "flavors": [
+      "เปรี้ยว",
+      "หวาน",
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Sweet",
+      "Spicy"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "แกงหัวปลาสิงคโปร์",
+    "name_en": "Singapore Fish Head Curry",
+    "country": "สิงคโปร์",
+    "country_en": "Singapore",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "แกง",
+    "dish_type_en": "Curry",
+    "main_ingredient": "หัวปลา",
+    "main_ingredient_en": "Fish Head",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เผ็ด",
+      "เปรี้ยว"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Sour"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "ซินิกัง",
+    "name_en": "Sinigang",
+    "country": "ฟิลิปปินส์",
+    "country_en": "Philippines",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ซุป",
+    "dish_type_en": "Soup",
+    "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เปรี้ยว"
+    ],
+    "flavors_en": [
+      "Sour"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "พันสิตฟิลิปปินส์",
+    "name_en": "Pancit",
+    "country": "ฟิลิปปินส์",
+    "country_en": "Philippines",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
+    "main_ingredient": "บะหมี่",
+    "main_ingredient_en": "Egg Noodles",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "ฮาโลฮาโล",
+    "name_en": "Halo-Halo",
+    "country": "ฟิลิปปินส์",
+    "country_en": "Philippines",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "นมข้น",
+    "main_ingredient_en": "Condensed Milk",
+    "ingredient_group": "นม",
+    "ingredient_group_en": "Dairy",
+    "cooking_method": "แช่แข็ง",
+    "cooking_method_en": "Frozen",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "ลุมเปียฟิลิปปินส์",
+    "name_en": "Lumpia",
+    "country": "ฟิลิปปินส์",
+    "country_en": "Philippines",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "คาลเดอเรต้า",
+    "name_en": "Kaldereta",
+    "country": "ฟิลิปปินส์",
+    "country_en": "Philippines",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "เนื้อแพะ",
+    "main_ingredient_en": "Goat",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ตุ๋น",
+    "cooking_method_en": "Stewed/Braised",
+    "flavors": [
+      "เผ็ด",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Salty"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "ซิซิก",
+    "name_en": "Sisig",
+    "country": "ฟิลิปปินส์",
+    "country_en": "Philippines",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของทอด",
+    "dish_type_en": "Fried Dish",
+    "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เผ็ด",
+      "เปรี้ยว"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Sour"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "เลชอนกะโบ๊ก",
+    "name_en": "Lechon Kawali",
+    "country": "ฟิลิปปินส์",
+    "country_en": "Philippines",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "หมูสามชั้น",
+    "main_ingredient_en": "Pork Belly",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "ลาเพ็ดโท้ะ",
+    "name_en": "Lahpet Thoke (Fermented Tea Leaf Salad)",
+    "country": "เมียนมา",
+    "country_en": "Myanmar",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "สลัด",
+    "dish_type_en": "Salad",
+    "main_ingredient": "ใบชาหมัก",
+    "main_ingredient_en": "Fermented Tea Leaves",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ตำ",
+    "cooking_method_en": "Pounded",
+    "flavors": [
+      "เปรี้ยว",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Salty"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "ข้าวซอยพม่า",
+    "name_en": "Burmese Khao Suey",
+    "country": "เมียนมา",
+    "country_en": "Myanmar",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
+    "main_ingredient": "ไก่",
+    "main_ingredient_en": "Chicken",
+    "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "มัน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Rich",
+      "Salty"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "แกงเนื้อพม่า",
+    "name_en": "Burmese Beef Curry",
+    "country": "เมียนมา",
+    "country_en": "Myanmar",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "แกง",
+    "dish_type_en": "Curry",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "เคี่ยว",
+    "cooking_method_en": "Simmered",
+    "flavors": [
+      "เผ็ดหอมเครื่องเทศ"
+    ],
+    "flavors_en": [
+      "Spicy and Aromatic Spices"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "สลัดมะเขือเทศพม่า",
+    "name_en": "Burmese Tomato Salad",
+    "country": "เมียนมา",
+    "country_en": "Myanmar",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "สลัด",
+    "dish_type_en": "Salad",
+    "main_ingredient": "มะเขือเทศ",
+    "main_ingredient_en": "Tomato",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ตำ",
+    "cooking_method_en": "Pounded",
+    "flavors": [
+      "เปรี้ยว",
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Spicy"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "ข้าวผัดพม่า",
+    "name_en": "Burmese Fried Rice",
+    "country": "เมียนมา",
+    "country_en": "Myanmar",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
+    "main_ingredient": "ข้าว",
+    "main_ingredient_en": "Rice",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "ข้าวเหนียวลาว",
+    "name_en": "Lao Sticky Rice",
+    "country": "ลาว",
+    "country_en": "Laos",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
+    "main_ingredient": "ข้าวเหนียว",
+    "main_ingredient_en": "Sticky Rice",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "นึ่ง",
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "มัน"
+    ],
+    "flavors_en": [
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "หมกปลาลาว",
+    "name_en": "Lao Steamed Fish Curry (Mok Pa)",
+    "country": "ลาว",
+    "country_en": "Laos",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "แกง",
+    "dish_type_en": "Curry",
+    "main_ingredient": "ปลา",
+    "main_ingredient_en": "Fish",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "นึ่ง",
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "เผ็ด",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Rich"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "ไก่ย่างลาว",
+    "name_en": "Lao Grilled Chicken",
+    "country": "ลาว",
+    "country_en": "Laos",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของย่าง",
+    "dish_type_en": "Grilled Dish",
+    "main_ingredient": "ไก่",
+    "main_ingredient_en": "Chicken",
+    "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "แจ่วบองลาว",
+    "name_en": "Lao Chili Paste (Jaew Bong)",
+    "country": "ลาว",
+    "country_en": "Laos",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เครื่องเคียง",
+    "dish_type_en": "Accompaniment",
+    "main_ingredient": "พริก",
+    "main_ingredient_en": "Chili",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "คั่ว",
+    "cooking_method_en": "Roasted",
+    "flavors": [
+      "เผ็ด",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Salty"
+    ],
+    "spice_level": 3,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "ซุบหน่อไม้ลาว",
+    "name_en": "Lao Bamboo Shoot Soup",
+    "country": "ลาว",
+    "country_en": "Laos",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ซุป",
+    "dish_type_en": "Soup",
+    "main_ingredient": "หน่อไม้",
+    "main_ingredient_en": "Bamboo Shoots",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เผ็ด",
+      "ขม"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Bitter"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "ก๋วยเตี๋ยวกัมพูชา",
+    "name_en": "Cambodian Noodle Soup (Kuy Teav)",
+    "country": "กัมพูชา",
+    "country_en": "Cambodia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
+    "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "เนื้อผัดพริกไทยดำกัมพูชา",
+    "name_en": "Cambodian Beef with Black Pepper",
+    "country": "กัมพูชา",
+    "country_en": "Cambodia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็มพริกไทย"
+    ],
+    "flavors_en": [
+      "Salty Pepper"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "หมูปิ้งกัมพูชา",
+    "name_en": "Cambodian Grilled Pork",
+    "country": "กัมพูชา",
+    "country_en": "Cambodia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของย่าง",
+    "dish_type_en": "Grilled Dish",
+    "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "หวาน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "southeast_asia",
+    "name": "อัมบูยัตบรูไน",
+    "name_en": "Ambuyat (Bruneian Sago Dish)",
+    "country": "บรูไน",
+    "country_en": "Brunei",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "แป้ง",
+    "dish_type_en": "Batter Dish",
+    "main_ingredient": "สาคูเปียก",
+    "main_ingredient_en": "Sago Pearls",
+    "ingredient_group": "พืช",
+    "ingredient_group_en": "Plant-based",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "มัน"
+    ],
+    "flavors_en": [
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  }
+]

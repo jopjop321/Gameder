@@ -37,6 +37,7 @@ dependencies:
   get: ^4.7.3
   dio: ^5.10.0
   cached_network_image: ^3.4.1
+  shared_preferences: ^2.3.3
 
 dev_dependencies:
   flutter_test:
@@ -57,6 +58,15 @@ flutter:
   assets:
     - assets/data/pokedle/
     - assets/data/food/
+    - assets/data/anime/
+    - assets/data/place/
+    - assets/data/characters/
+    - assets/data/game/
+    - assets/data/celebrity/
+    - assets/data/movies/
+    - assets/data/cars/
+    - assets/data/music/
+    - assets/data/brands/
     - assets/images/
 
   # The following line ensures that the Material Icons font is

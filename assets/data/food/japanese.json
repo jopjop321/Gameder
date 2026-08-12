@@ -1,236 +1,3726 @@
 [
   {
     "collection": "japanese",
-    "name": "ซูชิ",
+    "name": "ราเมง (Ramen)",
+    "name_en": "Ramen",
     "country": "ญี่ปุ่น",
+    "country_en": "Japan",
     "continent": "เอเชีย",
-    "dish_type": "ข้าว",
-    "main_ingredient": "ปลา",
-    "ingredient_group": "อาหารทะเล",
-    "cooking_method": "สด",
-    "flavors": ["เค็ม"],
-    "spice_level": 0,
-    "serving_temperature": "เย็น"
-  },
-  {
-    "collection": "japanese",
-    "name": "ราเมง",
-    "country": "ญี่ปุ่น",
-    "continent": "เอเชีย",
-    "dish_type": "เส้น",
-    "main_ingredient": "หมู",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "บะหมี่",
+    "dish_type_en": "Wheat Noodles",
+    "main_ingredient": "เส้นราเมง / หมูชาชู",
+    "main_ingredient_en": "Ramen Noodles / Chashu Pork",
     "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
     "cooking_method": "ต้ม",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม",
+      "กลมกล่อม (อูมามิ)"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Balanced (Umami)"
+    ],
     "spice_level": 1,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "japanese",
-    "name": "เทมปุระ",
+    "name": "ซูชิหน้าแซลมอน (Salmon Sushi)",
+    "name_en": "Salmon Sushi",
     "country": "ญี่ปุ่น",
+    "country_en": "Japan",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ข้าวปั้นหน้าปลาดิบ",
+    "dish_type_en": "Sushi (Nigiri)",
+    "main_ingredient": "แซลมอน",
+    "main_ingredient_en": "Salmon",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "สด (ไม่ปรุงด้วยความร้อน)",
+    "cooking_method_en": "Raw (No Heat)",
+    "flavors": [
+      "เปรี้ยวหวานละมุน",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Gentle Sweet and Sour",
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น / อุณหภูมิห้อง",
+    "serving_temperature_en": "Cold / Room Temperature"
+  },
+  {
+    "collection": "japanese",
+    "name": "เทมปุระกุ้ง (Ebi Tempura)",
+    "name_en": "Shrimp Tempura (Ebi Tempura)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
     "dish_type": "ของทอด",
+    "dish_type_en": "Fried Dish",
     "main_ingredient": "กุ้ง",
+    "main_ingredient_en": "Shrimp",
     "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
     "cooking_method": "ทอด",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็มหวานอ่อนๆ"
+    ],
+    "flavors_en": [
+      "Slightly Sweet and Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "japanese",
-    "name": "อุด้ง",
+    "name": "ข้าวหน้าแกงกะหรี่หมูทอด (Katsu Curry)",
+    "name_en": "Katsu Curry",
     "country": "ญี่ปุ่น",
+    "country_en": "Japan",
     "continent": "เอเชีย",
-    "dish_type": "เส้น",
-    "main_ingredient": "แป้ง",
-    "ingredient_group": "ธัญพืช",
-    "cooking_method": "ต้ม",
-    "flavors": ["เค็ม"],
-    "spice_level": 0,
-    "serving_temperature": "ร้อน"
-  },
-  {
-    "collection": "japanese",
-    "name": "โซบะ",
-    "country": "ญี่ปุ่น",
-    "continent": "เอเชีย",
-    "dish_type": "เส้น",
-    "main_ingredient": "บักวีต",
-    "ingredient_group": "ธัญพืช",
-    "cooking_method": "ต้ม",
-    "flavors": ["เค็ม"],
-    "spice_level": 0,
-    "serving_temperature": "เย็น"
-  },
-  {
-    "collection": "japanese",
-    "name": "โอโคโนมิยากิ",
-    "country": "ญี่ปุ่น",
-    "continent": "เอเชีย",
-    "dish_type": "แป้ง",
-    "main_ingredient": "กะหล่ำปลี",
-    "ingredient_group": "ผัก",
-    "cooking_method": "ย่าง",
-    "flavors": ["หวาน", "เค็ม"],
-    "spice_level": 0,
-    "serving_temperature": "ร้อน"
-  },
-  {
-    "collection": "japanese",
-    "name": "ทงคัตสึ",
-    "country": "ญี่ปุ่น",
-    "continent": "เอเชีย",
-    "dish_type": "ของทอด",
-    "main_ingredient": "หมู",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ข้าวหน้า",
+    "dish_type_en": "Rice Bowl",
+    "main_ingredient": "หมูสามชั้น / สันนอกทอด",
+    "main_ingredient_en": "Pork Belly / Fried Pork Loin",
     "ingredient_group": "เนื้อสัตว์",
-    "cooking_method": "ทอด",
-    "flavors": ["เค็ม"],
-    "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "ingredient_group_en": "Meat",
+    "cooking_method": "เคี่ยว / ทอด",
+    "cooking_method_en": "Simmered / Fried",
+    "flavors": [
+      "เผ็ดหวาน",
+      "กลมกล่อม"
+    ],
+    "flavors_en": [
+      "Spicy and Sweet",
+      "Well-balanced"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "japanese",
-    "name": "ข้าวแกงกะหรี่",
+    "name": "ทาโกะยากิ (Takoyaki)",
+    "name_en": "Takoyaki",
     "country": "ญี่ปุ่น",
+    "country_en": "Japan",
     "continent": "เอเชีย",
-    "dish_type": "ข้าว",
-    "main_ingredient": "ไก่",
-    "ingredient_group": "สัตว์ปีก",
-    "cooking_method": "ต้ม",
-    "flavors": ["หวาน", "เผ็ด"],
-    "spice_level": 1,
-    "serving_temperature": "ร้อน"
-  },
-  {
-    "collection": "japanese",
-    "name": "ยากิโทริ",
-    "country": "ญี่ปุ่น",
-    "continent": "เอเชีย",
-    "dish_type": "ของย่าง",
-    "main_ingredient": "ไก่",
-    "ingredient_group": "สัตว์ปีก",
-    "cooking_method": "ย่าง",
-    "flavors": ["หวาน", "เค็ม"],
-    "spice_level": 0,
-    "serving_temperature": "ร้อน"
-  },
-  {
-    "collection": "japanese",
-    "name": "โอนิกิริ",
-    "country": "ญี่ปุ่น",
-    "continent": "เอเชีย",
-    "dish_type": "ข้าว",
-    "main_ingredient": "ปลา",
+    "continent_en": "Asia",
+    "region": "คันไซ (โอซาก้า)",
+    "region_en": "Kansai (Osaka)",
+    "dish_type": "ของกินเล่น",
+    "dish_type_en": "Nibble",
+    "main_ingredient": "หนวดหมึกยักษ์",
+    "main_ingredient_en": "Octopus Tentacle",
     "ingredient_group": "อาหารทะเล",
-    "cooking_method": "สด",
-    "flavors": ["เค็ม"],
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ย่าง / ทอดบนเตาหลุม",
+    "cooking_method_en": "Grilled / Fried on Pit Stove",
+    "flavors": [
+      "เค็มหวาน",
+      "กลมกล่อม"
+    ],
+    "flavors_en": [
+      "Sweet and Salty",
+      "Well-balanced"
+    ],
     "spice_level": 0,
-    "serving_temperature": "อุ่น"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "japanese",
-    "name": "ทาโกยากิ",
+    "name": "โอโคโนมิยากิ (Okonomiyaki)",
+    "name_en": "Okonomiyaki",
     "country": "ญี่ปุ่น",
+    "country_en": "Japan",
     "continent": "เอเชีย",
-    "dish_type": "ของว่าง",
-    "main_ingredient": "หมึกยักษ์",
-    "ingredient_group": "อาหารทะเล",
-    "cooking_method": "ทอด",
-    "flavors": ["เค็ม", "หวาน"],
+    "continent_en": "Asia",
+    "region": "คันไซ / ฮิโรชิม่า",
+    "region_en": "Kansai / Hiroshima",
+    "dish_type": "พิซซ่าญี่ปุ่น",
+    "dish_type_en": "Japanese-style Pizza",
+    "main_ingredient": "กะหล่ำปลี / หมูสามชั้น",
+    "main_ingredient_en": "Cabbage / Pork Belly",
+    "ingredient_group": "เนื้อสัตว์และผัก",
+    "ingredient_group_en": "Meat and Vegetables",
+    "cooking_method": "ย่างบนกระทะเหล็ก (ทิปปัน)",
+    "cooking_method_en": "Grilled on Iron Plate (Teppan)",
+    "flavors": [
+      "เค็มหวาน",
+      "กลมกล่อม"
+    ],
+    "flavors_en": [
+      "Sweet and Salty",
+      "Well-balanced"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "japanese",
-    "name": "ซาชิมิ",
+    "name": "ซุปมิโซะ (Miso Soup)",
+    "name_en": "Miso Soup",
     "country": "ญี่ปุ่น",
+    "country_en": "Japan",
     "continent": "เอเชีย",
-    "dish_type": "อาหารดิบ",
-    "main_ingredient": "ปลา",
-    "ingredient_group": "อาหารทะเล",
-    "cooking_method": "สด",
-    "flavors": ["เค็ม"],
-    "spice_level": 0,
-    "serving_temperature": "เย็น"
-  },
-  {
-    "collection": "japanese",
-    "name": "มิโซะซุป",
-    "country": "ญี่ปุ่น",
-    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
     "dish_type": "ซุป",
-    "main_ingredient": "เต้าหู้",
-    "ingredient_group": "พืช",
+    "dish_type_en": "Soup",
+    "main_ingredient": "เต้าหู้ / สาหร่าย / มิโซะ",
+    "main_ingredient_en": "Tofu / Seaweed / Miso",
+    "ingredient_group": "ถั่วเหลืองและพืชทะเล",
+    "ingredient_group_en": "Soybeans and Sea Plants",
     "cooking_method": "ต้ม",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม",
+      "กลมกล่อม"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Well-balanced"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "japanese",
-    "name": "ชาบูชาบู",
+    "name": "สุกี้ยากี้เนื้อ (Beef Sukiyaki)",
+    "name_en": "Beef Sukiyaki",
     "country": "ญี่ปุ่น",
+    "country_en": "Japan",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
     "dish_type": "หม้อไฟ",
-    "main_ingredient": "เนื้อวัว",
+    "dish_type_en": "Hot Pot",
+    "main_ingredient": "เนื้อวัวสไลซ์",
+    "main_ingredient_en": "Sliced Beef",
     "ingredient_group": "เนื้อสัตว์",
-    "cooking_method": "ต้ม",
-    "flavors": ["เค็ม"],
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ต้มเคี่ยว",
+    "cooking_method_en": "Boiled and Simmered",
+    "flavors": [
+      "หวาน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "japanese",
-    "name": "สุกี้ยากี้",
+    "name": "ชาบู ชาบู (Shabu-Shabu)",
+    "name_en": "Shabu-Shabu",
     "country": "ญี่ปุ่น",
+    "country_en": "Japan",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
     "dish_type": "หม้อไฟ",
-    "main_ingredient": "เนื้อวัว",
+    "dish_type_en": "Hot Pot",
+    "main_ingredient": "เนื้อวัวสไลซ์ / หมูสไลซ์",
+    "main_ingredient_en": "Sliced Beef / Sliced Pork",
     "ingredient_group": "เนื้อสัตว์",
-    "cooking_method": "ต้ม",
-    "flavors": ["หวาน", "เค็ม"],
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ลวก",
+    "cooking_method_en": "Blanched",
+    "flavors": [
+      "กลมกล่อม",
+      "เปรี้ยวอมหวาน (พอนซึ)"
+    ],
+    "flavors_en": [
+      "Well-balanced",
+      "Sweet-Sour (Ponzu)"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "japanese",
-    "name": "คัตสึด้ง",
+    "name": "ยากิโซบะ (Yakisoba)",
+    "name_en": "Yakisoba",
     "country": "ญี่ปุ่น",
+    "country_en": "Japan",
     "continent": "เอเชีย",
-    "dish_type": "ข้าว",
-    "main_ingredient": "หมู",
-    "ingredient_group": "เนื้อสัตว์",
-    "cooking_method": "ทอด",
-    "flavors": ["หวาน", "เค็ม"],
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "บะหมี่ผัด",
+    "dish_type_en": "Stir-fried Noodles",
+    "main_ingredient": "เส้นโซบะเหลือง / หมู",
+    "main_ingredient_en": "Yellow Soba Noodles / Pork",
+    "ingredient_group": "เนื้อสัตว์และแป้ง",
+    "ingredient_group_en": "Meat and Flour",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็มหวาน",
+      "เปรี้ยวปลาย"
+    ],
+    "flavors_en": [
+      "Sweet and Salty",
+      "Sour Aftertaste"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "japanese",
-    "name": "เกี๊ยวซ่า",
+    "name": "ซารุโซบะ (Zaru Soba)",
+    "name_en": "Zaru Soba",
     "country": "ญี่ปุ่น",
+    "country_en": "Japan",
     "continent": "เอเชีย",
-    "dish_type": "ของว่าง",
-    "main_ingredient": "หมู",
-    "ingredient_group": "เนื้อสัตว์",
-    "cooking_method": "ทอด",
-    "flavors": ["เค็ม"],
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "บะหมี่เย็น",
+    "dish_type_en": "Cold Noodles",
+    "main_ingredient": "เส้นบัควีท (โซบะ)",
+    "main_ingredient_en": "Buckwheat Noodles (Soba)",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ต้มแล้วน็อกน้ำเย็น",
+    "cooking_method_en": "Boiled then Shocked in Cold Water",
+    "flavors": [
+      "เค็มหวานหอมโชยุ",
+      "กลมกล่อม"
+    ],
+    "flavors_en": [
+      "Salty-Sweet Soy Sauce Aroma",
+      "Well-balanced"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
   },
   {
     "collection": "japanese",
-    "name": "ข้าวหน้าปลาไหล",
+    "name": "อุด้งแกงกะหรี่ (Curry Udon)",
+    "name_en": "Curry Udon",
     "country": "ญี่ปุ่น",
+    "country_en": "Japan",
     "continent": "เอเชีย",
-    "dish_type": "ข้าว",
-    "main_ingredient": "ปลาไหล",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "บะหมี่",
+    "dish_type_en": "Wheat Noodles",
+    "main_ingredient": "เส้นอุด้ง / เนื้อวัว",
+    "main_ingredient_en": "Udon Noodles / Beef",
+    "ingredient_group": "แป้งและเนื้อสัตว์",
+    "ingredient_group_en": "Flour and Meat",
+    "cooking_method": "ต้มเคี่ยว",
+    "cooking_method_en": "Boiled and Simmered",
+    "flavors": [
+      "เผ็ดกลมกล่อม",
+      "เค็มหวาน"
+    ],
+    "flavors_en": [
+      "Balanced Spicy",
+      "Sweet and Salty"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "กิวด้ง (Gyudon - ข้าวหน้าเนื้อ)",
+    "name_en": "Gyudon (Beef Rice Bowl)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ข้าวหน้า",
+    "dish_type_en": "Rice Bowl",
+    "main_ingredient": "เนื้อวัวสไลซ์ / หอมใหญ่",
+    "main_ingredient_en": "Sliced Beef / Onion",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ต้มเคี่ยว",
+    "cooking_method_en": "Boiled and Simmered",
+    "flavors": [
+      "หวาน",
+      "เค็มกลมกล่อม"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Balanced Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "โอยาโกะด้ง (Oyakodon - ข้าวหน้าไก่และไข่)",
+    "name_en": "Oyakodon (Chicken and Egg Rice Bowl)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ข้าวหน้า",
+    "dish_type_en": "Rice Bowl",
+    "main_ingredient": "เนื้อไก่ / ไข่ไก่",
+    "main_ingredient_en": "Chicken / Egg",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ต้มเคี่ยว",
+    "cooking_method_en": "Boiled and Simmered",
+    "flavors": [
+      "หวาน",
+      "เค็มอ่อนๆ"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Slightly Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "คัตสึด้ง (Katsudon - ข้าวหน้าหมูทอดไข่)",
+    "name_en": "Katsudon (Fried Pork and Egg Rice Bowl)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ข้าวหน้า",
+    "dish_type_en": "Rice Bowl",
+    "main_ingredient": "หมูทอด (ทงคัตสึ) / ไข่ไก่",
+    "main_ingredient_en": "Fried Pork (Tonkatsu) / Egg",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ทอดและต้มเคี่ยว",
+    "cooking_method_en": "Fried and Simmered",
+    "flavors": [
+      "หวาน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "อูนางิ ดอนบุริ (Unadon - ข้าวหน้าปลาไหลย่าง)",
+    "name_en": "Unadon (Grilled Eel Rice Bowl)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ชูบุ (ไอจิ / ชิซูโอกะ)",
+    "region_en": "Chubu (Aichi / Shizuoka)",
+    "dish_type": "ข้าวหน้า",
+    "dish_type_en": "Rice Bowl",
+    "main_ingredient": "ปลาไหลน้ำจืด",
+    "main_ingredient_en": "Freshwater Eel",
     "ingredient_group": "อาหารทะเล",
-    "cooking_method": "ย่าง",
-    "flavors": ["หวาน", "เค็ม"],
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "นึ่งและย่างซอส",
+    "cooking_method_en": "Steamed and Sauce-grilled",
+    "flavors": [
+      "หวาน",
+      "เค็มกลมกล่อม"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Balanced Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ซาชิมิรวม (Sashimi Moriawase)",
+    "name_en": "Assorted Sashimi (Sashimi Moriawase)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ปลาดิบ",
+    "dish_type_en": "Raw Fish (Sashimi)",
+    "main_ingredient": "เนื้อปลาทะเลสดต่างๆ",
+    "main_ingredient_en": "Assorted Fresh Sea Fish",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "สด (ไม่ปรุงด้วยความร้อน)",
+    "cooking_method_en": "Raw (No Heat)",
+    "flavors": [
+      "หวานธรรมชาติ",
+      "เค็ม (จากโชยุ)"
+    ],
+    "flavors_en": [
+      "Naturally Sweet",
+      "Salty (from Soy Sauce)"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "japanese",
+    "name": "ไก่ย่างเสียบไม้ (Yakitori)",
+    "name_en": "Yakitori (Grilled Chicken Skewers)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ปิ้งย่าง",
+    "dish_type_en": "Grilled/BBQ",
+    "main_ingredient": "เนื้อไก่",
+    "main_ingredient_en": "Chicken",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ย่างถ่าน",
+    "cooking_method_en": "Charcoal-grilled",
+    "flavors": [
+      "เค็ม",
+      "หวาน (ซอสทาเร่)"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Sweet (Tare Sauce)"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "เกี๊ยวซ่า (Gyoza)",
+    "name_en": "Gyoza",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "โทจิกิ (อุตสึโนมิยะ)",
+    "region_en": "Tochigi (Utsunomiya)",
+    "dish_type": "ของกินเล่น",
+    "dish_type_en": "Nibble",
+    "main_ingredient": "หมูสับ / กะหล่ำปลี",
+    "main_ingredient_en": "Minced Pork / Cabbage",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ทอดแนบกระทะและนึ่ง",
+    "cooking_method_en": "Pan-fried and Steamed",
+    "flavors": [
+      "เค็มกลมกล่อม",
+      "เผ็ดเปรี้ยว (น้ำจิ้ม)"
+    ],
+    "flavors_en": [
+      "Balanced Salty",
+      "Spicy and Sour (Dipping Sauce)"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "โอเด้ง (Oden)",
+    "name_en": "Oden",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คันโต",
+    "region_en": "Kanto",
+    "dish_type": "ต้มสตูว์ / หม้อไฟ",
+    "dish_type_en": "Stew / Hot Pot",
+    "main_ingredient": "หัวไชเท้า / ลูกชิ้นปลา / บุก",
+    "main_ingredient_en": "Daikon Radish / Fish Balls / Konjac",
+    "ingredient_group": "แป้งและอาหารทะเล",
+    "ingredient_group_en": "Flour and Seafood",
+    "cooking_method": "เคี่ยว",
+    "cooking_method_en": "Simmered",
+    "flavors": [
+      "เค็มอ่อนๆ",
+      "กลมกล่อม"
+    ],
+    "flavors_en": [
+      "Slightly Salty",
+      "Well-balanced"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "การาอาเกะ (Tori no Karaage)",
+    "name_en": "Karaage (Japanese Fried Chicken)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คิวชู (โออิตะ)",
+    "region_en": "Kyushu (Oita)",
+    "dish_type": "ของทอด",
+    "dish_type_en": "Fried Dish",
+    "main_ingredient": "สะโพกไก่",
+    "main_ingredient_en": "Chicken Thigh",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "หมักและทอด",
+    "cooking_method_en": "Marinated and Fried",
+    "flavors": [
+      "เค็มกลมกล่อม",
+      "หอมโชยุขิง"
+    ],
+    "flavors_en": [
+      "Balanced Salty",
+      "Soy Sauce-Ginger Aroma"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "โอนิกิริ (Onigiri - ข้าวปั้นห่อสาหร่าย)",
+    "name_en": "Onigiri (Seaweed-wrapped Rice Ball)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ข้าวปั้น",
+    "dish_type_en": "Rice Ball (Onigiri)",
+    "main_ingredient": "ข้าวญี่ปุ่น / แซลมอน / บ๊วยเค็ม",
+    "main_ingredient_en": "Japanese Rice / Salmon / Salted Plum",
+    "ingredient_group": "คาร์โบไฮเดรต",
+    "ingredient_group_en": "Carbohydrates",
+    "cooking_method": "ปั้น",
+    "cooking_method_en": "Molded/Shaped",
+    "flavors": [
+      "เค็มอ่อนๆ"
+    ],
+    "flavors_en": [
+      "Slightly Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "japanese",
+    "name": "ไก่ทอดนัมบัง (Chicken Namban)",
+    "name_en": "Chicken Namban",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คิวชู (มิยาซากิ)",
+    "region_en": "Kyushu (Miyazaki)",
+    "dish_type": "จานหลัก",
+    "dish_type_en": "Main Dish",
+    "main_ingredient": "ไก่ทอดซอสเปรี้ยวหวาน / ทาร์ทาร์ซอส",
+    "main_ingredient_en": "Sweet and Sour Fried Chicken / Tartar Sauce",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ทอดและราดซอส",
+    "cooking_method_en": "Fried and Sauced",
+    "flavors": [
+      "เปรี้ยวหวาน",
+      "มันกลมกล่อม"
+    ],
+    "flavors_en": [
+      "Sweet and Sour",
+      "Rich and Balanced"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ฮามาจิ คามะ (Hamachi Kama - แก้มปลาฮามาจิย่าง)",
+    "name_en": "Hamachi Kama (Grilled Yellowtail Collar)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ปิ้งย่าง",
+    "dish_type_en": "Grilled/BBQ",
+    "main_ingredient": "แก้มปลาฮามาจิ",
+    "main_ingredient_en": "Yellowtail Collar",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ย่างเกลือ",
+    "cooking_method_en": "Salt-grilled",
+    "flavors": [
+      "เค็ม",
+      "มันธรรมชาติ"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Naturally Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ชาบูกิเนื้อปลาปักเป้า (Fugu Chiri)",
+    "name_en": "Fugu Chiri (Pufferfish Hot Pot)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ชูโกกุ (ยามางุจิ)",
+    "region_en": "Chugoku (Yamaguchi)",
+    "dish_type": "หม้อไฟ",
+    "dish_type_en": "Hot Pot",
+    "main_ingredient": "เนื้อปลาปักเป้า",
+    "main_ingredient_en": "Pufferfish",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "รสอ่อนธรรมชาติ",
+      "เปรี้ยวอมหวาน"
+    ],
+    "flavors_en": [
+      "Naturally Mild",
+      "Sweet-Sour"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ซารุอุด้ง (Zaru Udon)",
+    "name_en": "Zaru Udon",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ชิโกกุ (คากาวะ)",
+    "region_en": "Shikoku (Kagawa)",
+    "dish_type": "บะหมี่เย็น",
+    "dish_type_en": "Cold Noodles",
+    "main_ingredient": "เส้นอุด้ง",
+    "main_ingredient_en": "Udon Noodles",
+    "ingredient_group": "แป้ง",
+    "ingredient_group_en": "Flour",
+    "cooking_method": "ต้มแล้วน็อกน้ำเย็น",
+    "cooking_method_en": "Boiled then Shocked in Cold Water",
+    "flavors": [
+      "เค็มหวานกลมกล่อม"
+    ],
+    "flavors_en": [
+      "Balanced Sweet and Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "japanese",
+    "name": "ทงคัตสึ (Tonkatsu - หมูชุบแป้งทอด)",
+    "name_en": "Tonkatsu (Breaded Fried Pork Cutlet)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ของทอด",
+    "dish_type_en": "Fried Dish",
+    "main_ingredient": "สันนอก / สันในหมู",
+    "main_ingredient_en": "Pork Loin / Pork Tenderloin",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็มหวาน (ซอสราด)"
+    ],
+    "flavors_en": [
+      "Sweet-Salty (Sauce)"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ซาบะย่างซีอิ๊ว (Saba Shioyaki / Teriyaki)",
+    "name_en": "Grilled Mackerel (Saba Shioyaki / Teriyaki)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ปิ้งย่าง",
+    "dish_type_en": "Grilled/BBQ",
+    "main_ingredient": "ปลาซาบะ",
+    "main_ingredient_en": "Mackerel",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เค็ม",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ฮิยาชิ ชูกะ (Hiyashi Chuka - บะหมี่เย็นทรงเครื่อง)",
+    "name_en": "Hiyashi Chuka (Cold Noodle Salad)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "โทโฮกุ (มิยางิ)",
+    "region_en": "Tohoku (Miyagi)",
+    "dish_type": "บะหมี่เย็น",
+    "dish_type_en": "Cold Noodles",
+    "main_ingredient": "เส้นราเมง / แฮม / แตงกวา / ไข่เส้น",
+    "main_ingredient_en": "Ramen Noodles / Ham / Cucumber / Shredded Egg",
+    "ingredient_group": "แป้งและเนื้อสัตว์",
+    "ingredient_group_en": "Flour and Meat",
+    "cooking_method": "ลวกและเสิร์ฟเย็น",
+    "cooking_method_en": "Blanched and Served Cold",
+    "flavors": [
+      "เปรี้ยวหวาน",
+      "สดชื่น"
+    ],
+    "flavors_en": [
+      "Sweet and Sour",
+      "Refreshing"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "japanese",
+    "name": "ชาชูด้ง (Chashu Don)",
+    "name_en": "Chashu Don (Braised Pork Rice Bowl)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ข้าวหน้า",
+    "dish_type_en": "Rice Bowl",
+    "main_ingredient": "หมูชาชูตุ๋น",
+    "main_ingredient_en": "Braised Chashu Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ตุ๋นและลนไฟ",
+    "cooking_method_en": "Braised and Flame-seared",
+    "flavors": [
+      "เค็มหวาน",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Sweet and Salty",
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ไข่ตุ๋นญี่ปุ่น (Chawanmushi)",
+    "name_en": "Chawanmushi (Savory Egg Custard)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "เครื่องเคียง / อาหารทานเล่น",
+    "dish_type_en": "Accompaniment / Snack",
+    "main_ingredient": "ไข่ไก่ / น้ำสต๊อกดาชิ / แปะก๊วย",
+    "main_ingredient_en": "Egg / Dashi Stock / Ginkgo Nut",
+    "ingredient_group": "ไข่",
+    "ingredient_group_en": "Eggs",
+    "cooking_method": "นึ่ง",
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "เค็มอ่อนๆ",
+      "กลมกล่อม"
+    ],
+    "flavors_en": [
+      "Slightly Salty",
+      "Well-balanced"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "สตูว์เนื้อสไตล์ญี่ปุ่น (Nikujaga)",
+    "name_en": "Nikujaga (Japanese Beef and Potato Stew)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ต้มสตูว์",
+    "dish_type_en": "Stew",
+    "main_ingredient": "เนื้อวัว / มันฝรั่ง / แครอท",
+    "main_ingredient_en": "Beef / Potato / Carrot",
+    "ingredient_group": "เนื้อสัตว์และผัก",
+    "ingredient_group_en": "Meat and Vegetables",
+    "cooking_method": "เคี่ยว",
+    "cooking_method_en": "Simmered",
+    "flavors": [
+      "หวาน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "เนกิมะ (Negima - ไก่ย่างต้นหอมญี่ปุ่น)",
+    "name_en": "Negima (Grilled Chicken and Leek Skewers)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ปิ้งย่าง",
+    "dish_type_en": "Grilled/BBQ",
+    "main_ingredient": "สะโพกไก่ / ต้นหอมญี่ปุ่น",
+    "main_ingredient_en": "Chicken Thigh / Japanese Leek",
+    "ingredient_group": "เนื้อสัตว์และผัก",
+    "ingredient_group_en": "Meat and Vegetables",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เค็ม",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "สลัดมันฝรั่งญี่ปุ่น (Potato Salad)",
+    "name_en": "Japanese Potato Salad",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "เครื่องเคียง",
+    "dish_type_en": "Accompaniment",
+    "main_ingredient": "มันฝรั่งบด / มายองเนสญี่ปุ่น",
+    "main_ingredient_en": "Mashed Potato / Japanese Mayonnaise",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ต้มและคลุก",
+    "cooking_method_en": "Boiled and Tossed",
+    "flavors": [
+      "มัน",
+      "เปรี้ยวอมหวานอ่อนๆ"
+    ],
+    "flavors_en": [
+      "Rich",
+      "Lightly Sweet-Sour"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "japanese",
+    "name": "ถั่วแระญี่ปุ่น (Edamame)",
+    "name_en": "Edamame",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ของกินเล่น",
+    "dish_type_en": "Nibble",
+    "main_ingredient": "ถั่วแระญี่ปุ่น",
+    "main_ingredient_en": "Edamame",
+    "ingredient_group": "ผักและถั่ว",
+    "ingredient_group_en": "Vegetables and Beans",
+    "cooking_method": "ต้มโรยเกลือ",
+    "cooking_method_en": "Boiled with Salt",
+    "flavors": [
+      "เค็ม",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง / เย็น",
+    "serving_temperature_en": "Room Temperature / Cold"
+  },
+  {
+    "collection": "japanese",
+    "name": "นัตโตะ (Natto - ถั่วเน่า)",
+    "name_en": "Natto (Fermented Soybeans)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คันโต (อิบารากิ)",
+    "region_en": "Kanto (Ibaraki)",
+    "dish_type": "เครื่องเคียง",
+    "dish_type_en": "Accompaniment",
+    "main_ingredient": "ถั่วเหลืองหมัก",
+    "main_ingredient_en": "Fermented Soybeans",
+    "ingredient_group": "ถั่วเหลือง",
+    "ingredient_group_en": "Soybeans",
+    "cooking_method": "หมัก",
+    "cooking_method_en": "Marinated",
+    "flavors": [
+      "เค็มกลมกล่อม",
+      "ฉุนหมักเฉพาะตัว"
+    ],
+    "flavors_en": [
+      "Balanced Salty",
+      "Distinctively Pungent (Fermented)"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "japanese",
+    "name": "ตับหมูผัดกุยช่าย (Rebanira)",
+    "name_en": "Rebanira (Stir-fried Liver and Chives)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
+    "main_ingredient": "ตับหมู / ใบกุยช่าย / ถั่วงอก",
+    "main_ingredient_en": "Pork Liver / Chinese Chives / Bean Sprouts",
+    "ingredient_group": "เครื่องในสัตว์และผัก",
+    "ingredient_group_en": "Offal and Vegetables",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม",
+      "หอมน้ำมันหอยกลมกล่อม"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Balanced Oyster Sauce Aroma"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "เต้าหู้เย็น (Hiyayakko)",
+    "name_en": "Hiyayakko (Cold Tofu)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "เครื่องเคียง",
+    "dish_type_en": "Accompaniment",
+    "main_ingredient": "เต้าหู้คินุ (เต้าหู้อ่อน) / ปลาโอแห้ง",
+    "main_ingredient_en": "Silken Tofu / Dried Bonito Flakes",
+    "ingredient_group": "ถั่วเหลือง",
+    "ingredient_group_en": "Soybeans",
+    "cooking_method": "สด (เสิร์ฟเย็น)",
+    "cooking_method_en": "Raw (Served Cold)",
+    "flavors": [
+      "เค็มโชยุ",
+      "กลมกล่อมสดชื่น"
+    ],
+    "flavors_en": [
+      "Salty Soy Sauce",
+      "Balanced and Refreshing"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "japanese",
+    "name": "เท็นด้ง (Tendon - ข้าวหน้าเทมปุระ)",
+    "name_en": "Tendon (Tempura Rice Bowl)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คันโต (โตเกียว)",
+    "region_en": "Kanto (Tokyo)",
+    "dish_type": "ข้าวหน้า",
+    "dish_type_en": "Rice Bowl",
+    "main_ingredient": "เทมปุระกุ้งและผัก",
+    "main_ingredient_en": "Shrimp and Vegetable Tempura",
+    "ingredient_group": "อาหารทะเลและผัก",
+    "ingredient_group_en": "Seafood and Vegetables",
+    "cooking_method": "ทอดและราดซอส",
+    "cooking_method_en": "Fried and Sauced",
+    "flavors": [
+      "หวาน",
+      "เค็มกลมกล่อม"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Balanced Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "จังโกะนาเบะ (Chanko Nabe)",
+    "name_en": "Chanko Nabe (Sumo Wrestler Hot Pot)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คันโต (โตเกียว)",
+    "region_en": "Kanto (Tokyo)",
+    "dish_type": "หม้อไฟ",
+    "dish_type_en": "Hot Pot",
+    "main_ingredient": "ไก่ / ลูกชิ้นบด / ผักรวม",
+    "main_ingredient_en": "Chicken / Meatballs / Mixed Vegetables",
+    "ingredient_group": "เนื้อสัตว์และผัก",
+    "ingredient_group_en": "Meat and Vegetables",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็มกลมกล่อม"
+    ],
+    "flavors_en": [
+      "Balanced Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "คิสึเนะอุด้ง (Kitsune Udon)",
+    "name_en": "Kitsune Udon",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คันไซ (โอซาก้า)",
+    "region_en": "Kansai (Osaka)",
+    "dish_type": "บะหมี่",
+    "dish_type_en": "Wheat Noodles",
+    "main_ingredient": "เส้นอุด้ง / เต้าหู้ทอดหวาน",
+    "main_ingredient_en": "Udon Noodles / Sweet Fried Tofu",
+    "ingredient_group": "แป้งและถั่วเหลือง",
+    "ingredient_group_en": "Flour and Soybeans",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "หวานอ่อนๆ",
+      "เค็มกลมกล่อม"
+    ],
+    "flavors_en": [
+      "Slightly Sweet",
+      "Balanced Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ดันโกะ (Mitarashi Dango)",
+    "name_en": "Mitarashi Dango",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คันไซ (เกียวโต)",
+    "region_en": "Kansai (Kyoto)",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "แป้งข้าวต้ม / ซอสโชยุหวาน",
+    "main_ingredient_en": "Rice Flour Dumplings / Sweet Soy Sauce",
+    "ingredient_group": "แป้ง",
+    "ingredient_group_en": "Flour",
+    "cooking_method": "ต้มและย่าง",
+    "cooking_method_en": "Boiled and Grilled",
+    "flavors": [
+      "หวาน",
+      "เค็มปลาย"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Salty Aftertaste"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง / อุ่น",
+    "serving_temperature_en": "Room Temperature / Warm"
+  },
+  {
+    "collection": "japanese",
+    "name": "โมจิถั่วแดง (Daifuku)",
+    "name_en": "Daifuku (Red Bean Mochi)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "แป้งโมจิ / ถั่วแดงบด",
+    "main_ingredient_en": "Mochi Flour / Sweet Red Bean Paste",
+    "ingredient_group": "แป้งและถั่ว",
+    "ingredient_group_en": "Flour and Beans",
+    "cooking_method": "นึ่งและปั้น",
+    "cooking_method_en": "Steamed and Shaped",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น / อุณหภูมิห้อง",
+    "serving_temperature_en": "Cold / Room Temperature"
+  },
+  {
+    "collection": "japanese",
+    "name": "ชาเคะ โอชาสึเกะ (Salmon Ochazuke - ข้าวต้มชาแซลมอน)",
+    "name_en": "Salmon Ochazuke (Tea over Rice)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ข้าวต้ม",
+    "dish_type_en": "Rice Porridge",
+    "main_ingredient": "ข้าวสวย / แซลมอนย่าง / น้ำชาเขียว-ดาชิ",
+    "main_ingredient_en": "Rice / Grilled Salmon / Green Tea-Dashi Broth",
+    "ingredient_group": "คาร์โบไฮเดรตและปลา",
+    "ingredient_group_en": "Carbohydrates and Fish",
+    "cooking_method": "ราดน้ำชา",
+    "cooking_method_en": "Poured with Tea",
+    "flavors": [
+      "เค็มอ่อนๆ",
+      "หอมชาเขียว"
+    ],
+    "flavors_en": [
+      "Slightly Salty",
+      "Green Tea Aroma"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ยากิโทริ ไส้หมู/พุงหมู (Yakiton)",
+    "name_en": "Yakiton (Grilled Pork Offal Skewers)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คันโต",
+    "region_en": "Kanto",
+    "dish_type": "ปิ้งย่าง",
+    "dish_type_en": "Grilled/BBQ",
+    "main_ingredient": "หมูสามชั้น / เครื่องในหมู",
+    "main_ingredient_en": "Pork Belly / Pork Offal",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ย่างถ่าน",
+    "cooking_method_en": "Charcoal-grilled",
+    "flavors": [
+      "เค็มเกลือ",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Salty (Salt)",
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ซาบะต้มมิโซะ (Saba no Misoni)",
+    "name_en": "Saba no Misoni (Mackerel Simmered in Miso)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ต้ม",
+    "dish_type_en": "Boiled Dish",
+    "main_ingredient": "ปลาซาบะ / เต้าเจี้ยวญี่ปุ่น (มิโซะ)",
+    "main_ingredient_en": "Mackerel / Japanese Miso",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ต้มเคี่ยว",
+    "cooking_method_en": "Boiled and Simmered",
+    "flavors": [
+      "หวาน",
+      "เค็มเข้มข้น"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Intensely Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ไส้หมูต้มมิโซะ (Motsu Nabe / Motsuni)",
+    "name_en": "Motsu Nabe (Offal Hot Pot)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คิวชู (ฟุกุโอกะ)",
+    "region_en": "Kyushu (Fukuoka)",
+    "dish_type": "หม้อไฟ",
+    "dish_type_en": "Hot Pot",
+    "main_ingredient": "ไส้วัว/หมู / กะหล่ำปลี / ใบกุยช่าย",
+    "main_ingredient_en": "Beef/Pork Offal / Cabbage / Chinese Chives",
+    "ingredient_group": "เครื่องในสัตว์และผัก",
+    "ingredient_group_en": "Offal and Vegetables",
+    "cooking_method": "ต้มเคี่ยว",
+    "cooking_method_en": "Boiled and Simmered",
+    "flavors": [
+      "เค็มกลมกล่อม",
+      "เผ็ดเล็กน้อย"
+    ],
+    "flavors_en": [
+      "Balanced Salty",
+      "Slightly Spicy"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "สากานะ โนะ นิมอนิ (ปลาดำต้มซีอิ๊ว)",
+    "name_en": "Sakana no Nimono (Fish Simmered in Soy Sauce)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ต้ม",
+    "dish_type_en": "Boiled Dish",
+    "main_ingredient": "เนื้อปลาทะเล / ขิง",
+    "main_ingredient_en": "Sea Fish / Ginger",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ต้มเคี่ยว",
+    "cooking_method_en": "Boiled and Simmered",
+    "flavors": [
+      "หวาน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ไก่ทอดซอสนัมบัง (Toriten)",
+    "name_en": "Toriten (Fried Chicken Tempura)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คิวชู (โออิตะ)",
+    "region_en": "Kyushu (Oita)",
+    "dish_type": "ของทอด",
+    "dish_type_en": "Fried Dish",
+    "main_ingredient": "เนื้อไก่ชุบแป้งเทมปุระทอด",
+    "main_ingredient_en": "Tempura-battered Fried Chicken",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็มเปรี้ยว (จิ้มพอนซึ)"
+    ],
+    "flavors_en": [
+      "Salty-Sour (Ponzu Dip)"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ฮามาจิ ซาชิมิ (Hamachi Sashimi)",
+    "name_en": "Hamachi Sashimi (Yellowtail Sashimi)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ปลาดิบ",
+    "dish_type_en": "Raw Fish (Sashimi)",
+    "main_ingredient": "ปลาบุริ / ฮามาจิสด",
+    "main_ingredient_en": "Buri / Fresh Hamachi (Yellowtail)",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "สด",
+    "cooking_method_en": "Raw/Fresh",
+    "flavors": [
+      "หวานมันธรรมชาติ"
+    ],
+    "flavors_en": [
+      "Naturally Sweet and Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "japanese",
+    "name": "วาซาบิ เมชิ (Wasabi Meshi - ข้าวหน้าวาซาบิสด)",
+    "name_en": "Wasabi Meshi (Fresh Wasabi Rice Bowl)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ชูบุ (ชิซูโอกะ)",
+    "region_en": "Chubu (Shizuoka)",
+    "dish_type": "ข้าวหน้า",
+    "dish_type_en": "Rice Bowl",
+    "main_ingredient": "ข้าวสวย / วาซาบิสดขูด / ปลาโอแห้ง",
+    "main_ingredient_en": "Rice / Grated Fresh Wasabi / Dried Bonito Flakes",
+    "ingredient_group": "ผักและแป้ง",
+    "ingredient_group_en": "Vegetables and Flour",
+    "cooking_method": "คลุกสด",
+    "cooking_method_en": "Tossed Fresh",
+    "flavors": [
+      "เผ็ดขึ้นจมูก",
+      "เค็มโชยุ"
+    ],
+    "flavors_en": [
+      "Sinus-clearing Spicy",
+      "Salty Soy Sauce"
+    ],
+    "spice_level": 3,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ทาโกะวาซาบิ (Tako Wasabi)",
+    "name_en": "Tako Wasabi (Octopus with Wasabi)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "กับแกล้ม",
+    "dish_type_en": "Drinking Snack",
+    "main_ingredient": "หมึกยักษ์สด / วาซาบิ",
+    "main_ingredient_en": "Fresh Octopus / Wasabi",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "หมักสด",
+    "cooking_method_en": "Freshly Marinated",
+    "flavors": [
+      "เค็ม",
+      "เผ็ดฉุน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Pungent Spicy"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "japanese",
+    "name": "อิกะ ยาคิ (Ika Yaki - หมึกย่างซอส)",
+    "name_en": "Ika Yaki (Grilled Squid)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ปิ้งย่าง",
+    "dish_type_en": "Grilled/BBQ",
+    "main_ingredient": "หมึกกล้วย",
+    "main_ingredient_en": "Squid",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เค็มหวาน",
+      "หอมกลิ่นย่าง"
+    ],
+    "flavors_en": [
+      "Sweet and Salty",
+      "Grilled Aroma"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "เมนไตโกะ ปาสต้า (Mentaiko Pasta)",
+    "name_en": "Mentaiko Pasta",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ (ผสมตะวันตก)",
+    "region_en": "Nationwide (Western fusion)",
+    "dish_type": "พาสต้าสไตล์ญี่ปุ่น (โยโชกุ)",
+    "dish_type_en": "Japanese-style Pasta (Yoshoku)",
+    "main_ingredient": "เส้นสปาเก็ตตี้ / ไข่ปลาเมนไตโกะ / เนย",
+    "main_ingredient_en": "Spaghetti / Mentaiko (Spicy Cod Roe) / Butter",
+    "ingredient_group": "แป้งและอาหารทะเล",
+    "ingredient_group_en": "Flour and Seafood",
+    "cooking_method": "ต้มและคลุก",
+    "cooking_method_en": "Boiled and Tossed",
+    "flavors": [
+      "เค็มมัน",
+      "เผ็ดปลาย"
+    ],
+    "flavors_en": [
+      "Salty and Rich",
+      "Spicy Aftertaste"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "นากาซากิ จัมปง (Nagasaki Champon)",
+    "name_en": "Nagasaki Champon",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คิวชู (นากาซากิ)",
+    "region_en": "Kyushu (Nagasaki)",
+    "dish_type": "บะหมี่",
+    "dish_type_en": "Wheat Noodles",
+    "main_ingredient": "เส้นราเมง / อาหารทะเล / ผักผัด",
+    "main_ingredient_en": "Ramen Noodles / Seafood / Stir-fried Vegetables",
+    "ingredient_group": "อาหารทะเลและแป้ง",
+    "ingredient_group_en": "Seafood and Flour",
+    "cooking_method": "ผัดแล้วต้ม",
+    "cooking_method_en": "Stir-fried then Boiled",
+    "flavors": [
+      "เค็มเข้มข้น",
+      "กลมกล่อม"
+    ],
+    "flavors_en": [
+      "Intensely Salty",
+      "Well-balanced"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "โฮโต (Hoto)",
+    "name_en": "Hoto",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ชูบุ (ยามานาชิ)",
+    "region_en": "Chubu (Yamanashi)",
+    "dish_type": "ซุปบะหมี่",
+    "dish_type_en": "Noodle Soup",
+    "main_ingredient": "เส้นแบนหนา / ฟักทอง / ผักตามฤดูกาล",
+    "main_ingredient_en": "Thick Flat Noodles / Pumpkin / Seasonal Vegetables",
+    "ingredient_group": "แป้งและผัก",
+    "ingredient_group_en": "Flour and Vegetables",
+    "cooking_method": "ต้มเคี่ยวซุปมิโซะ",
+    "cooking_method_en": "Simmered in Miso Soup",
+    "flavors": [
+      "เค็มหวานอ่อนๆ"
+    ],
+    "flavors_en": [
+      "Slightly Sweet and Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "โดรายากิ (Dorayaki)",
+    "name_en": "Dorayaki",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "แป้งแพนเค้ก / ไส้ถั่วแดงหวาน",
+    "main_ingredient_en": "Pancake Batter / Sweet Red Bean Filling",
+    "ingredient_group": "แป้งและถั่ว",
+    "ingredient_group_en": "Flour and Beans",
+    "cooking_method": "ทอดแนบกระทะ",
+    "cooking_method_en": "Pan-fried",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "japanese",
+    "name": "ไทยากิ (Taiyaki - ขนมรังผึ้งรูปปลา)",
+    "name_en": "Taiyaki (Fish-shaped Cake)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "แป้งขนมปัง / ไส้ถั่วแดงหรือคัสตาร์ด",
+    "main_ingredient_en": "Bread Dough / Red Bean or Custard Filling",
+    "ingredient_group": "แป้ง",
+    "ingredient_group_en": "Flour",
+    "cooking_method": "อบแม่พิมพ์",
+    "cooking_method_en": "Baked in Mold",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ชิราทามา เมนไตโกะ (Shiratama Mentaiko)",
+    "name_en": "Shiratama Mentaiko (Spicy Cod Roe)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คิวชู (ฟุกุโอกะ)",
+    "region_en": "Kyushu (Fukuoka)",
+    "dish_type": "กับแกล้ม",
+    "dish_type_en": "Drinking Snack",
+    "main_ingredient": "ไข่ปลาเมนไตโกะหมักพริก",
+    "main_ingredient_en": "Chili-marinated Mentaiko (Spicy Cod Roe)",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "หมัก",
+    "cooking_method_en": "Marinated",
+    "flavors": [
+      "เค็ม",
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Spicy"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "japanese",
+    "name": "คัตสึซังโดะ (Katsu Sando - แซนด์วิชหมูทอด)",
+    "name_en": "Katsu Sando (Fried Pork Cutlet Sandwich)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ของกินเล่น / อาหารจานด่วน",
+    "dish_type_en": "Nibble / Fast Food",
+    "main_ingredient": "ขนมปังปอนด์ / ทงคัตสึ",
+    "main_ingredient_en": "Loaf Bread / Tonkatsu",
+    "ingredient_group": "เนื้อสัตว์และแป้ง",
+    "ingredient_group_en": "Meat and Flour",
+    "cooking_method": "ประกอบสด (ประกอบหมูทอด)",
+    "cooking_method_en": "Freshly Assembled (with Fried Pork)",
+    "flavors": [
+      "เค็มหวานซอส"
+    ],
+    "flavors_en": [
+      "Sweet Salty Sauce"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง / ร้อน",
+    "serving_temperature_en": "Room Temperature / Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ฮิโรชิม่า ยากิ (Hiroshimayaki)",
+    "name_en": "Hiroshimayaki",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ชูโกกุ (ฮิโรชิม่า)",
+    "region_en": "Chugoku (Hiroshima)",
+    "dish_type": "พิซซ่าญี่ปุ่น",
+    "dish_type_en": "Japanese-style Pizza",
+    "main_ingredient": "เส้นยากิโซบะ / กะหล่ำปลี / ไข่ / หมูสามชั้น",
+    "main_ingredient_en": "Yakisoba Noodles / Cabbage / Egg / Pork Belly",
+    "ingredient_group": "เนื้อสัตว์และแป้ง",
+    "ingredient_group_en": "Meat and Flour",
+    "cooking_method": "ย่างเป็นชั้นๆ บนกระทะเหล็ก",
+    "cooking_method_en": "Layer-grilled on Iron Plate",
+    "flavors": [
+      "เค็มหวานซอส"
+    ],
+    "flavors_en": [
+      "Sweet Salty Sauce"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "มอนจายากิ (Monjayaki)",
+    "name_en": "Monjayaki",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คันโต (โตเกียว)",
+    "region_en": "Kanto (Tokyo)",
+    "dish_type": "ของกินเล่น / ผัดกระทะร้อน",
+    "dish_type_en": "Nibble / Hot Wok Stir-fry",
+    "main_ingredient": "แป้งผสมน้ำสต๊อก / กะหล่ำปลี / กุ้ง / ชีส",
+    "main_ingredient_en": "Batter with Broth / Cabbage / Shrimp / Cheese",
+    "ingredient_group": "แป้งและผัก",
+    "ingredient_group_en": "Flour and Vegetables",
+    "cooking_method": "ผัดและจีบบนกระทะเหล็ก",
+    "cooking_method_en": "Stir-fried and Folded on Iron Plate",
+    "flavors": [
+      "เค็มกลมกล่อม",
+      "หอมไหม้เล็กน้อย"
+    ],
+    "flavors_en": [
+      "Balanced Salty",
+      "Slightly Charred Aroma"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "อุนากิ จู (Unaju - ข้าวหน้าปลาไหลกล่องไม้)",
+    "name_en": "Unaju (Grilled Eel in a Box)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ข้าวหน้า",
+    "dish_type_en": "Rice Bowl",
+    "main_ingredient": "ปลาไหลน้ำจืดเกรดพรีเมียม",
+    "main_ingredient_en": "Premium Freshwater Eel",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ย่างถ่านย่างซอส",
+    "cooking_method_en": "Charcoal-grilled with Sauce",
+    "flavors": [
+      "หวาน",
+      "เค็มเข้มข้น"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Intensely Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ฮิตสึมาบุชิ (Hitsumabushi)",
+    "name_en": "Hitsumabushi",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ชูบุ (นาโกย่า)",
+    "region_en": "Chubu (Nagoya)",
+    "dish_type": "ข้าวหน้าปลาไหลสไตล์นาโกย่า",
+    "dish_type_en": "Nagoya-style Eel Rice Bowl",
+    "main_ingredient": "ปลาไหลย่างสับ / น้ำสต๊อกชา",
+    "main_ingredient_en": "Chopped Grilled Eel / Tea Broth",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ย่างและทานหลายรูปแบบ",
+    "cooking_method_en": "Grilled, Served Multiple Ways",
+    "flavors": [
+      "หวานเค็ม",
+      "กลมกล่อม"
+    ],
+    "flavors_en": [
+      "Sweet and Salty",
+      "Well-balanced"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "คิริทันโปะ นาเบะ (Kiritanpo Nabe)",
+    "name_en": "Kiritanpo Nabe",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "โทโฮกุ (อากิตะ)",
+    "region_en": "Tohoku (Akita)",
+    "dish_type": "หม้อไฟ",
+    "dish_type_en": "Hot Pot",
+    "main_ingredient": "ข้าวพันไม้ปิ้ง / เนื้อไก่ฮินะอิ / ผัก",
+    "main_ingredient_en": "Grilled Rice Sticks / Hinai Chicken / Vegetables",
+    "ingredient_group": "แป้งและเนื้อสัตว์",
+    "ingredient_group_en": "Flour and Meat",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็มกลมกล่อมโชยุ"
+    ],
+    "flavors_en": [
+      "Balanced Salty Soy Sauce"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "คิสึเนะ โซบะ (Kitsune Soba)",
+    "name_en": "Kitsune Soba",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "บะหมี่",
+    "dish_type_en": "Wheat Noodles",
+    "main_ingredient": "เส้นโซบะ / เต้าหู้ทอดหวาน",
+    "main_ingredient_en": "Soba Noodles / Sweet Fried Tofu",
+    "ingredient_group": "ธัญพืชและถั่วเหลือง",
+    "ingredient_group_en": "Grains and Soybeans",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "หวานอ่อนๆ",
+      "เค็มกลมกล่อม"
+    ],
+    "flavors_en": [
+      "Slightly Sweet",
+      "Balanced Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "คาเซะ ดอน (Kaisen Don - ข้าวหน้าอาหารทะเลสด)",
+    "name_en": "Kaisen Don (Fresh Seafood Rice Bowl)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ฮอกไกโด",
+    "region_en": "Hokkaido",
+    "dish_type": "ข้าวหน้า",
+    "dish_type_en": "Rice Bowl",
+    "main_ingredient": "โฮตาเตะ / ไข่กุ้ง / แซลมอน / อูนิ",
+    "main_ingredient_en": "Scallop / Shrimp Roe / Salmon / Sea Urchin",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "สด (จัดวางบนข้าวซูชิ)",
+    "cooking_method_en": "Raw (Placed on Sushi Rice)",
+    "flavors": [
+      "หวานธรรมชาติ",
+      "เค็มโชยุ"
+    ],
+    "flavors_en": [
+      "Naturally Sweet",
+      "Salty Soy Sauce"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น / อุณหภูมิห้อง",
+    "serving_temperature_en": "Cold / Room Temperature"
+  },
+  {
+    "collection": "japanese",
+    "name": "ขาปูย่าง (Yaki Tarabagani)",
+    "name_en": "Grilled King Crab Legs (Yaki Tarabagani)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ฮอกไกโด",
+    "region_en": "Hokkaido",
+    "dish_type": "ปิ้งย่าง",
+    "dish_type_en": "Grilled/BBQ",
+    "main_ingredient": "ขาปูทาราบะ / ปูซูไว",
+    "main_ingredient_en": "King Crab Legs / Snow Crab",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ย่างถ่าน",
+    "cooking_method_en": "Charcoal-grilled",
+    "flavors": [
+      "หวานเนื้อปู",
+      "เค็มธรรมชาติ"
+    ],
+    "flavors_en": [
+      "Sweet Crab",
+      "Naturally Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "เจงกิสข่าน (Jingisukan - เจงกิสข่านเนื้อแกะ)",
+    "name_en": "Jingisukan (Grilled Lamb)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ฮอกไกโด",
+    "region_en": "Hokkaido",
+    "dish_type": "ปิ้งย่าง",
+    "dish_type_en": "Grilled/BBQ",
+    "main_ingredient": "เนื้อแกะ / ถั่วงอก / หอมใหญ่",
+    "main_ingredient_en": "Lamb / Bean Sprouts / Onion",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ย่างกระทะทรงหมวก",
+    "cooking_method_en": "Grilled on Hat-shaped Pan",
+    "flavors": [
+      "เค็มหวาน",
+      "กลมกล่อม"
+    ],
+    "flavors_en": [
+      "Sweet and Salty",
+      "Well-balanced"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "มิโซะบัตเตอร์ราเมง (Miso Butter Ramen)",
+    "name_en": "Miso Butter Ramen",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ฮอกไกโด (ซัปโปโร)",
+    "region_en": "Hokkaido (Sapporo)",
+    "dish_type": "บะหมี่",
+    "dish_type_en": "Wheat Noodles",
+    "main_ingredient": "เส้นราเมง / ซุปมิโซะ / เนย / ข้าวโพด",
+    "main_ingredient_en": "Ramen Noodles / Miso Soup / Butter / Corn",
+    "ingredient_group": "แป้งและนมเนย",
+    "ingredient_group_en": "Flour and Dairy/Butter",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็มมัน",
+      "กลมกล่อมเข้มข้น"
+    ],
+    "flavors_en": [
+      "Salty and Rich",
+      "Rich and Balanced"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ซุปแกงกะหรี่ (Soup Curry)",
+    "name_en": "Soup Curry",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ฮอกไกโด (ซัปโปโร)",
+    "region_en": "Hokkaido (Sapporo)",
+    "dish_type": "ซุป / แกง",
+    "dish_type_en": "Soup / Curry",
+    "main_ingredient": "น่องไก่ / ผักทอด (ฟักทอง, มะเขือยาว)",
+    "main_ingredient_en": "Chicken Drumstick / Fried Vegetables (Pumpkin, Eggplant)",
+    "ingredient_group": "เนื้อสัตว์และผัก",
+    "ingredient_group_en": "Meat and Vegetables",
+    "cooking_method": "เคี่ยวต้ม",
+    "cooking_method_en": "Simmered and Boiled",
+    "flavors": [
+      "เผ็ดหอมเครื่องเทศ",
+      "กลมกล่อม"
+    ],
+    "flavors_en": [
+      "Spicy and Aromatic Spices",
+      "Well-balanced"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "สเต๊กเนื้อวากิว (Wagyu Steak)",
+    "name_en": "Wagyu Steak",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คันไซ (เฮียวโกะ / มิเอะ)",
+    "region_en": "Kansai (Hyogo / Mie)",
+    "dish_type": "สเต๊ก",
+    "dish_type_en": "Steak",
+    "main_ingredient": "เนื้อวัววากิว (กิฟุ, คาโกชิม่า, โกเบ)",
+    "main_ingredient_en": "Wagyu Beef (Gifu, Kagoshima, Kobe)",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ย่างแนบกระทะ",
+    "cooking_method_en": "Pan-grilled",
+    "flavors": [
+      "เค็มเกลือพริกไทย",
+      "หอมมันเนื้อ"
+    ],
+    "flavors_en": [
+      "Salty Pepper-Salt",
+      "Rich Meaty Aroma"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "สเต๊กฮัมเบิร์ก (Hamburg Steak)",
+    "name_en": "Hamburg Steak",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ (สไตล์โยโชกุ)",
+    "region_en": "Nationwide (Yoshoku style)",
+    "dish_type": "จานหลัก",
+    "dish_type_en": "Main Dish",
+    "main_ingredient": "เนื้อวัวบดผสมเนื้อหมู / ซอยเดมิกลาส",
+    "main_ingredient_en": "Ground Beef and Pork / Demi-glace Sauce",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ทอดและทอดอบ",
+    "cooking_method_en": "Fried and Baked-fried",
+    "flavors": [
+      "เค็มหวาน",
+      "เข้มข้น"
+    ],
+    "flavors_en": [
+      "Sweet and Salty",
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ข้าวห่อไข่ (Omurice)",
+    "name_en": "Omurice",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ (สไตล์โยโชกุ)",
+    "region_en": "Nationwide (Yoshoku style)",
+    "dish_type": "ข้าวหน้า",
+    "dish_type_en": "Rice Bowl",
+    "main_ingredient": "ข้าวผัดซอสมะเขือเทศ / ไข่เจียวนุ่มนวล",
+    "main_ingredient_en": "Tomato Sauce Fried Rice / Soft Omelette",
+    "ingredient_group": "ไข่และแป้ง",
+    "ingredient_group_en": "Eggs and Flour",
+    "cooking_method": "ผัดและห่อ",
+    "cooking_method_en": "Stir-fried and Wrapped",
+    "flavors": [
+      "เปรี้ยวหวาน",
+      "มันนุ่ม"
+    ],
+    "flavors_en": [
+      "Sweet and Sour",
+      "Rich and Soft"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "โดเรียชีส (Doria - ข้าวอบชีสซอสขาว)",
+    "name_en": "Doria (Baked Rice with Cheese and White Sauce)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คันโต (โยโกฮาม่า)",
+    "region_en": "Kanto (Yokohama)",
+    "dish_type": "ข้าวอบ",
+    "dish_type_en": "Baked Rice",
+    "main_ingredient": "ข้าวผัดเนย / ซอสขาวไวท์ซอส / กุ้ง / ชีส",
+    "main_ingredient_en": "Butter Fried Rice / White Sauce / Shrimp / Cheese",
+    "ingredient_group": "แป้งและนมเนย",
+    "ingredient_group_en": "Flour and Dairy/Butter",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "เค็มมัน",
+      "หอมชีส"
+    ],
+    "flavors_en": [
+      "Salty and Rich",
+      "Cheesy Aroma"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "สปาเก็ตตี้ นาโปลิตัน (Napolitan)",
+    "name_en": "Spaghetti Napolitan",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คันโต (โยโกฮาม่า)",
+    "region_en": "Kanto (Yokohama)",
+    "dish_type": "พาสต้าสไตล์ญี่ปุ่น",
+    "dish_type_en": "Japanese-style Pasta",
+    "main_ingredient": "เส้นสปาเก็ตตี้ / ไส้กรอก / หอมใหญ่ / ซอสมะเขือเทศ",
+    "main_ingredient_en": "Spaghetti / Sausage / Onion / Tomato Sauce",
+    "ingredient_group": "แป้งและเนื้อสัตว์",
+    "ingredient_group_en": "Flour and Meat",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เปรี้ยวหวาน"
+    ],
+    "flavors_en": [
+      "Sweet and Sour"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "โคโรเกะ (Korokke - มันฝรั่งทอด)",
+    "name_en": "Korokke (Japanese Potato Croquette)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ของทอด",
+    "dish_type_en": "Fried Dish",
+    "main_ingredient": "มันฝรั่งบด / หมูบด",
+    "main_ingredient_en": "Mashed Potato / Ground Pork",
+    "ingredient_group": "ผักและเนื้อสัตว์",
+    "ingredient_group_en": "Vegetables and Meat",
+    "cooking_method": "ชุบแป้งเกล็ดขนมปังทอด",
+    "cooking_method_en": "Breaded and Fried",
+    "flavors": [
+      "หวานมัน",
+      "เค็มซอสราด"
+    ],
+    "flavors_en": [
+      "Sweet and Rich",
+      "Salty Sauce"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ปลาไข่ย่าง (Shishamo)",
+    "name_en": "Grilled Shishamo (Smelt with Roe)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ฮอกไกโด",
+    "region_en": "Hokkaido",
+    "dish_type": "ปิ้งย่าง",
+    "dish_type_en": "Grilled/BBQ",
+    "main_ingredient": "ปลาชิชาโมะ (ปลาไข่)",
+    "main_ingredient_en": "Shishamo (Smelt with Roe)",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ย่างเกลือ",
+    "cooking_method_en": "Salt-grilled",
+    "flavors": [
+      "เค็ม",
+      "มันไข่ปลา"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Rich Fish Roe"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "กิวนิคุ อุด้ง (Gyu Udon - อุด้งหน้าเนื้อ)",
+    "name_en": "Gyu Udon (Beef Udon)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "บะหมี่",
+    "dish_type_en": "Wheat Noodles",
+    "main_ingredient": "เส้นอุด้ง / เนื้อวัวสไลซ์",
+    "main_ingredient_en": "Udon Noodles / Sliced Beef",
+    "ingredient_group": "แป้งและเนื้อสัตว์",
+    "ingredient_group_en": "Flour and Meat",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "หวาน",
+      "เค็มกลมกล่อม"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Balanced Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ข้าวผัดชาฮัง (Chahan)",
+    "name_en": "Chahan (Japanese Fried Rice)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ (สไตล์จูขะ)",
+    "region_en": "Nationwide (Chuka style)",
+    "dish_type": "ข้าวผัด",
+    "dish_type_en": "Fried Rice",
+    "main_ingredient": "ข้าวสวย / หมูชาชูหั่นเต๋า / ไข่ / ต้นหอม",
+    "main_ingredient_en": "Rice / Diced Chashu Pork / Egg / Green Onion",
+    "ingredient_group": "คาร์โบไฮเดรต",
+    "ingredient_group_en": "Carbohydrates",
+    "cooking_method": "ผัดไฟแรง",
+    "cooking_method_en": "High-heat Stir-fried",
+    "flavors": [
+      "เค็มกลมกล่อม",
+      "หอมกระทะ"
+    ],
+    "flavors_en": [
+      "Balanced Salty",
+      "Wok Aroma"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "คาคุนิ (Kakuni - หมูสามชั้นตุ๋นซีอิ๊ว)",
+    "name_en": "Kakuni (Soy-braised Pork Belly)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คิวชู (นากาซากิ)",
+    "region_en": "Kyushu (Nagasaki)",
+    "dish_type": "ต้มเคี่ยว",
+    "dish_type_en": "Simmered Dish",
+    "main_ingredient": "หมูสามชั้น / หัวไชเท้า",
+    "main_ingredient_en": "Pork Belly / Daikon Radish",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ตุ๋น",
+    "cooking_method_en": "Stewed/Braised",
+    "flavors": [
+      "หวาน",
+      "เค็มเข้มข้น"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Intensely Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "อุซึระ นิมอนิ (นกกระทาต้ม/ย่าง)",
+    "name_en": "Uzura Nimono (Simmered/Grilled Quail)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คันไซ (เกียวโต)",
+    "region_en": "Kansai (Kyoto)",
+    "dish_type": "ปิ้งย่าง",
+    "dish_type_en": "Grilled/BBQ",
+    "main_ingredient": "เนื้อนกกระทา",
+    "main_ingredient_en": "Quail",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ย่างซอสทาเร่",
+    "cooking_method_en": "Grilled with Tare Sauce",
+    "flavors": [
+      "หวาน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "อาเกดาชิตู้ฟู้ (Agedashi Tofu)",
+    "name_en": "Agedashi Tofu",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ของทอด / เครื่องเคียง",
+    "dish_type_en": "Fried Dish / Accompaniment",
+    "main_ingredient": "เต้าหู้โมเม / ซุปดาชิ",
+    "main_ingredient_en": "Momen Tofu (Firm Tofu) / Dashi Broth",
+    "ingredient_group": "ถั่วเหลือง",
+    "ingredient_group_en": "Soybeans",
+    "cooking_method": "ทอดแป้งบางและราดซุป",
+    "cooking_method_en": "Thin-battered Fried, Topped with Soup",
+    "flavors": [
+      "เค็มอ่อนๆ",
+      "กลมกล่อม"
+    ],
+    "flavors_en": [
+      "Slightly Salty",
+      "Well-balanced"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "คุชิคาตสึ (Kushikatsu - ของทอดเสียบไม้)",
+    "name_en": "Kushikatsu (Deep-fried Skewers)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คันไซ (โอซาก้า)",
+    "region_en": "Kansai (Osaka)",
+    "dish_type": "ของทอด",
+    "dish_type_en": "Fried Dish",
+    "main_ingredient": "เนื้อหมู / อาหารทะเล / ผักเสียบไม้",
+    "main_ingredient_en": "Skewered Pork / Seafood / Vegetables",
+    "ingredient_group": "เนื้อสัตว์และผัก",
+    "ingredient_group_en": "Meat and Vegetables",
+    "cooking_method": "ชุบแป้งทอด",
+    "cooking_method_en": "Battered and Fried",
+    "flavors": [
+      "เค็มเปรี้ยวซอส"
+    ],
+    "flavors_en": [
+      "Salty-Sour Sauce"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "อันกิโมะ (Ankimo - ตับปลาอังโกะ)",
+    "name_en": "Ankimo (Monkfish Liver)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คันโต (อิบารากิ)",
+    "region_en": "Kanto (Ibaraki)",
+    "dish_type": "กับแกล้ม / กับข้าวพรีเมียม",
+    "dish_type_en": "Drinking Snack / Premium Side Dish",
+    "main_ingredient": "ตับปลาอังโกะ (Monkfish Liver)",
+    "main_ingredient_en": "Monkfish Liver",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "นึ่งซาเก",
+    "cooking_method_en": "Steamed with Sake",
+    "flavors": [
+      "มันเข้มข้น",
+      "เปรี้ยวอมหวาน (พอนซึ)"
+    ],
+    "flavors_en": [
+      "Intensely Rich",
+      "Sweet-Sour (Ponzu)"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "japanese",
+    "name": "สิกุยากิอุด้ง (Sukiyaki Udon)",
+    "name_en": "Sukiyaki Udon",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "บะหมี่หม้อไฟ",
+    "dish_type_en": "Noodle Hot Pot",
+    "main_ingredient": "เส้นอุด้ง / เนื้อวัว / ผักสุกี้ยากี้",
+    "main_ingredient_en": "Udon Noodles / Beef / Sukiyaki Vegetables",
+    "ingredient_group": "แป้งและเนื้อสัตว์",
+    "ingredient_group_en": "Flour and Meat",
+    "cooking_method": "ต้มเคี่ยว",
+    "cooking_method_en": "Boiled and Simmered",
+    "flavors": [
+      "หวาน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ยากิอูด้ง (Yaki Udon)",
+    "name_en": "Yaki Udon",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คิวชู (ฟุกุโอกะ)",
+    "region_en": "Kyushu (Fukuoka)",
+    "dish_type": "บะหมี่ผัด",
+    "dish_type_en": "Stir-fried Noodles",
+    "main_ingredient": "เส้นอุด้ง / หมูสามชั้น / กะหล่ำปลี",
+    "main_ingredient_en": "Udon Noodles / Pork Belly / Cabbage",
+    "ingredient_group": "แป้งและเนื้อสัตว์",
+    "ingredient_group_en": "Flour and Meat",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็มหวาน",
+      "หอมซีอิ๊ว"
+    ],
+    "flavors_en": [
+      "Sweet and Salty",
+      "Soy Sauce Aroma"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ชูกะ ฮิยาชิ (เมมมะและหมูชาชู)",
+    "name_en": "Chuka Hiyashi (Bamboo Shoots and Char Siu)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "กับแกล้ม",
+    "dish_type_en": "Drinking Snack",
+    "main_ingredient": "หน่อไม้ญี่ปุ่น (Memma) / หมูชาชู",
+    "main_ingredient_en": "Japanese Bamboo Shoots (Memma) / Chashu Pork",
+    "ingredient_group": "ผักและเนื้อสัตว์",
+    "ingredient_group_en": "Vegetables and Meat",
+    "cooking_method": "ต้มหมัก",
+    "cooking_method_en": "Boiled and Marinated",
+    "flavors": [
+      "เค็มหวาน",
+      "หอมน้ำมันงา"
+    ],
+    "flavors_en": [
+      "Sweet and Salty",
+      "Sesame Oil Aroma"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "japanese",
+    "name": "ซาชิมิปลาฮิราเมะ (Hirame Sashimi)",
+    "name_en": "Hirame Sashimi (Flounder Sashimi)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ปลาดิบ",
+    "dish_type_en": "Raw Fish (Sashimi)",
+    "main_ingredient": "ปลาตาเดียว (Hirame)",
+    "main_ingredient_en": "Flounder (Hirame)",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "สด",
+    "cooking_method_en": "Raw/Fresh",
+    "flavors": [
+      "หวานละมุนธรรมชาติ"
+    ],
+    "flavors_en": [
+      "Gently Natural Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "japanese",
+    "name": "กิวตังย่าง (Gyutan Yaki - ลิ้นวัวย่าง)",
+    "name_en": "Gyutan Yaki (Grilled Beef Tongue)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "โทโฮกุ (มิยางิ / เซนได)",
+    "region_en": "Tohoku (Miyagi / Sendai)",
+    "dish_type": "ปิ้งย่าง",
+    "dish_type_en": "Grilled/BBQ",
+    "main_ingredient": "ลิ้นวัวสไลซ์",
+    "main_ingredient_en": "Sliced Beef Tongue",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ย่างถ่าน",
+    "cooking_method_en": "Charcoal-grilled",
+    "flavors": [
+      "เค็มเกลือ",
+      "หอมกรุบ"
+    ],
+    "flavors_en": [
+      "Salty (Salt)",
+      "Crunchy Aroma"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "คาคิฟราย (Kaki Fry - หอยนางรมทอด)",
+    "name_en": "Kaki Fry (Fried Oysters)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ชูโกกุ (ฮิโรชิม่า)",
+    "region_en": "Chugoku (Hiroshima)",
+    "dish_type": "ของทอด",
+    "dish_type_en": "Fried Dish",
+    "main_ingredient": "หอยนางรมสด",
+    "main_ingredient_en": "Fresh Oysters",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ชุบแป้งเกล็ดขนมปังทอด",
+    "cooking_method_en": "Breaded and Fried",
+    "flavors": [
+      "เค็มมัน",
+      "เปรี้ยว (ทาร์ทาร์ซอส)"
+    ],
+    "flavors_en": [
+      "Salty and Rich",
+      "Sour (Tartar Sauce)"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "เท็นซารุ โซบะ (Ten Zaru Soba)",
+    "name_en": "Ten Zaru Soba (Cold Soba with Tempura)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "บะหมี่เย็นพร้อมเทมปุระ",
+    "dish_type_en": "Cold Noodles with Tempura",
+    "main_ingredient": "เส้นโซบะ / เทมปุระกุ้ง",
+    "main_ingredient_en": "Soba Noodles / Shrimp Tempura",
+    "ingredient_group": "ธัญพืชและอาหารทะเล",
+    "ingredient_group_en": "Grains and Seafood",
+    "cooking_method": "ต้มโซบะเย็นและทอดเทมปุระ",
+    "cooking_method_en": "Boiled Cold Soba and Fried Tempura",
+    "flavors": [
+      "เค็มหวานซุป",
+      "กรอบมัน"
+    ],
+    "flavors_en": [
+      "Salty-Sweet Soup",
+      "Crispy and Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็นผสมร้อน",
+    "serving_temperature_en": "Cold and Hot Mixed"
+  },
+  {
+    "collection": "japanese",
+    "name": "โอคินาวา โซบะ (Okinawa Soba)",
+    "name_en": "Okinawa Soba",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คิวชู (โอกินาวา)",
+    "region_en": "Kyushu (Okinawa)",
+    "dish_type": "บะหมี่",
+    "dish_type_en": "Wheat Noodles",
+    "main_ingredient": "เส้นสเปเชียลโอกินาวา / ซี่โครงหมูตุ๋น (Soki)",
+    "main_ingredient_en": "Special Okinawan Noodles / Braised Pork Ribs (Soki)",
+    "ingredient_group": "แป้งและเนื้อสัตว์",
+    "ingredient_group_en": "Flour and Meat",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็มกลมกล่อม",
+      "หอมซุปปลาซาบะและหมู"
+    ],
+    "flavors_en": [
+      "Balanced Salty",
+      "Mackerel and Pork Soup Aroma"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ราฟูเต้ (Rafute - หมูสามชั้นต้มเหล้าโอกินาวา)",
+    "name_en": "Rafute (Okinawan Braised Pork Belly)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คิวชู (โอกินาวา)",
+    "region_en": "Kyushu (Okinawa)",
+    "dish_type": "ต้มเคี่ยว",
+    "dish_type_en": "Simmered Dish",
+    "main_ingredient": "หมูสามชั้น / เหล้าอาวามาริ / โชยุ",
+    "main_ingredient_en": "Pork Belly / Awamori Liquor / Soy Sauce",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ตุ๋น",
+    "cooking_method_en": "Stewed/Braised",
+    "flavors": [
+      "หวาน",
+      "เค็มละมุน"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Gently Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "โงยะ ชัมปุรุ (Goya Champuru - ผัดมะระโอกินาวา)",
+    "name_en": "Goya Champuru (Okinawan Bitter Melon Stir-fry)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คิวชู (โอกินาวา)",
+    "region_en": "Kyushu (Okinawa)",
+    "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
+    "main_ingredient": "มะระขม / เต้าหู้ / หมูสามชั้น / ไข่",
+    "main_ingredient_en": "Bitter Melon / Tofu / Pork Belly / Egg",
+    "ingredient_group": "ผักและเนื้อสัตว์",
+    "ingredient_group_en": "Vegetables and Meat",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "ขมปลาย",
+      "เค็มกลมกล่อม"
+    ],
+    "flavors_en": [
+      "Bitter Aftertaste",
+      "Balanced Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ทาโก้ไรซ์ (Taco Rice)",
+    "name_en": "Taco Rice",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คิวชู (โอกินาวา)",
+    "region_en": "Kyushu (Okinawa)",
+    "dish_type": "ข้าวหน้าสไตล์ฟิวชั่น",
+    "dish_type_en": "Fusion-style Rice Bowl",
+    "main_ingredient": "ข้าวสวย / เนื้อบดซอสทาโก้ / ชีส / ผักกาดหอม",
+    "main_ingredient_en": "Rice / Taco-seasoned Ground Meat / Cheese / Lettuce",
+    "ingredient_group": "เนื้อสัตว์และแป้ง",
+    "ingredient_group_en": "Meat and Flour",
+    "cooking_method": "ผัดเนื้อและจัดวาง",
+    "cooking_method_en": "Stir-fried Meat and Plated",
+    "flavors": [
+      "เผ็ดอมเปรี้ยว",
+      "เค็มมันชีส"
+    ],
+    "flavors_en": [
+      "Spicy-Sour",
+      "Salty Cheesy Rich"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ฮามัตสึ เกี๊ยวซ่า (Hamamatsu Gyoza)",
+    "name_en": "Hamamatsu Gyoza",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ชูบุ (ชิซูโอกะ)",
+    "region_en": "Chubu (Shizuoka)",
+    "dish_type": "ของกินเล่น",
+    "dish_type_en": "Nibble",
+    "main_ingredient": "หมูสับ / กะหล่ำปลี / ถั่วงอกลวก (ตรงกลางวง)",
+    "main_ingredient_en": "Minced Pork / Cabbage / Blanched Bean Sprouts",
+    "ingredient_group": "เนื้อสัตว์และผัก",
+    "ingredient_group_en": "Meat and Vegetables",
+    "cooking_method": "ทอดเป็นวงกลม",
+    "cooking_method_en": "Fried into Rounds",
+    "flavors": [
+      "หวานผัก",
+      "เค็มกลมกล่อม"
+    ],
+    "flavors_en": [
+      "Vegetable Sweetness",
+      "Balanced Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ทงจิรุ (Tonjiru - ซุปมิโซะใส่หมูและผัก)",
+    "name_en": "Tonjiru (Pork and Vegetable Miso Soup)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ซุป",
+    "dish_type_en": "Soup",
+    "main_ingredient": "หมูสามชั้นสไลซ์ / หัวไชเท้า / โกโบ / มิโซะ",
+    "main_ingredient_en": "Sliced Pork Belly / Daikon Radish / Burdock Root / Miso",
+    "ingredient_group": "เนื้อสัตว์และผัก",
+    "ingredient_group_en": "Meat and Vegetables",
+    "cooking_method": "ต้มเคี่ยว",
+    "cooking_method_en": "Boiled and Simmered",
+    "flavors": [
+      "เค็มกลมกล่อม",
+      "หวานธรรมชาติจากผัก"
+    ],
+    "flavors_en": [
+      "Balanced Salty",
+      "Naturally Sweet from Vegetables"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ทานูกิ อุด้ง (Tanuki Udon)",
+    "name_en": "Tanuki Udon",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คันโต (โตเกียว)",
+    "region_en": "Kanto (Tokyo)",
+    "dish_type": "บะหมี่",
+    "dish_type_en": "Wheat Noodles",
+    "main_ingredient": "เส้นอุด้ง / แป้งเทมปุระทอดกรอบ (Tenkasu)",
+    "main_ingredient_en": "Udon Noodles / Crispy Tempura Bits (Tenkasu)",
+    "ingredient_group": "แป้ง",
+    "ingredient_group_en": "Flour",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็มกลมกล่อม",
+      "มันกรอบ"
+    ],
+    "flavors_en": [
+      "Balanced Salty",
+      "Crispy and Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ทามาโกะยากิ (Tamagoyaki - ไข่ม้วนญี่ปุ่น)",
+    "name_en": "Tamagoyaki (Japanese Rolled Omelette)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "เครื่องเคียง",
+    "dish_type_en": "Accompaniment",
+    "main_ingredient": "ไข่ไก่ / ซุปดาชิ / มิริน",
+    "main_ingredient_en": "Egg / Dashi Broth / Mirin",
+    "ingredient_group": "ไข่",
+    "ingredient_group_en": "Eggs",
+    "cooking_method": "ทอดม้วนบนกระทะสี่เหลี่ยม",
+    "cooking_method_en": "Rolled and Fried on Square Pan",
+    "flavors": [
+      "หวานอมเค็ม",
+      "กลมกล่อม"
+    ],
+    "flavors_en": [
+      "Sweet with a Salty Edge",
+      "Well-balanced"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง / อุ่น",
+    "serving_temperature_en": "Room Temperature / Warm"
+  },
+  {
+    "collection": "japanese",
+    "name": "ซาเกะ ชิโอยากิ (Sake Shioyaki - แซลมอนย่างเกลือ)",
+    "name_en": "Sake Shioyaki (Salt-grilled Salmon)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ปิ้งย่าง",
+    "dish_type_en": "Grilled/BBQ",
+    "main_ingredient": "ชิ้นเนื้อแซลมอน",
+    "main_ingredient_en": "Salmon Fillet",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เค็มเกลือ",
+      "มันเนื้อปลา"
+    ],
+    "flavors_en": [
+      "Salty (Salt)",
+      "Rich Fish"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "อิคาซูมิ ราเมง (Ikasumi Ramen - ราเมงหมึกดำ)",
+    "name_en": "Ikasumi Ramen (Squid Ink Ramen)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "โทโฮกุ (อาโอโมริ)",
+    "region_en": "Tohoku (Aomori)",
+    "dish_type": "บะหมี่",
+    "dish_type_en": "Wheat Noodles",
+    "main_ingredient": "เส้นราเมง / น้ำซุปดีหมึกยักษ์",
+    "main_ingredient_en": "Ramen Noodles / Squid Ink Broth",
+    "ingredient_group": "อาหารทะเลและแป้ง",
+    "ingredient_group_en": "Seafood and Flour",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็มกลมกล่อม",
+      "หอมทะเล"
+    ],
+    "flavors_en": [
+      "Balanced Salty",
+      "Ocean Aroma"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "คามาเมชิ (Kamameshi - ข้าวอบหม้อดินญี่ปุ่น)",
+    "name_en": "Kamameshi (Japanese Clay Pot Rice)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ข้าวอบ",
+    "dish_type_en": "Baked Rice",
+    "main_ingredient": "ข้าวสวย / ไก่ / เห็ดหอม / หน่อไม้",
+    "main_ingredient_en": "Rice / Chicken / Shiitake Mushroom / Bamboo Shoots",
+    "ingredient_group": "คาร์โบไฮเดรตและผัก",
+    "ingredient_group_en": "Carbohydrates and Vegetables",
+    "cooking_method": "หุงอบในหม้อเหล็ก/ดิน",
+    "cooking_method_en": "Cooked in Iron/Clay Pot",
+    "flavors": [
+      "กลมกล่อม",
+      "หอมน้ำสต๊อก"
+    ],
+    "flavors_en": [
+      "Well-balanced",
+      "Broth Aroma"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "อิคุระ ดอน (Ikura Don - ข้าวหน้าไข่ปลาแซลมอน)",
+    "name_en": "Ikura Don (Salmon Roe Rice Bowl)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ฮอกไกโด",
+    "region_en": "Hokkaido",
+    "dish_type": "ข้าวหน้า",
+    "dish_type_en": "Rice Bowl",
+    "main_ingredient": "ไข่ปลาแซลมอนหมักโชยุ",
+    "main_ingredient_en": "Soy-marinated Salmon Roe",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "สด (ดองซีอิ๊ว)",
+    "cooking_method_en": "Raw (Soy Sauce-cured)",
+    "flavors": [
+      "เค็มมัน",
+      "แตกในปาก"
+    ],
+    "flavors_en": [
+      "Salty and Rich",
+      "Bursts in the Mouth"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น / อุณหภูมิห้อง",
+    "serving_temperature_en": "Cold / Room Temperature"
+  },
+  {
+    "collection": "japanese",
+    "name": "อูนิ ดอน (Uni Don - ข้าวหน้าไข่หอยเม่น)",
+    "name_en": "Uni Don (Sea Urchin Rice Bowl)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ฮอกไกโด",
+    "region_en": "Hokkaido",
+    "dish_type": "ข้าวหน้า",
+    "dish_type_en": "Rice Bowl",
+    "main_ingredient": "ไข่หอยเม่นสด",
+    "main_ingredient_en": "Fresh Sea Urchin Roe",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "สด",
+    "cooking_method_en": "Raw/Fresh",
+    "flavors": [
+      "หวานมันครีมมี่ธรรมชาติ"
+    ],
+    "flavors_en": [
+      "Naturally Sweet and Creamy"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "japanese",
+    "name": "โซเมนเย็น (Nagashi Somen)",
+    "name_en": "Nagashi Somen (Flowing Cold Noodles)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คิวชู (มิยาซากิ)",
+    "region_en": "Kyushu (Miyazaki)",
+    "dish_type": "บะหมี่เย็น",
+    "dish_type_en": "Cold Noodles",
+    "main_ingredient": "เส้นโซเมนเส้นเล็ก / ซอสสึยุ",
+    "main_ingredient_en": "Thin Somen Noodles / Tsuyu Dipping Sauce",
+    "ingredient_group": "แป้ง",
+    "ingredient_group_en": "Flour",
+    "cooking_method": "ต้มและน็อกน้ำเย็นจัด",
+    "cooking_method_en": "Boiled and Ice-shocked",
+    "flavors": [
+      "เค็มกลมกล่อม",
+      "สดชื่น"
+    ],
+    "flavors_en": [
+      "Balanced Salty",
+      "Refreshing"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็นจัด",
+    "serving_temperature_en": "Ice Cold"
+  },
+  {
+    "collection": "japanese",
+    "name": "มิโซะ คัตสึ (Miso Katsu - หมูทอดซอสมิโซะหวาน)",
+    "name_en": "Miso Katsu (Fried Pork with Sweet Miso Sauce)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ชูบุ (นาโกย่า)",
+    "region_en": "Chubu (Nagoya)",
+    "dish_type": "ของทอด",
+    "dish_type_en": "Fried Dish",
+    "main_ingredient": "หมูทอดทงคัตสึ / ซอสมิโซะแดง (Hatcho Miso)",
+    "main_ingredient_en": "Fried Tonkatsu Pork / Red Miso Sauce (Hatcho Miso)",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ทอดและราดซอส",
+    "cooking_method_en": "Fried and Sauced",
+    "flavors": [
+      "หวานเข้มข้น",
+      "เค็มกลมกล่อม"
+    ],
+    "flavors_en": [
+      "Intensely Sweet",
+      "Balanced Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "เทบาซากิ (Tebasaki - ปีกไก่ทอดสไตล์นาโกย่า)",
+    "name_en": "Tebasaki (Nagoya-style Fried Chicken Wings)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ชูบุ (นาโกย่า)",
+    "region_en": "Chubu (Nagoya)",
+    "dish_type": "ของทอด / กับแกล้ม",
+    "dish_type_en": "Fried Dish / Drinking Snack",
+    "main_ingredient": "ปีกไก่ทอดกรอบ / พริกไทยดำ / ซอสหวาน",
+    "main_ingredient_en": "Crispy Fried Chicken Wings / Black Pepper / Sweet Sauce",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ทอดสองรอบและคลุกซอส",
+    "cooking_method_en": "Double-fried and Tossed in Sauce",
+    "flavors": [
+      "เผ็ดพริกไทย",
+      "เค็มหวาน"
+    ],
+    "flavors_en": [
+      "Peppery Spicy",
+      "Sweet and Salty"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "เอบิ ฟราย (Ebi Fry - กุ้งชุบแป้งทอด)",
+    "name_en": "Ebi Fry (Breaded Fried Shrimp)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ของทอด",
+    "dish_type_en": "Fried Dish",
+    "main_ingredient": "กุ้งกุลาดำ / แป้งเกล็ดขนมปัง",
+    "main_ingredient_en": "Black Tiger Shrimp / Breadcrumbs",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "หวานเนื้อกุ้ง",
+      "เค็มมันซอส"
+    ],
+    "flavors_en": [
+      "Sweet Shrimp",
+      "Salty Rich Sauce"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ดันโกะซอสถั่วแดง (Anko Dango)",
+    "name_en": "Anko Dango (Sweet Red Bean Dumplings)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "แป้งชิราตามะ / ถั่วแดงกวน (Anko)",
+    "main_ingredient_en": "Shiratama Flour Dumplings / Sweet Red Bean Paste (Anko)",
+    "ingredient_group": "แป้งและถั่ว",
+    "ingredient_group_en": "Flour and Beans",
+    "cooking_method": "ต้มปั้นลูกกลม",
+    "cooking_method_en": "Boiled and Shaped into Balls",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "japanese",
+    "name": "เซ็นไซ (Zenzai - ซุปถั่วแดงใส่โมจิ)",
+    "name_en": "Zenzai (Sweet Red Bean Soup with Mochi)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "ถั่วแดงต้มหวาน / โมจิย่าง",
+    "main_ingredient_en": "Sweet Boiled Red Beans / Grilled Mochi",
+    "ingredient_group": "ถั่วและแป้ง",
+    "ingredient_group_en": "Beans and Flour",
+    "cooking_method": "ต้มเคี่ยวและย่างโมจิ",
+    "cooking_method_en": "Simmered and Grilled Mochi",
+    "flavors": [
+      "หวานเข้มข้น"
+    ],
+    "flavors_en": [
+      "Intensely Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "คากิโกริ (Kakigori - น้ำแข็งไสญี่ปุ่น)",
+    "name_en": "Kakigori (Japanese Shaved Ice)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "น้ำแข็งไสละเอียด / ไซรัปชาเขียว / นมข้น",
+    "main_ingredient_en": "Finely Shaved Ice / Green Tea Syrup / Condensed Milk",
+    "ingredient_group": "ขนมหวาน",
+    "ingredient_group_en": "Confectionery",
+    "cooking_method": "ไสน้ำแข็งและราดไซรัป",
+    "cooking_method_en": "Shaved Ice with Syrup",
+    "flavors": [
+      "หวานสดชื่น"
+    ],
+    "flavors_en": [
+      "Sweet and Refreshing"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็นจัด",
+    "serving_temperature_en": "Ice Cold"
+  },
+  {
+    "collection": "japanese",
+    "name": "โชกุปัง (Shokupan - ขนมปังปอนด์ญี่ปุ่น)",
+    "name_en": "Shokupan (Japanese Milk Bread)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "เบเกอรี่",
+    "dish_type_en": "Bakery",
+    "main_ingredient": "แป้งสาลี / นม / เนยสด",
+    "main_ingredient_en": "Wheat Flour / Milk / Fresh Butter",
+    "ingredient_group": "แป้งและนม",
+    "ingredient_group_en": "Flour and Milk",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "หวานนุ่มละมุน",
+      "หอมเนย"
+    ],
+    "flavors_en": [
+      "Softly Sweet",
+      "Buttery Aroma"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "japanese",
+    "name": "เมลอนปัง (Melonpan)",
+    "name_en": "Melonpan",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "เบเกอรี่ / ของหวาน",
+    "dish_type_en": "Bakery / Dessert",
+    "main_ingredient": "แป้งขนมปัง / แป้งคุกกี้กรอบด้านนอก",
+    "main_ingredient_en": "Bread Dough / Crispy Cookie Crust",
+    "ingredient_group": "แป้ง",
+    "ingredient_group_en": "Flour",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "หวานกรอบนอกนุ่มใน"
+    ],
+    "flavors_en": [
+      "Sweet, Crispy Outside Soft Inside"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง / ร้อน",
+    "serving_temperature_en": "Room Temperature / Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "อันปัง (Anpan - ขนมปังไส้ถั่วแดง)",
+    "name_en": "Anpan (Red Bean Bun)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คันโต (โตเกียว)",
+    "region_en": "Kanto (Tokyo)",
+    "dish_type": "เบเกอรี่",
+    "dish_type_en": "Bakery",
+    "main_ingredient": "แป้งขนมปัง / ถั่วแดงบดหวาน",
+    "main_ingredient_en": "Bread Dough / Sweet Red Bean Paste",
+    "ingredient_group": "แป้งและถั่ว",
+    "ingredient_group_en": "Flour and Beans",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "japanese",
+    "name": "คาสึเตระ (Castella - เค้กไข่ฟองน้ำ)",
+    "name_en": "Castella (Sponge Cake)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คิวชู (นากาซากิ)",
+    "region_en": "Kyushu (Nagasaki)",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "ไข่ไก่ / แป้งสาลี / น้ำตั๋งไซรัป",
+    "main_ingredient_en": "Egg / Wheat Flour / Sugar Syrup",
+    "ingredient_group": "ไข่และแป้ง",
+    "ingredient_group_en": "Eggs and Flour",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "หวานหอมละมุน"
+    ],
+    "flavors_en": [
+      "Sweetly Fragrant"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "japanese",
+    "name": "โชยุ ราเมง (Shoyu Ramen)",
+    "name_en": "Shoyu Ramen",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คันโต (โตเกียว)",
+    "region_en": "Kanto (Tokyo)",
+    "dish_type": "บะหมี่",
+    "dish_type_en": "Wheat Noodles",
+    "main_ingredient": "เส้นราเมง / น้ำซุปโชยุ / หมูชาชู",
+    "main_ingredient_en": "Ramen Noodles / Soy Sauce Broth / Chashu Pork",
+    "ingredient_group": "แป้งและเนื้อสัตว์",
+    "ingredient_group_en": "Flour and Meat",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็มกลมกล่อม",
+      "หอมซีอิ๊ว"
+    ],
+    "flavors_en": [
+      "Balanced Salty",
+      "Soy Sauce Aroma"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ทงคตสึ ราเมง (Tonkotsu Ramen)",
+    "name_en": "Tonkotsu Ramen",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คิวชู (ฟุกุโอกะ / ฮากาตะ)",
+    "region_en": "Kyushu (Fukuoka / Hakata)",
+    "dish_type": "บะหมี่",
+    "dish_type_en": "Wheat Noodles",
+    "main_ingredient": "เส้นราเมงเล็ก / น้ำซุปกระดูกหมูเข้มข้น",
+    "main_ingredient_en": "Thin Ramen Noodles / Rich Pork Bone Broth",
+    "ingredient_group": "แป้งและเนื้อสัตว์",
+    "ingredient_group_en": "Flour and Meat",
+    "cooking_method": "เคี่ยวกระดูกหมูยาวนาน",
+    "cooking_method_en": "Long-simmered Pork Bone",
+    "flavors": [
+      "เค็มมันเข้มข้น"
+    ],
+    "flavors_en": [
+      "Intensely Salty and Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "มิโซะ ราเมง (Miso Ramen)",
+    "name_en": "Miso Ramen",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ฮอกไกโด (ซัปโปโร)",
+    "region_en": "Hokkaido (Sapporo)",
+    "dish_type": "บะหมี่",
+    "dish_type_en": "Wheat Noodles",
+    "main_ingredient": "เส้นราเมงเส้นหยัก / น้ำซุปมิโซะ",
+    "main_ingredient_en": "Curly Ramen Noodles / Miso Broth",
+    "ingredient_group": "แป้งและถั่วเหลือง",
+    "ingredient_group_en": "Flour and Soybeans",
+    "cooking_method": "ต้มผัด",
+    "cooking_method_en": "Boiled and Stir-fried",
+    "flavors": [
+      "เค็มหวานเข้มข้น"
+    ],
+    "flavors_en": [
+      "Intensely Sweet and Salty"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "ชิโอะ ราเมง (Shio Ramen)",
+    "name_en": "Shio Ramen",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ฮอกไกโด (ฮาโกดาเตะ)",
+    "region_en": "Hokkaido (Hakodate)",
+    "dish_type": "บะหมี่",
+    "dish_type_en": "Wheat Noodles",
+    "main_ingredient": "เส้นราเมง / น้ำซุปเกลือใส",
+    "main_ingredient_en": "Ramen Noodles / Clear Salt Broth",
+    "ingredient_group": "แป้ง",
+    "ingredient_group_en": "Flour",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็มใสเบาๆ",
+      "กลมกล่อม"
+    ],
+    "flavors_en": [
+      "Lightly Clear Salty",
+      "Well-balanced"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "สึเคเมน (Tsukemen - บะหมี่จุ่มซุป)",
+    "name_en": "Tsukemen (Dipping Noodles)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คันโต (โตเกียว)",
+    "region_en": "Kanto (Tokyo)",
+    "dish_type": "บะหมี่",
+    "dish_type_en": "Wheat Noodles",
+    "main_ingredient": "เส้นราเมงเส้นใหญ่หนา / ซุปเข้มข้นแยกชาม",
+    "main_ingredient_en": "Thick Ramen Noodles / Rich Dipping Broth",
+    "ingredient_group": "แป้งและเนื้อสัตว์",
+    "ingredient_group_en": "Flour and Meat",
+    "cooking_method": "ลวกเส้นเย็น และเสิร์ฟคู่ซุปร้อน",
+    "cooking_method_en": "Cold Blanched Noodles with Hot Soup",
+    "flavors": [
+      "เค็มเปรี้ยวเข้มข้นมาก"
+    ],
+    "flavors_en": [
+      "Very Intense Salty-Sour"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "เส้นเย็น ซุปร้อน",
+    "serving_temperature_en": "Cold Noodles, Hot Soup"
+  },
+  {
+    "collection": "japanese",
+    "name": "มาเซโซบะ (Mazesoba - ราเมงแห้งทรงเครื่อง)",
+    "name_en": "Mazesoba (Mixed Dry Ramen)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ชูบุ (นาโกย่า)",
+    "region_en": "Chubu (Nagoya)",
+    "dish_type": "บะหมี่แห้ง",
+    "dish_type_en": "Dry Noodles",
+    "main_ingredient": "เส้นราเมงหนา / หมูสับผัดเผ็ด / ไข่แดงสด",
+    "main_ingredient_en": "Thick Ramen Noodles / Spicy Stir-fried Minced Pork / Raw Egg Yolk",
+    "ingredient_group": "แป้งและเนื้อสัตว์",
+    "ingredient_group_en": "Flour and Meat",
+    "cooking_method": "ลวกและคลุก",
+    "cooking_method_en": "Blanched and Tossed",
+    "flavors": [
+      "เค็มเผ็ดเข้มข้น",
+      "มันกลมกล่อม"
+    ],
+    "flavors_en": [
+      "Intensely Salty and Spicy",
+      "Rich and Balanced"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "คิเมได นิตสึเกะ (Kinmedai Nitsuke - ปลาตาโตต้มซีอิ๊ว)",
+    "name_en": "Kinmedai Nitsuke (Simmered Golden Eye Snapper)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คันโต (ชิซูโอกะ)",
+    "region_en": "Kanto (Shizuoka)",
+    "dish_type": "ต้ม",
+    "dish_type_en": "Boiled Dish",
+    "main_ingredient": "ปลาคินเมได (Red Bream)",
+    "main_ingredient_en": "Kinmedai (Golden Eye Snapper)",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ต้มเคี่ยวโชยุและขิง",
+    "cooking_method_en": "Simmered in Soy Sauce and Ginger",
+    "flavors": [
+      "หวาน",
+      "เค็มละมุน"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Gently Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "วาซาบิ ชาซึเกะ (Wasabi Chazuke)",
+    "name_en": "Wasabi Chazuke (Wasabi Tea over Rice)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
+    "dish_type": "ข้าวต้ม",
+    "dish_type_en": "Rice Porridge",
+    "main_ingredient": "ข้าวสวย / วาซาบิ / ผงน้ำซุปซึยุ",
+    "main_ingredient_en": "Rice / Wasabi / Tsuyu Broth Powder",
+    "ingredient_group": "คาร์โบไฮเดรต",
+    "ingredient_group_en": "Carbohydrates",
+    "cooking_method": "ชงราดน้ำชา",
+    "cooking_method_en": "Brewed and Poured with Tea",
+    "flavors": [
+      "เค็มอ่อนๆ",
+      "ฉุนวาซาบิเบาๆ"
+    ],
+    "flavors_en": [
+      "Slightly Salty",
+      "Mildly Pungent Wasabi"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "กิวคัตสึ (Gyukatsu - เนื้อวัวชุบแป้งทอด)",
+    "name_en": "Gyukatsu (Breaded Fried Beef Cutlet)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คันโต (โตเกียว)",
+    "region_en": "Kanto (Tokyo)",
+    "dish_type": "ของทอด / ปิ้งย่างเตาหิน",
+    "dish_type_en": "Fried Dish / Stone-grilled",
+    "main_ingredient": "เนื้อวัวสันนอกชุบแป้งทอดกึ่งสุก",
+    "main_ingredient_en": "Half-cooked Battered and Fried Beef Sirloin",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ทอดระยะเวลาสั้นแล้วย่างต่อ",
+    "cooking_method_en": "Briefly Fried then Grilled",
+    "flavors": [
+      "เค็มกลมกล่อม",
+      "หอมเนื้อ"
+    ],
+    "flavors_en": [
+      "Balanced Salty",
+      "Meaty Aroma"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "japanese",
+    "name": "มัทฉะพุดดิ้ง (Matcha Pudding)",
+    "name_en": "Matcha Pudding",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "คันไซ (เกียวโต / อุจิ)",
+    "region_en": "Kansai (Kyoto / Uji)",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "ผงชาเขียวมัทฉะ / นมสด / เจลาติน",
+    "main_ingredient_en": "Matcha Green Tea Powder / Fresh Milk / Gelatin",
+    "ingredient_group": "นมและชา",
+    "ingredient_group_en": "Milk and Tea",
+    "cooking_method": "แช่เย็นให้เซ็ตตัว",
+    "cooking_method_en": "Chilled to Set",
+    "flavors": [
+      "หวานขมอโรม่าชาเขียว"
+    ],
+    "flavors_en": [
+      "Sweet-Bitter Green Tea Aroma"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
   }
 ]

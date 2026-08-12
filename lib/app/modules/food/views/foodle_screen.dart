@@ -1,6 +1,7 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 
 import '../models/food.dart';
 import '../models/food_guess_result.dart';
@@ -142,6 +143,13 @@ class _FoodleScreenState extends State<FoodleScreen> {
 
   void _revealAnswer() => setState(() => _isAnswerRevealed = true);
 
+  Future<void> _openFoodDex() async {
+    final selected = await showFoodDexDialog(context, _availableFoods);
+    if (!mounted || selected == null) return;
+    setState(() => _searchController.text = selected.displayName);
+    _searchFocusNode.requestFocus();
+  }
+
   void _submitFirstSuggestion(String _) {
     if (_suggestions.length == 1) _submitGuess(_suggestions.single);
   }
@@ -158,9 +166,9 @@ class _FoodleScreenState extends State<FoodleScreen> {
         actions: [
           if (_status == FoodLoadStatus.ready)
             IconButton(
-              onPressed: () => showFoodDexDialog(context, _availableFoods),
+              onPressed: _openFoodDex,
               icon: const Icon(Icons.menu_book_rounded),
-              tooltip: 'คลังอาหาร',
+              tooltip: 'food_dexTooltip'.tr,
             ),
         ],
       ),
@@ -173,11 +181,11 @@ class _FoodleScreenState extends State<FoodleScreen> {
                 ? FoodErrorState(onRetry: _loadAndStartGame)
                 : Column(
                     children: [
-                      const Padding(
-                        padding: EdgeInsets.fromLTRB(16, 0, 16, 8),
+                      Padding(
+                        padding: const EdgeInsets.fromLTRB(16, 0, 16, 8),
                         child: Text(
-                          'เดาอาหารได้ไม่จำกัดครั้ง',
-                          style: TextStyle(color: Colors.white70),
+                          'common_unlimitedGuesses'.tr,
+                          style: const TextStyle(color: Colors.white70),
                         ),
                       ),
                       Expanded(child: _buildGuessTable()),
@@ -207,14 +215,14 @@ class _FoodleScreenState extends State<FoodleScreen> {
                   ),
                 ),
             if (_guesses.isEmpty)
-              const Padding(
-                padding: EdgeInsets.only(top: 32),
+              Padding(
+                padding: const EdgeInsets.only(top: 32),
                 child: SizedBox(
                   width: 728,
                   child: Text(
-                    'พิมพ์ชื่ออาหารเพื่อเริ่มเดา',
+                    'food_typeToStart'.tr,
                     textAlign: TextAlign.center,
-                    style: TextStyle(color: Colors.white54, fontSize: 16),
+                    style: const TextStyle(color: Colors.white54, fontSize: 16),
                   ),
                 ),
               ),
@@ -238,8 +246,9 @@ class _FoodleScreenState extends State<FoodleScreen> {
           Expanded(
             child: Text(
               _hasWon
-                  ? 'ถูกต้อง! คำตอบคือ ${_answer!.name}'
-                  : 'คำตอบคือ ${_answer!.name}',
+                  ? 'common_correctAnswerIs'
+                      .trParams({'name': _answer!.displayName})
+                  : 'common_answerIs'.trParams({'name': _answer!.displayName}),
               style: const TextStyle(
                 color: Colors.white,
                 fontWeight: FontWeight.bold,
@@ -251,7 +260,7 @@ class _FoodleScreenState extends State<FoodleScreen> {
               _searchController.clear();
               _restart();
             },
-            child: const Text('เริ่มใหม่'),
+            child: Text('common_restart'.tr),
           ),
         ],
       ),
@@ -278,14 +287,14 @@ class _FoodleScreenState extends State<FoodleScreen> {
                     return ListTile(
                       dense: true,
                       title: Text(
-                        food.name,
+                        food.displayName,
                         style: const TextStyle(
                           color: Colors.white,
                           fontWeight: FontWeight.w600,
                         ),
                       ),
                       subtitle: Text(
-                        '${food.country} · ${food.dishType}',
+                        '${food.displayCountry} · ${food.displayDishType}',
                         style: const TextStyle(color: Colors.white60),
                       ),
                       onTap: () => _submitGuess(food),
@@ -302,13 +311,15 @@ class _FoodleScreenState extends State<FoodleScreen> {
                     enabled: !_isAnswerRevealed && !_hasWon,
                     onSubmitted: _submitFirstSuggestion,
                     style: const TextStyle(color: Colors.white),
-                    decoration: const InputDecoration(
-                      hintText: 'พิมพ์ชื่ออาหาร...',
-                      hintStyle: TextStyle(color: Colors.white54),
-                      prefixIcon: Icon(Icons.search, color: Colors.white70),
+                    decoration: InputDecoration(
+                      hintText: 'food_inputHint'.tr,
+                      hintStyle: const TextStyle(color: Colors.white54),
+                      prefixIcon: const Icon(Icons.search, color: Colors.white70),
                       filled: true,
                       fillColor: kFoodBgColor,
-                      border: OutlineInputBorder(borderSide: BorderSide.none),
+                      border: const OutlineInputBorder(
+                        borderSide: BorderSide.none,
+                      ),
                     ),
                   ),
                 ),
@@ -316,7 +327,7 @@ class _FoodleScreenState extends State<FoodleScreen> {
                 OutlinedButton(
                   onPressed: _isAnswerRevealed || _hasWon ? null : _revealAnswer,
                   style: OutlinedButton.styleFrom(foregroundColor: Colors.white),
-                  child: const Text('เฉลย'),
+                  child: Text('common_giveUp'.tr),
                 ),
               ],
             ),

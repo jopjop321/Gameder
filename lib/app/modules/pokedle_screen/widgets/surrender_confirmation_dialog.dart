@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 
 import '../theme/pokedle_theme.dart';
 
@@ -7,23 +8,23 @@ Future<bool> showSurrenderConfirmation(BuildContext context) async {
     context: context,
     builder: (dialogContext) => AlertDialog(
       backgroundColor: kCardColor,
-      title: const Text(
-        'ยอมแพ้?',
-        style: TextStyle(color: Colors.white),
+      title: Text(
+        'pokedle_surrenderTitle'.tr,
+        style: const TextStyle(color: Colors.white),
       ),
-      content: const Text(
-        'ต้องการยอมแพ้และดูเฉลยของรอบนี้ใช่ไหม',
-        style: TextStyle(color: Colors.white70),
+      content: Text(
+        'pokedle_surrenderBody'.tr,
+        style: const TextStyle(color: Colors.white70),
       ),
       actions: [
         TextButton(
           onPressed: () => Navigator.of(dialogContext).pop(false),
-          child: const Text('เล่นต่อ'),
+          child: Text('common_continuePlaying'.tr),
         ),
         FilledButton(
           style: FilledButton.styleFrom(backgroundColor: kWrongColor),
           onPressed: () => Navigator.of(dialogContext).pop(true),
-          child: const Text('ยอมแพ้'),
+          child: Text('pokedle_surrenderTooltip'.tr),
         ),
       ],
     ),

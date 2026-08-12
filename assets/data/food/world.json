@@ -2,261 +2,2325 @@
   {
     "collection": "world",
     "name": "ทาโก้",
+    "name_en": "Taco",
     "country": "เม็กซิโก",
+    "country_en": "Mexico",
     "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
     "dish_type": "แป้ง",
+    "dish_type_en": "Batter Dish",
     "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
     "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
     "cooking_method": "ทอด",
-    "flavors": ["เผ็ด", "เปรี้ยว"],
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เผ็ด",
+      "เปรี้ยว"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Sour"
+    ],
     "spice_level": 2,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "world",
     "name": "เคบับ",
+    "name_en": "Kebab",
     "country": "ตุรกี",
+    "country_en": "Turkey",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "dish_type": "ของย่าง",
+    "dish_type_en": "Grilled Dish",
     "main_ingredient": "เนื้อแกะ",
+    "main_ingredient_en": "Lamb",
     "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
     "cooking_method": "ย่าง",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 1,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "world",
     "name": "เบอร์เกอร์",
+    "name_en": "Burger",
     "country": "สหรัฐอเมริกา",
+    "country_en": "United States",
     "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
     "dish_type": "แซนด์วิช",
+    "dish_type_en": "Sandwich",
     "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
     "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
     "cooking_method": "ย่าง",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "world",
     "name": "เบอร์ริโต",
+    "name_en": "Burrito",
     "country": "เม็กซิโก",
+    "country_en": "Mexico",
     "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
     "dish_type": "แป้ง",
+    "dish_type_en": "Batter Dish",
     "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
     "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
     "cooking_method": "ห่อ",
-    "flavors": ["เค็ม", "เผ็ด"],
+    "cooking_method_en": "Wrapped",
+    "flavors": [
+      "เค็ม",
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Spicy"
+    ],
     "spice_level": 2,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "world",
     "name": "นาโชส์",
+    "name_en": "Nachos",
     "country": "เม็กซิโก",
+    "country_en": "Mexico",
     "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
     "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
     "main_ingredient": "ข้าวโพด",
+    "main_ingredient_en": "Corn",
     "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
     "cooking_method": "ทอด",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 1,
-    "serving_temperature": "อุ่น"
+    "serving_temperature": "อุ่น",
+    "serving_temperature_en": "Warm"
   },
   {
     "collection": "world",
     "name": "ชวาร์มา",
+    "name_en": "Shawarma",
     "country": "เลบานอน",
+    "country_en": "Lebanon",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "dish_type": "แซนด์วิช",
+    "dish_type_en": "Sandwich",
     "main_ingredient": "ไก่",
+    "main_ingredient_en": "Chicken",
     "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
     "cooking_method": "ย่าง",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 1,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "world",
     "name": "ฟาลาเฟล",
+    "name_en": "Falafel",
     "country": "อิสราเอล",
+    "country_en": "Israel",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "dish_type": "ของทอด",
+    "dish_type_en": "Fried Dish",
     "main_ingredient": "ถั่วชิกพี",
+    "main_ingredient_en": "Chickpeas",
     "ingredient_group": "พืช",
+    "ingredient_group_en": "Plant-based",
     "cooking_method": "ทอด",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "world",
     "name": "บิบิมบับ",
+    "name_en": "Bibimbap",
     "country": "เกาหลีใต้",
+    "country_en": "South Korea",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
     "main_ingredient": "ข้าว",
+    "main_ingredient_en": "Rice",
     "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
     "cooking_method": "คลุก",
-    "flavors": ["เผ็ด", "เค็ม"],
+    "cooking_method_en": "Tossed",
+    "flavors": [
+      "เผ็ด",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Salty"
+    ],
     "spice_level": 2,
-    "serving_temperature": "ร้อน"
-  },
-  {
-    "collection": "world",
-    "name": "เฝอ",
-    "country": "เวียดนาม",
-    "continent": "เอเชีย",
-    "dish_type": "เส้น",
-    "main_ingredient": "เนื้อวัว",
-    "ingredient_group": "เนื้อสัตว์",
-    "cooking_method": "ต้ม",
-    "flavors": ["เค็ม"],
-    "spice_level": 1,
-    "serving_temperature": "ร้อน"
-  },
-  {
-    "collection": "world",
-    "name": "นาซีโกเร็ง",
-    "country": "อินโดนีเซีย",
-    "continent": "เอเชีย",
-    "dish_type": "ข้าว",
-    "main_ingredient": "ข้าว",
-    "ingredient_group": "ธัญพืช",
-    "cooking_method": "ผัด",
-    "flavors": ["หวาน", "เผ็ด"],
-    "spice_level": 2,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "world",
     "name": "กิมจิ",
+    "name_en": "Kimchi",
     "country": "เกาหลีใต้",
+    "country_en": "South Korea",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "dish_type": "ของหมัก",
+    "dish_type_en": "Fermented Dish",
     "main_ingredient": "กะหล่ำปลี",
+    "main_ingredient_en": "Cabbage",
     "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
     "cooking_method": "หมัก",
-    "flavors": ["เปรี้ยว", "เผ็ด"],
+    "cooking_method_en": "Marinated",
+    "flavors": [
+      "เปรี้ยว",
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Spicy"
+    ],
     "spice_level": 2,
-    "serving_temperature": "เย็น"
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
   },
   {
     "collection": "world",
     "name": "บุลโกกิ",
+    "name_en": "Bulgogi",
     "country": "เกาหลีใต้",
+    "country_en": "South Korea",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "dish_type": "ของย่าง",
+    "dish_type_en": "Grilled Dish",
     "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
     "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
     "cooking_method": "ย่าง",
-    "flavors": ["หวาน", "เค็ม"],
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "หวาน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "world",
     "name": "ซาโมซ่า",
+    "name_en": "Samosa",
     "country": "อินเดีย",
+    "country_en": "India",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "dish_type": "ของทอด",
+    "dish_type_en": "Fried Dish",
     "main_ingredient": "มันฝรั่ง",
+    "main_ingredient_en": "Potato",
     "ingredient_group": "พืช",
+    "ingredient_group_en": "Plant-based",
     "cooking_method": "ทอด",
-    "flavors": ["เผ็ด"],
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Spicy"
+    ],
     "spice_level": 2,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "world",
     "name": "บัตเตอร์ชิคเก้น",
+    "name_en": "Butter Chicken",
     "country": "อินเดีย",
+    "country_en": "India",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "dish_type": "แกง",
+    "dish_type_en": "Curry",
     "main_ingredient": "ไก่",
+    "main_ingredient_en": "Chicken",
     "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
     "cooking_method": "ต้ม",
-    "flavors": ["เผ็ด", "หวาน"],
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เผ็ด",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Sweet"
+    ],
     "spice_level": 2,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "world",
     "name": "เอ็มปานาดา",
+    "name_en": "Empanada",
     "country": "อาร์เจนตินา",
+    "country_en": "Argentina",
     "continent": "อเมริกาใต้",
+    "continent_en": "South America",
     "dish_type": "ของทอด",
+    "dish_type_en": "Fried Dish",
     "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
     "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
     "cooking_method": "อบ",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "world",
     "name": "ปูตีน",
+    "name_en": "Poutine",
     "country": "แคนาดา",
+    "country_en": "Canada",
     "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
     "dish_type": "ของทอด",
+    "dish_type_en": "Fried Dish",
     "main_ingredient": "มันฝรั่ง",
+    "main_ingredient_en": "Potato",
     "ingredient_group": "พืช",
+    "ingredient_group_en": "Plant-based",
     "cooking_method": "ทอด",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
-  },
-  {
-    "collection": "world",
-    "name": "เปาะเปี๊ยะสด",
-    "country": "เวียดนาม",
-    "continent": "เอเชีย",
-    "dish_type": "ของว่าง",
-    "main_ingredient": "กุ้ง",
-    "ingredient_group": "อาหารทะเล",
-    "cooking_method": "ลวก",
-    "flavors": ["เค็ม"],
-    "spice_level": 0,
-    "serving_temperature": "เย็น"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "world",
     "name": "ทาจีน",
+    "name_en": "Tagine",
     "country": "โมร็อกโก",
+    "country_en": "Morocco",
     "continent": "แอฟริกา",
+    "continent_en": "Africa",
     "dish_type": "แกง",
+    "dish_type_en": "Curry",
     "main_ingredient": "เนื้อแกะ",
+    "main_ingredient_en": "Lamb",
     "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
     "cooking_method": "ตุ๋น",
-    "flavors": ["หวาน", "เค็ม"],
+    "cooking_method_en": "Stewed/Braised",
+    "flavors": [
+      "หวาน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Salty"
+    ],
     "spice_level": 1,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "world",
     "name": "เซวิเช่",
+    "name_en": "Ceviche",
     "country": "เปรู",
+    "country_en": "Peru",
     "continent": "อเมริกาใต้",
+    "continent_en": "South America",
     "dish_type": "สลัด",
+    "dish_type_en": "Salad",
     "main_ingredient": "ปลา",
+    "main_ingredient_en": "Fish",
     "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
     "cooking_method": "สด",
-    "flavors": ["เปรี้ยว"],
+    "cooking_method_en": "Raw/Fresh",
+    "flavors": [
+      "เปรี้ยว"
+    ],
+    "flavors_en": [
+      "Sour"
+    ],
     "spice_level": 1,
-    "serving_temperature": "เย็น"
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
   },
   {
     "collection": "world",
     "name": "ฮอทดอก",
+    "name_en": "Hot Dog",
     "country": "สหรัฐอเมริกา",
+    "country_en": "United States",
     "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
     "dish_type": "แซนด์วิช",
+    "dish_type_en": "Sandwich",
     "main_ingredient": "ไส้กรอก",
+    "main_ingredient_en": "Sausage",
     "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
     "cooking_method": "ย่าง",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "ต๊อกโบกี",
+    "name_en": "Tteokbokki",
+    "country": "เกาหลีใต้",
+    "country_en": "South Korea",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "เค้กข้าว",
+    "main_ingredient_en": "Rice Cake",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เผ็ด",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Sweet"
+    ],
+    "spice_level": 3,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "จาจังมยอน",
+    "name_en": "Jajangmyeon",
+    "country": "เกาหลีใต้",
+    "country_en": "South Korea",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
+    "main_ingredient": "บะหมี่",
+    "main_ingredient_en": "Egg Noodles",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "ซัมกยอบซัล",
+    "name_en": "Samgyeopsal",
+    "country": "เกาหลีใต้",
+    "country_en": "South Korea",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของย่าง",
+    "dish_type_en": "Grilled Dish",
+    "main_ingredient": "หมูสามชั้น",
+    "main_ingredient_en": "Pork Belly",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "ซุนดูบูจีเก",
+    "name_en": "Sundubu-jjigae",
+    "country": "เกาหลีใต้",
+    "country_en": "South Korea",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ซุป",
+    "dish_type_en": "Soup",
+    "main_ingredient": "เต้าหู้",
+    "main_ingredient_en": "Tofu",
+    "ingredient_group": "พืช",
+    "ingredient_group_en": "Plant-based",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Spicy"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "คิมบับ",
+    "name_en": "Kimbap",
+    "country": "เกาหลีใต้",
+    "country_en": "South Korea",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
+    "main_ingredient": "ข้าว",
+    "main_ingredient_en": "Rice",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ห่อ",
+    "cooking_method_en": "Wrapped",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "world",
+    "name": "ซัมเกทัง",
+    "name_en": "Samgyetang",
+    "country": "เกาหลีใต้",
+    "country_en": "South Korea",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ซุป",
+    "dish_type_en": "Soup",
+    "main_ingredient": "ไก่",
+    "main_ingredient_en": "Chicken",
+    "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "ไก่ทอดเกาหลี",
+    "name_en": "Korean Fried Chicken",
+    "country": "เกาหลีใต้",
+    "country_en": "South Korea",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของทอด",
+    "dish_type_en": "Fried Dish",
+    "main_ingredient": "ไก่",
+    "main_ingredient_en": "Chicken",
+    "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "หวาน",
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Spicy"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "นังมยอน",
+    "name_en": "Naengmyeon (Cold Noodles)",
+    "country": "เกาหลีใต้",
+    "country_en": "South Korea",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
+    "main_ingredient": "บะหมี่เย็น",
+    "main_ingredient_en": "Cold Noodles",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ลวก",
+    "cooking_method_en": "Blanched",
+    "flavors": [
+      "เปรี้ยว",
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Spicy"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "world",
+    "name": "บิรยานี",
+    "name_en": "Biryani",
+    "country": "อินเดีย",
+    "country_en": "India",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
+    "main_ingredient": "ไก่",
+    "main_ingredient_en": "Chicken",
+    "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
+    "cooking_method": "หุงพร้อมกัน",
+    "cooking_method_en": "Cooked Together",
+    "flavors": [
+      "เผ็ดหอมเครื่องเทศ"
+    ],
+    "flavors_en": [
+      "Spicy and Aromatic Spices"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "นาน",
+    "name_en": "Naan",
+    "country": "อินเดีย",
+    "country_en": "India",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ขนมอบ",
+    "dish_type_en": "Baked Sweet",
+    "main_ingredient": "แป้ง",
+    "main_ingredient_en": "Flour",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "ทันดูรีชิคเก้น",
+    "name_en": "Tandoori Chicken",
+    "country": "อินเดีย",
+    "country_en": "India",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของย่าง",
+    "dish_type_en": "Grilled Dish",
+    "main_ingredient": "ไก่",
+    "main_ingredient_en": "Chicken",
+    "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เผ็ดหอมเครื่องเทศ"
+    ],
+    "flavors_en": [
+      "Spicy and Aromatic Spices"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "ดาลทาด์กา",
+    "name_en": "Dal Tadka",
+    "country": "อินเดีย",
+    "country_en": "India",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "แกง",
+    "dish_type_en": "Curry",
+    "main_ingredient": "ถั่ว",
+    "main_ingredient_en": "Lentils",
+    "ingredient_group": "พืช",
+    "ingredient_group_en": "Plant-based",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เผ็ดหอมเครื่องเทศ"
+    ],
+    "flavors_en": [
+      "Spicy and Aromatic Spices"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "ปาลักปะเนียร์",
+    "name_en": "Palak Paneer",
+    "country": "อินเดีย",
+    "country_en": "India",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "แกง",
+    "dish_type_en": "Curry",
+    "main_ingredient": "ผักโขม",
+    "main_ingredient_en": "Spinach",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เผ็ด",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Rich"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "โดซา",
+    "name_en": "Dosa",
+    "country": "อินเดีย",
+    "country_en": "India",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "แป้ง",
+    "dish_type_en": "Batter Dish",
+    "main_ingredient": "ข้าว",
+    "main_ingredient_en": "Rice",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "ไก่ทิกก้ามาซาล่า",
+    "name_en": "Chicken Tikka Masala",
+    "country": "อินเดีย",
+    "country_en": "India",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "แกง",
+    "dish_type_en": "Curry",
+    "main_ingredient": "ไก่",
+    "main_ingredient_en": "Chicken",
+    "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เผ็ด",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Sweet"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "ลาสซี่",
+    "name_en": "Lassi",
+    "country": "อินเดีย",
+    "country_en": "India",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เครื่องดื่ม",
+    "dish_type_en": "Beverage",
+    "main_ingredient": "โยเกิร์ต",
+    "main_ingredient_en": "Yogurt",
+    "ingredient_group": "นม",
+    "ingredient_group_en": "Dairy",
+    "cooking_method": "ปั่น",
+    "cooking_method_en": "Blended",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "world",
+    "name": "ฮัมมุส",
+    "name_en": "Hummus",
+    "country": "เลบานอน",
+    "country_en": "Lebanon",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เครื่องเคียง",
+    "dish_type_en": "Accompaniment",
+    "main_ingredient": "ถั่วชิกพี",
+    "main_ingredient_en": "Chickpeas",
+    "ingredient_group": "พืช",
+    "ingredient_group_en": "Plant-based",
+    "cooking_method": "ปั่น",
+    "cooking_method_en": "Blended",
+    "flavors": [
+      "เค็ม",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "world",
+    "name": "ทับบูเลห์",
+    "name_en": "Tabbouleh",
+    "country": "เลบานอน",
+    "country_en": "Lebanon",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "สลัด",
+    "dish_type_en": "Salad",
+    "main_ingredient": "พาร์สลีย์",
+    "main_ingredient_en": "Parsley",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "สด",
+    "cooking_method_en": "Raw/Fresh",
+    "flavors": [
+      "เปรี้ยว"
+    ],
+    "flavors_en": [
+      "Sour"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "world",
+    "name": "บาบากานูช",
+    "name_en": "Baba Ganoush",
+    "country": "เลบานอน",
+    "country_en": "Lebanon",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เครื่องเคียง",
+    "dish_type_en": "Accompaniment",
+    "main_ingredient": "มะเขือม่วง",
+    "main_ingredient_en": "Eggplant",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เค็ม",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "world",
+    "name": "โคชารี",
+    "name_en": "Koshari",
+    "country": "อียิปต์",
+    "country_en": "Egypt",
+    "continent": "แอฟริกา",
+    "continent_en": "Africa",
+    "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
+    "main_ingredient": "ข้าว",
+    "main_ingredient_en": "Rice",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม",
+      "เปรี้ยว"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Sour"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "ข้าวหมกไก่มันดี",
+    "name_en": "Chicken Mandi",
+    "country": "ซาอุดีอาระเบีย",
+    "country_en": "Saudi Arabia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
+    "main_ingredient": "ไก่",
+    "main_ingredient_en": "Chicken",
+    "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
+    "cooking_method": "หุงพร้อมกัน",
+    "cooking_method_en": "Cooked Together",
+    "flavors": [
+      "เค็มหอมเครื่องเทศ"
+    ],
+    "flavors_en": [
+      "Salty and Spice-aromatic"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "คุนาฟะ",
+    "name_en": "Kunafa",
+    "country": "ตุรกี",
+    "country_en": "Turkey",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "ชีส",
+    "main_ingredient_en": "Cheese",
+    "ingredient_group": "นม",
+    "ingredient_group_en": "Dairy",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "ไบเคิลลาห์มาจุน",
+    "name_en": "Lahmacun",
+    "country": "ตุรกี",
+    "country_en": "Turkey",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "แป้ง",
+    "dish_type_en": "Batter Dish",
+    "main_ingredient": "เนื้อแกะ",
+    "main_ingredient_en": "Lamb",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "เค็ม",
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Spicy"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "โจเจ๊ะคาบับ",
+    "name_en": "Joojeh Kabab",
+    "country": "อิหร่าน",
+    "country_en": "Iran",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของย่าง",
+    "dish_type_en": "Grilled Dish",
+    "main_ingredient": "ไก่",
+    "main_ingredient_en": "Chicken",
+    "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "คุสคุสโมร็อกโก",
+    "name_en": "Moroccan Couscous",
+    "country": "โมร็อกโก",
+    "country_en": "Morocco",
+    "continent": "แอฟริกา",
+    "continent_en": "Africa",
+    "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
+    "main_ingredient": "เซโมลินา",
+    "main_ingredient_en": "Semolina",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "นึ่ง",
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "อินเจอรากับวอท",
+    "name_en": "Injera with Wat",
+    "country": "เอธิโอเปีย",
+    "country_en": "Ethiopia",
+    "continent": "แอฟริกา",
+    "continent_en": "Africa",
+    "dish_type": "แป้ง",
+    "dish_type_en": "Batter Dish",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ตุ๋น",
+    "cooking_method_en": "Stewed/Braised",
+    "flavors": [
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Spicy"
+    ],
+    "spice_level": 3,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "จอลลอฟไรซ์",
+    "name_en": "Jollof Rice",
+    "country": "ไนจีเรีย",
+    "country_en": "Nigeria",
+    "continent": "แอฟริกา",
+    "continent_en": "Africa",
+    "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
+    "main_ingredient": "ข้าว",
+    "main_ingredient_en": "Rice",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "หุงพร้อมกัน",
+    "cooking_method_en": "Cooked Together",
+    "flavors": [
+      "เผ็ด",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Salty"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "โบโบทาย",
+    "name_en": "Bobotie",
+    "country": "แอฟริกาใต้",
+    "country_en": "South Africa",
+    "continent": "แอฟริกา",
+    "continent_en": "Africa",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "หวาน",
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Spicy"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "เปรีเปรีชิคเก้น",
+    "name_en": "Peri-Peri Chicken",
+    "country": "โมซัมบิก",
+    "country_en": "Mozambique",
+    "continent": "แอฟริกา",
+    "continent_en": "Africa",
+    "dish_type": "ของย่าง",
+    "dish_type_en": "Grilled Dish",
+    "main_ingredient": "ไก่",
+    "main_ingredient_en": "Chicken",
+    "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Spicy"
+    ],
+    "spice_level": 3,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "เตียบูดีแอน",
+    "name_en": "Thieboudienne",
+    "country": "เซเนกัล",
+    "country_en": "Senegal",
+    "continent": "แอฟริกา",
+    "continent_en": "Africa",
+    "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
+    "main_ingredient": "ปลา",
+    "main_ingredient_en": "Fish",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "ฟูฟูกานา",
+    "name_en": "Ghanaian Fufu",
+    "country": "กานา",
+    "country_en": "Ghana",
+    "continent": "แอฟริกา",
+    "continent_en": "Africa",
+    "dish_type": "แป้ง",
+    "dish_type_en": "Batter Dish",
+    "main_ingredient": "มันสำปะหลัง",
+    "main_ingredient_en": "Cassava",
+    "ingredient_group": "พืช",
+    "ingredient_group_en": "Plant-based",
+    "cooking_method": "ตำ",
+    "cooking_method_en": "Pounded",
+    "flavors": [
+      "มัน"
+    ],
+    "flavors_en": [
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "เอนชิลาดา",
+    "name_en": "Enchilada",
+    "country": "เม็กซิโก",
+    "country_en": "Mexico",
+    "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
+    "dish_type": "แป้ง",
+    "dish_type_en": "Batter Dish",
+    "main_ingredient": "ไก่",
+    "main_ingredient_en": "Chicken",
+    "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "เผ็ด",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Salty"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "ควิซาดิญ่า",
+    "name_en": "Quesadilla",
+    "country": "เม็กซิโก",
+    "country_en": "Mexico",
+    "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
+    "dish_type": "แป้ง",
+    "dish_type_en": "Batter Dish",
+    "main_ingredient": "ชีส",
+    "main_ingredient_en": "Cheese",
+    "ingredient_group": "นม",
+    "ingredient_group_en": "Dairy",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "โมเล่ปวยบลา",
+    "name_en": "Mole Poblano",
+    "country": "เม็กซิโก",
+    "country_en": "Mexico",
+    "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
+    "dish_type": "แกง",
+    "dish_type_en": "Curry",
+    "main_ingredient": "ไก่",
+    "main_ingredient_en": "Chicken",
+    "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
+    "cooking_method": "เคี่ยว",
+    "cooking_method_en": "Simmered",
+    "flavors": [
+      "เผ็ด",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Sweet"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "กัวคาโมเล่",
+    "name_en": "Guacamole",
+    "country": "เม็กซิโก",
+    "country_en": "Mexico",
+    "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
+    "dish_type": "เครื่องเคียง",
+    "dish_type_en": "Accompaniment",
+    "main_ingredient": "อะโวคาโด",
+    "main_ingredient_en": "Avocado",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "บด",
+    "cooking_method_en": "Ground/Mashed",
+    "flavors": [
+      "เค็ม",
+      "เปรี้ยว"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Sour"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "world",
+    "name": "แพนเค้กอเมริกัน",
+    "name_en": "American Pancakes",
+    "country": "สหรัฐอเมริกา",
+    "country_en": "United States",
+    "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "แป้ง",
+    "main_ingredient_en": "Flour",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "แมคแอนด์ชีส",
+    "name_en": "Mac and Cheese",
+    "country": "สหรัฐอเมริกา",
+    "country_en": "United States",
+    "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
+    "dish_type": "แป้ง",
+    "dish_type_en": "Batter Dish",
+    "main_ingredient": "ชีส",
+    "main_ingredient_en": "Cheese",
+    "ingredient_group": "นม",
+    "ingredient_group_en": "Dairy",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "เค็ม",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "บาร์บีคิวริบส์",
+    "name_en": "BBQ Ribs",
+    "country": "สหรัฐอเมริกา",
+    "country_en": "United States",
+    "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "ซี่โครงหมู",
+    "main_ingredient_en": "Pork Ribs",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "หวาน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Salty"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "กัมโบเคจัน",
+    "name_en": "Cajun Gumbo",
+    "country": "สหรัฐอเมริกา",
+    "country_en": "United States",
+    "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
+    "dish_type": "ซุป",
+    "dish_type_en": "Soup",
+    "main_ingredient": "กุ้ง",
+    "main_ingredient_en": "Shrimp",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Spicy"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "เฟย์โจอาดา",
+    "name_en": "Feijoada",
+    "country": "บราซิล",
+    "country_en": "Brazil",
+    "continent": "อเมริกาใต้",
+    "continent_en": "South America",
+    "dish_type": "แกง",
+    "dish_type_en": "Curry",
+    "main_ingredient": "ถั่วดำ",
+    "main_ingredient_en": "Black Beans",
+    "ingredient_group": "พืช",
+    "ingredient_group_en": "Plant-based",
+    "cooking_method": "ตุ๋น",
+    "cooking_method_en": "Stewed/Braised",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "เชอราสโก",
+    "name_en": "Churrasco",
+    "country": "บราซิล",
+    "country_en": "Brazil",
+    "continent": "อเมริกาใต้",
+    "continent_en": "South America",
+    "dish_type": "ของย่าง",
+    "dish_type_en": "Grilled Dish",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "อาเรปาโคลอมเบีย",
+    "name_en": "Colombian Arepa",
+    "country": "โคลอมเบีย",
+    "country_en": "Colombia",
+    "continent": "อเมริกาใต้",
+    "continent_en": "South America",
+    "dish_type": "แป้ง",
+    "dish_type_en": "Batter Dish",
+    "main_ingredient": "ข้าวโพด",
+    "main_ingredient_en": "Corn",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "จาไมกันเจิร์กชิคเก้น",
+    "name_en": "Jamaican Jerk Chicken",
+    "country": "จาเมกา",
+    "country_en": "Jamaica",
+    "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
+    "dish_type": "ของย่าง",
+    "dish_type_en": "Grilled Dish",
+    "main_ingredient": "ไก่",
+    "main_ingredient_en": "Chicken",
+    "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เผ็ดหอมเครื่องเทศ"
+    ],
+    "flavors_en": [
+      "Spicy and Aromatic Spices"
+    ],
+    "spice_level": 3,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "คิวบาแซนวิช",
+    "name_en": "Cuban Sandwich",
+    "country": "คิวบา",
+    "country_en": "Cuba",
+    "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
+    "dish_type": "แซนด์วิช",
+    "dish_type_en": "Sandwich",
+    "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "โลโม่ซัลตาโด",
+    "name_en": "Lomo Saltado",
+    "country": "เปรู",
+    "country_en": "Peru",
+    "continent": "อเมริกาใต้",
+    "continent_en": "South America",
+    "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "อาซาโด้",
+    "name_en": "Asado",
+    "country": "อาร์เจนตินา",
+    "country_en": "Argentina",
+    "continent": "อเมริกาใต้",
+    "continent_en": "South America",
+    "dish_type": "ของย่าง",
+    "dish_type_en": "Grilled Dish",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "มีทพายออสเตรเลีย",
+    "name_en": "Australian Meat Pie",
+    "country": "ออสเตรเลีย",
+    "country_en": "Australia",
+    "continent": "โอเชียเนีย",
+    "continent_en": "Oceania",
+    "dish_type": "แป้ง",
+    "dish_type_en": "Batter Dish",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "พาฟโลว่า",
+    "name_en": "Pavlova",
+    "country": "นิวซีแลนด์",
+    "country_en": "New Zealand",
+    "continent": "โอเชียเนีย",
+    "continent_en": "Oceania",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "ไข่ขาว",
+    "main_ingredient_en": "Egg White",
+    "ingredient_group": "ไข่",
+    "ingredient_group_en": "Eggs",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "world",
+    "name": "โพเก้ฮาวาย",
+    "name_en": "Hawaiian Poke",
+    "country": "สหรัฐอเมริกา",
+    "country_en": "United States",
+    "continent": "โอเชียเนีย",
+    "continent_en": "Oceania",
+    "dish_type": "สลัด",
+    "dish_type_en": "Salad",
+    "main_ingredient": "ปลาทูน่า",
+    "main_ingredient_en": "Tuna",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "สด",
+    "cooking_method_en": "Raw/Fresh",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "world",
+    "name": "คินคาลี",
+    "name_en": "Khinkali",
+    "country": "จอร์เจีย",
+    "country_en": "Georgia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "นึ่ง",
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "คาชาปูรี",
+    "name_en": "Khachapuri",
+    "country": "จอร์เจีย",
+    "country_en": "Georgia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ขนมอบ",
+    "dish_type_en": "Baked Sweet",
+    "main_ingredient": "ชีส",
+    "main_ingredient_en": "Cheese",
+    "ingredient_group": "นม",
+    "ingredient_group_en": "Dairy",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "พิลาฟอุซเบก",
+    "name_en": "Uzbek Plov",
+    "country": "อุซเบกิสถาน",
+    "country_en": "Uzbekistan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
+    "main_ingredient": "เนื้อแกะ",
+    "main_ingredient_en": "Lamb",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "หุงพร้อมกัน",
+    "cooking_method_en": "Cooked Together",
+    "flavors": [
+      "เค็ม",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "แชชลิกคาซัค",
+    "name_en": "Kazakh Shashlik",
+    "country": "คาซัคสถาน",
+    "country_en": "Kazakhstan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของย่าง",
+    "dish_type_en": "Grilled Dish",
+    "main_ingredient": "เนื้อแกะ",
+    "main_ingredient_en": "Lamb",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "นิฮารีปากีสถาน",
+    "name_en": "Pakistani Nihari",
+    "country": "ปากีสถาน",
+    "country_en": "Pakistan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "แกง",
+    "dish_type_en": "Curry",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ตุ๋น",
+    "cooking_method_en": "Stewed/Braised",
+    "flavors": [
+      "เผ็ดหอมเครื่องเทศ"
+    ],
+    "flavors_en": [
+      "Spicy and Aromatic Spices"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "โมโม่เนปาล",
+    "name_en": "Nepali Momo",
+    "country": "เนปาล",
+    "country_en": "Nepal",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "นึ่ง",
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "ฮอปเปอร์ศรีลังกา",
+    "name_en": "Sri Lankan Hoppers",
+    "country": "ศรีลังกา",
+    "country_en": "Sri Lanka",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "แป้ง",
+    "dish_type_en": "Batter Dish",
+    "main_ingredient": "แป้งข้าว",
+    "main_ingredient_en": "Rice Flour",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "แกงปลาศรีลังกา",
+    "name_en": "Sri Lankan Fish Curry",
+    "country": "ศรีลังกา",
+    "country_en": "Sri Lanka",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "แกง",
+    "dish_type_en": "Curry",
+    "main_ingredient": "ปลา",
+    "main_ingredient_en": "Fish",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เผ็ด",
+      "เปรี้ยว"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Sour"
+    ],
+    "spice_level": 3,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "ปลาฮิลซานึ่งบังกลาเทศ",
+    "name_en": "Bangladeshi Steamed Hilsa Fish",
+    "country": "บังกลาเทศ",
+    "country_en": "Bangladesh",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "ปลา",
+    "main_ingredient_en": "Fish",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "นึ่ง",
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Spicy"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "บอเรกตุรกี",
+    "name_en": "Turkish Börek",
+    "country": "ตุรกี",
+    "country_en": "Turkey",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ขนมอบ",
+    "dish_type_en": "Baked Sweet",
+    "main_ingredient": "ชีส",
+    "main_ingredient_en": "Cheese",
+    "ingredient_group": "นม",
+    "ingredient_group_en": "Dairy",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "ข้าวหมกกูซีอิรัก",
+    "name_en": "Iraqi Quzi Rice",
+    "country": "อิรัก",
+    "country_en": "Iraq",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
+    "main_ingredient": "เนื้อแกะ",
+    "main_ingredient_en": "Lamb",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "หุงพร้อมกัน",
+    "cooking_method_en": "Cooked Together",
+    "flavors": [
+      "เค็มหอมเครื่องเทศ"
+    ],
+    "flavors_en": [
+      "Salty and Spice-aromatic"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "มักลูบา",
+    "name_en": "Maqluba",
+    "country": "จอร์แดน",
+    "country_en": "Jordan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
+    "main_ingredient": "ไก่",
+    "main_ingredient_en": "Chicken",
+    "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
+    "cooking_method": "หุงพร้อมกัน",
+    "cooking_method_en": "Cooked Together",
+    "flavors": [
+      "เค็ม",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "ชักชูก้า",
+    "name_en": "Shakshuka",
+    "country": "ตูนิเซีย",
+    "country_en": "Tunisia",
+    "continent": "แอฟริกา",
+    "continent_en": "Africa",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "ไข่",
+    "main_ingredient_en": "Eggs",
+    "ingredient_group": "ไข่",
+    "ingredient_group_en": "Eggs",
+    "cooking_method": "ตุ๋น",
+    "cooking_method_en": "Stewed/Braised",
+    "flavors": [
+      "เผ็ด",
+      "เปรี้ยว"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Sour"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "อูกาลีเคนยา",
+    "name_en": "Kenyan Ugali",
+    "country": "เคนยา",
+    "country_en": "Kenya",
+    "continent": "แอฟริกา",
+    "continent_en": "Africa",
+    "dish_type": "แป้ง",
+    "dish_type_en": "Batter Dish",
+    "main_ingredient": "ข้าวโพด",
+    "main_ingredient_en": "Corn",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "มัน"
+    ],
+    "flavors_en": [
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "โมฟองโก",
+    "name_en": "Mofongo",
+    "country": "เปอร์โตริโก",
+    "country_en": "Puerto Rico",
+    "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
+    "dish_type": "แป้ง",
+    "dish_type_en": "Batter Dish",
+    "main_ingredient": "กล้วย",
+    "main_ingredient_en": "Plantain",
+    "ingredient_group": "พืช",
+    "ingredient_group_en": "Plant-based",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "โรตีแคริบเบียนตรินิแดด",
+    "name_en": "Trinidadian Roti",
+    "country": "ตรินิแดดและโตเบโก",
+    "country_en": "Trinidad and Tobago",
+    "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
+    "dish_type": "แป้ง",
+    "dish_type_en": "Batter Dish",
+    "main_ingredient": "แกงไก่",
+    "main_ingredient_en": "Curried Chicken",
+    "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
+    "cooking_method": "ห่อ",
+    "cooking_method_en": "Wrapped",
+    "flavors": [
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Spicy"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "ซัลเตญาโบลิเวีย",
+    "name_en": "Bolivian Salteña",
+    "country": "โบลิเวีย",
+    "country_en": "Bolivia",
+    "continent": "อเมริกาใต้",
+    "continent_en": "South America",
+    "dish_type": "ของทอด",
+    "dish_type_en": "Fried Dish",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "เค็ม",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Sweet"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "อาเรปาเวเนซุเอลาไส้ชีส",
+    "name_en": "Venezuelan Cheese Arepa",
+    "country": "เวเนซุเอลา",
+    "country_en": "Venezuela",
+    "continent": "อเมริกาใต้",
+    "continent_en": "South America",
+    "dish_type": "แป้ง",
+    "dish_type_en": "Batter Dish",
+    "main_ingredient": "ข้าวโพด",
+    "main_ingredient_en": "Corn",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "คาซูเอลาชิลี",
+    "name_en": "Chilean Cazuela",
+    "country": "ชิลี",
+    "country_en": "Chile",
+    "continent": "อเมริกาใต้",
+    "continent_en": "South America",
+    "dish_type": "ซุป",
+    "dish_type_en": "Soup",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "โฮร์ฮ็อกมองโกเลีย",
+    "name_en": "Mongolian Khorkhog",
+    "country": "มองโกเลีย",
+    "country_en": "Mongolia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "เนื้อแกะ",
+    "main_ingredient_en": "Lamb",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ตุ๋น",
+    "cooking_method_en": "Stewed/Braised",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "world",
+    "name": "บิลตองแอฟริกาใต้",
+    "name_en": "South African Biltong",
+    "country": "แอฟริกาใต้",
+    "country_en": "South Africa",
+    "continent": "แอฟริกา",
+    "continent_en": "Africa",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ตากแห้ง",
+    "cooking_method_en": "Sun-dried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
   }
 ]

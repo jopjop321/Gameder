@@ -189,7 +189,7 @@ class _PokemonCellContent extends StatelessWidget {
         ),
         const SizedBox(height: 2),
         Text(
-          pokemon.name,
+          pokemon.displayName,
           maxLines: 1,
           overflow: TextOverflow.ellipsis,
           style: const TextStyle(

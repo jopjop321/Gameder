@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 
 import '../theme/pokedle_theme.dart';
 
@@ -22,9 +23,9 @@ class GameErrorState extends StatelessWidget {
           children: [
             const Icon(Icons.error_outline, color: kWrongColor, size: 48),
             const SizedBox(height: 12),
-            const Text(
-              'ไม่พบข้อมูล Pokémon',
-              style: TextStyle(
+            Text(
+              'pokedle_notFoundTitle'.tr,
+              style: const TextStyle(
                 color: Colors.white,
                 fontSize: 16,
                 fontWeight: FontWeight.bold,
@@ -33,8 +34,7 @@ class GameErrorState extends StatelessWidget {
             ),
             const SizedBox(height: 6),
             Text(
-              'ตรวจสอบว่าประกาศ assets/data/$genFile.json '
-              'ไว้ใน pubspec.yaml แล้วหรือยัง',
+              'pokedle_assetsMissingHint'.trParams({'genFile': genFile}),
               style: const TextStyle(color: Colors.white70, fontSize: 13),
               textAlign: TextAlign.center,
             ),
@@ -42,7 +42,7 @@ class GameErrorState extends StatelessWidget {
             ElevatedButton.icon(
               onPressed: onRetry,
               icon: const Icon(Icons.refresh),
-              label: const Text('ลองใหม่'),
+              label: Text('common_retry'.tr),
             ),
           ],
         ),

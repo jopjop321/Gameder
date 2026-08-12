@@ -8,7 +8,7 @@ class PokedleCategoryScreen extends StatelessWidget {
     return Scaffold(
       backgroundColor: kAppBackgroundColor,
       appBar: AppBar(
-        title: const Text('เลือก Generation'),
+        title: Text('category_pokedleChooseGen'.tr),
         backgroundColor: Colors.transparent,
         foregroundColor: Colors.white,
         elevation: 0,

@@ -1,3 +1,5 @@
+import 'package:get/get.dart';
+
 class Pokemon {
   final int id;
   final String name;
@@ -60,6 +62,9 @@ class Pokemon {
       'generation': generation,
     };
   }
+
+  /// Name in the current app locale (Thai data already ships both).
+  String get displayName => Get.locale?.languageCode == 'th' ? nameTh : name;
 
   /// Official artwork sprite URL from PokeAPI.
   String get imageUrl =>

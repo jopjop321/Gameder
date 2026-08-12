@@ -45,7 +45,7 @@ class GuessResult {
     final attributes = <AttributeResult>[
       AttributeResult(
         status: guess.id == answer.id ? CellStatus.correct : CellStatus.wrong,
-        display: guess.name,
+        display: guess.displayName,
       ),
       _evaluateType1(guess, answer),
       _evaluateType2(guess, answer),

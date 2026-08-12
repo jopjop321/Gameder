@@ -1,6 +1,7 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 
 import '../controllers/pokemon.dart';
 import '../models/game_status.dart';
@@ -109,6 +110,13 @@ class _GameScreenState extends State<GameScreen> {
     _loadPokedex();
   }
 
+  Future<void> _openPokedex() async {
+    final selected = await showPokedexDialog(context, _pokedex);
+    if (!mounted || selected == null) return;
+    setState(() => _searchController.text = selected.displayName);
+    _searchFocusNode.requestFocus();
+  }
+
   Future<void> _confirmSurrender() async {
     if (_status != GameStatus.playing || _answer == null) return;
 
@@ -135,12 +143,12 @@ class _GameScreenState extends State<GameScreen> {
           if (_pokedex.isNotEmpty)
             IconButton(
               tooltip: 'Pokédex',
-              onPressed: () => showPokedexDialog(context, _pokedex),
+              onPressed: () => _openPokedex(),
               icon: const Icon(Icons.menu_book_rounded),
             ),
           if (_status == GameStatus.playing)
             IconButton(
-              tooltip: 'ยอมแพ้',
+              tooltip: 'pokedle_surrenderTooltip'.tr,
               onPressed: _confirmSurrender,
               icon: const Icon(Icons.flag_outlined),
             ),
@@ -149,7 +157,7 @@ class _GameScreenState extends State<GameScreen> {
               padding: const EdgeInsets.only(right: 16),
               child: Center(
                 child: Text(
-                  'ทายไปแล้ว ${_guesses.length} ครั้ง',
+                  'pokedle_guessCount'.trParams({'count': '${_guesses.length}'}),
                   style: const TextStyle(color: Colors.white70, fontSize: 14),
                 ),
               ),

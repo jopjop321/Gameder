@@ -8,7 +8,7 @@ class ColumnHeaderRow extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Row(
-      children: kColumnLabels
+      children: pokedleColumnLabels()
           .map(
             (label) => Container(
               width: kCellWidth,

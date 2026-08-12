@@ -1,5 +1,6 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 
 import '../controllers/pokemon.dart';
 import '../theme/pokedle_theme.dart';
@@ -59,14 +60,16 @@ class PokedleSearchBar extends StatelessWidget {
                         ),
                       ),
                       title: Text(
-                        p.name,
+                        p.displayName,
                         style: const TextStyle(
                           color: Colors.white,
                           fontWeight: FontWeight.w600,
                         ),
                       ),
                       subtitle: Text(
-                        '${p.nameTh} · ${p.romajiTh} · ${p.romajiEn}',
+                        Get.locale?.languageCode == 'th'
+                            ? '${p.name} · ${p.romajiTh} · ${p.romajiEn}'
+                            : '${p.nameTh} · ${p.romajiTh} · ${p.romajiEn}',
                         style: const TextStyle(
                           color: Colors.white54,
                           fontSize: 12,
@@ -86,7 +89,7 @@ class PokedleSearchBar extends StatelessWidget {
                 decoration: InputDecoration(
                   filled: true,
                   fillColor: kBgColor,
-                  hintText: 'Guess a Pokémon...',
+                  hintText: 'pokedle_searchHint'.tr,
                   hintStyle: const TextStyle(color: Colors.white38),
                   prefixIcon: const Icon(Icons.search, color: Colors.white54),
                   border: OutlineInputBorder(

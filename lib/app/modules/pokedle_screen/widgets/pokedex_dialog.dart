@@ -1,17 +1,18 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 
 import '../controllers/pokemon.dart';
 import '../theme/pokedle_theme.dart';
 
-Future<void> showPokedexDialog(
+Future<Pokemon?> showPokedexDialog(
   BuildContext context,
   List<Pokemon> pokedex,
 ) {
   final searchController = TextEditingController();
   var selectedGeneration = 0;
 
-  return showDialog<void>(
+  return showDialog<Pokemon>(
     context: context,
     builder: (dialogContext) => StatefulBuilder(
       builder: (context, setModalState) {
@@ -54,7 +55,7 @@ Future<void> showPokedexDialog(
                         ),
                       ),
                       IconButton(
-                        tooltip: 'Close',
+                        tooltip: 'pokedle_dexClose'.tr,
                         onPressed: () => Navigator.of(dialogContext).pop(),
                         icon: const Icon(Icons.close, color: Colors.white),
                       ),
@@ -71,7 +72,7 @@ Future<void> showPokedexDialog(
                           onChanged: (_) => setModalState(() {}),
                           style: const TextStyle(color: Colors.white),
                           decoration: InputDecoration(
-                            hintText: 'ค้นหาชื่อหรือเลข Pokédex',
+                            hintText: 'pokedle_dexSearchHint'.tr,
                             hintStyle: const TextStyle(color: Colors.white54),
                             prefixIcon: const Icon(
                               Icons.search,
@@ -92,6 +93,7 @@ Future<void> showPokedexDialog(
                         width: 132,
                         child: DropdownButtonFormField<int>(
                           value: selectedGeneration,
+                          isExpanded: true,
                           dropdownColor: kCardColor,
                           style: const TextStyle(color: Colors.white),
                           decoration: InputDecoration(
@@ -106,14 +108,18 @@ Future<void> showPokedexDialog(
                             ),
                           ),
                           items: [
-                            const DropdownMenuItem(
+                            DropdownMenuItem(
                               value: 0,
-                              child: Text('All Gen'),
+                              child: Text('pokedle_dexAllGen'.tr),
                             ),
                             ...generations.map(
                               (generation) => DropdownMenuItem(
                                 value: generation,
-                                child: Text('Gen $generation'),
+                                child: Text(
+                                  'pokedle_dexGenN'.trParams(
+                                    {'n': '$generation'},
+                                  ),
+                                ),
                               ),
                             ),
                           ],
@@ -138,10 +144,10 @@ Future<void> showPokedexDialog(
                           .clamp(2, 5)
                           .toInt();
                       return filteredPokemon.isEmpty
-                          ? const Center(
+                          ? Center(
                               child: Text(
-                                'No Pokémon found',
-                                style: TextStyle(color: Colors.white54),
+                                'pokedle_dexNoResults'.tr,
+                                style: const TextStyle(color: Colors.white54),
                               ),
                             )
                           : GridView.builder(
@@ -156,6 +162,8 @@ Future<void> showPokedexDialog(
                               ),
                               itemBuilder: (context, index) => PokedexEntryCard(
                                 pokemon: filteredPokemon[index],
+                                onTap: () => Navigator.of(dialogContext)
+                                    .pop(filteredPokemon[index]),
                               ),
                             );
                     },
@@ -172,68 +180,73 @@ Future<void> showPokedexDialog(
 
 class PokedexEntryCard extends StatelessWidget {
   final Pokemon pokemon;
+  final VoidCallback? onTap;
 
-  const PokedexEntryCard({super.key, required this.pokemon});
+  const PokedexEntryCard({super.key, required this.pokemon, this.onTap});
 
   @override
   Widget build(BuildContext context) {
-    return Container(
-      decoration: BoxDecoration(
-        color: kBgColor,
-        borderRadius: BorderRadius.circular(12),
-        border: Border.all(color: Colors.white12),
-      ),
-      child: Column(
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-          Expanded(
-            child: CachedNetworkImage(
-              imageUrl: pokemon.imageUrl,
-              fit: BoxFit.contain,
-              placeholder: (_, __) => const Center(
-                child: CircularProgressIndicator(strokeWidth: 2),
-              ),
-              errorWidget: (_, __, ___) => const Icon(
-                Icons.image_not_supported_outlined,
-                color: Colors.white38,
+    return InkWell(
+      onTap: onTap,
+      borderRadius: BorderRadius.circular(12),
+      child: Container(
+        decoration: BoxDecoration(
+          color: kBgColor,
+          borderRadius: BorderRadius.circular(12),
+          border: Border.all(color: Colors.white12),
+        ),
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Expanded(
+              child: CachedNetworkImage(
+                imageUrl: pokemon.imageUrl,
+                fit: BoxFit.contain,
+                placeholder: (_, __) => const Center(
+                  child: CircularProgressIndicator(strokeWidth: 2),
+                ),
+                errorWidget: (_, __, ___) => const Icon(
+                  Icons.image_not_supported_outlined,
+                  color: Colors.white38,
+                ),
               ),
             ),
-          ),
-          Padding(
-            padding: const EdgeInsets.fromLTRB(8, 0, 8, 10),
-            child: Column(
-              children: [
-                Text(
-                  '#${pokemon.id.toString().padLeft(3, '0')}',
-                  style: const TextStyle(color: Colors.white54, fontSize: 12),
-                ),
-                const SizedBox(height: 2),
-                Text(
-                  pokemon.name,
-                  maxLines: 1,
-                  overflow: TextOverflow.ellipsis,
-                  textAlign: TextAlign.center,
-                  style: const TextStyle(
-                    color: Colors.white,
-                    fontSize: 13,
-                    fontWeight: FontWeight.w600,
+            Padding(
+              padding: const EdgeInsets.fromLTRB(8, 0, 8, 10),
+              child: Column(
+                children: [
+                  Text(
+                    '#${pokemon.id.toString().padLeft(3, '0')}',
+                    style: const TextStyle(color: Colors.white54, fontSize: 12),
                   ),
-                ),
-                const SizedBox(height: 2),
-                Text(
-                  pokemon.nameTh,
-                  maxLines: 1,
-                  overflow: TextOverflow.ellipsis,
-                  textAlign: TextAlign.center,
-                  style: const TextStyle(
-                    color: Colors.white70,
-                    fontSize: 12,
+                  const SizedBox(height: 2),
+                  Text(
+                    pokemon.name,
+                    maxLines: 1,
+                    overflow: TextOverflow.ellipsis,
+                    textAlign: TextAlign.center,
+                    style: const TextStyle(
+                      color: Colors.white,
+                      fontSize: 13,
+                      fontWeight: FontWeight.w600,
+                    ),
                   ),
-                ),
-              ],
+                  const SizedBox(height: 2),
+                  Text(
+                    pokemon.nameTh,
+                    maxLines: 1,
+                    overflow: TextOverflow.ellipsis,
+                    textAlign: TextAlign.center,
+                    style: const TextStyle(
+                      color: Colors.white70,
+                      fontSize: 12,
+                    ),
+                  ),
+                ],
+              ),
             ),
-          ),
-        ],
+          ],
+        ),
       ),
     );
   }

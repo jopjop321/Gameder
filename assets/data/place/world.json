@@ -1,0 +1,2298 @@
+[
+  {
+    "collection": "world",
+    "name": "นครวัด",
+    "name_en": "Angkor Wat",
+    "country": "กัมพูชา",
+    "country_en": "Cambodia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": null,
+    "region_en": null,
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "เมืองโบราณ",
+    "main_feature_en": "Ancient City",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "มรดกโลก",
+      "ชมพระอาทิตย์ขึ้น"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Sunrise Viewing"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "กำแพงเมืองจีน",
+    "name_en": "Great Wall of China",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": null,
+    "region_en": null,
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "โบราณสถาน",
+    "main_feature_en": "Historical Site",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "มรดกโลก",
+      "วิวพาโนรามา"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Panoramic View"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "นครต้องห้าม",
+    "name_en": "Forbidden City",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": null,
+    "region_en": null,
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "พระราชวัง",
+    "main_feature_en": "Palace",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "มรดกโลก",
+      "ประวัติศาสตร์ยาวนาน"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Long History"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "กองทัพทหารดินเผา",
+    "name_en": "Terracotta Army",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": null,
+    "region_en": null,
+    "place_type": "พิพิธภัณฑ์",
+    "place_type_en": "Museum",
+    "main_feature": "โบราณสถาน",
+    "main_feature_en": "Historical Site",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "มรดกโลก",
+      "ประวัติศาสตร์ยาวนาน"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Long History"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "ทัชมาฮาล",
+    "name_en": "Taj Mahal",
+    "country": "อินเดีย",
+    "country_en": "India",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": null,
+    "region_en": null,
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "สุสาน",
+    "main_feature_en": "Tomb",
+    "feature_group": "สถาปัตยกรรม",
+    "feature_group_en": "Architecture",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "มรดกโลก",
+      "ชมพระอาทิตย์ขึ้น"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Sunrise Viewing"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "ป้อมแดง",
+    "name_en": "Red Fort",
+    "country": "อินเดีย",
+    "country_en": "India",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": null,
+    "region_en": null,
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "ป้อมปราการ",
+    "main_feature_en": "Fortress",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "มรดกโลก",
+      "ประวัติศาสตร์ยาวนาน"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Long History"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "world",
+    "name": "วัดทองคำ อมฤตสาร์",
+    "name_en": "Golden Temple, Amritsar",
+    "country": "อินเดีย",
+    "country_en": "India",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": null,
+    "region_en": null,
+    "place_type": "วัด/ศาสนสถาน",
+    "place_type_en": "Temple/Religious Site",
+    "main_feature": "ศาสนสถานซิกข์",
+    "main_feature_en": "Sikh Temple",
+    "feature_group": "ศาสนา/วัฒนธรรม",
+    "feature_group_en": "Religion/Culture",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ศรัทธา",
+      "สถาปัตยกรรมงดงาม"
+    ],
+    "highlights_en": [
+      "Faith",
+      "Beautiful Architecture"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "world",
+    "name": "ภูเขาไฟฟูจิ",
+    "name_en": "Mount Fuji",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": null,
+    "region_en": null,
+    "place_type": "ภูเขา/จุดชมวิว",
+    "place_type_en": "Mountain/Viewpoint",
+    "main_feature": "ภูเขา",
+    "main_feature_en": "Mountain",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ปีนเขา",
+    "activity_en": "Mountain Climbing",
+    "highlights": [
+      "วิวพาโนรามา",
+      "มรดกโลก"
+    ],
+    "highlights_en": [
+      "Panoramic View",
+      "World Heritage Site"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "world",
+    "name": "วัดคินคะคุจิ",
+    "name_en": "Kinkaku-ji (Golden Pavilion)",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": null,
+    "region_en": null,
+    "place_type": "วัด/ศาสนสถาน",
+    "place_type_en": "Temple/Religious Site",
+    "main_feature": "วัดพุทธ",
+    "main_feature_en": "Buddhist Temple",
+    "feature_group": "ศาสนา/วัฒนธรรม",
+    "feature_group_en": "Religion/Culture",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ถ่ายรูปสวย",
+      "มรดกโลก"
+    ],
+    "highlights_en": [
+      "Great Photo Spot",
+      "World Heritage Site"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "world",
+    "name": "ศาลเจ้าฟูชิมิอินาริ",
+    "name_en": "Fushimi Inari Shrine",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": null,
+    "region_en": null,
+    "place_type": "วัด/ศาสนสถาน",
+    "place_type_en": "Temple/Religious Site",
+    "main_feature": "ศาลเจ้า",
+    "main_feature_en": "Shrine",
+    "feature_group": "ศาสนา/วัฒนธรรม",
+    "feature_group_en": "Religion/Culture",
+    "activity": "เดินป่า",
+    "activity_en": "Hiking",
+    "highlights": [
+      "ถ่ายรูปสวย",
+      "ศรัทธา"
+    ],
+    "highlights_en": [
+      "Great Photo Spot",
+      "Faith"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "world",
+    "name": "โตเกียวสกายทรี",
+    "name_en": "Tokyo Skytree",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": null,
+    "region_en": null,
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "ตึกสูง/สถาปัตยกรรมสมัยใหม่",
+    "main_feature_en": "Skyscraper/Modern Architecture",
+    "feature_group": "สถาปัตยกรรม",
+    "feature_group_en": "Architecture",
+    "activity": "ขึ้นกระเช้า/ลิฟต์ชมวิว",
+    "activity_en": "Cable Car / Observation Deck",
+    "highlights": [
+      "วิวพาโนรามา",
+      "ถ่ายรูปสวย"
+    ],
+    "highlights_en": [
+      "Panoramic View",
+      "Great Photo Spot"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "พระราชวังเคียงบกกุง",
+    "name_en": "Gyeongbokgung Palace",
+    "country": "เกาหลีใต้",
+    "country_en": "South Korea",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": null,
+    "region_en": null,
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "พระราชวัง",
+    "main_feature_en": "Palace",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ประวัติศาสตร์ยาวนาน",
+      "วัฒนธรรมท้องถิ่น"
+    ],
+    "highlights_en": [
+      "Long History",
+      "Local Culture"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "world",
+    "name": "เมอร์ไลออน",
+    "name_en": "Merlion",
+    "country": "สิงคโปร์",
+    "country_en": "Singapore",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": null,
+    "region_en": null,
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "รูปปั้น",
+    "main_feature_en": "Statue",
+    "feature_group": "เมือง/ไลฟ์สไตล์",
+    "feature_group_en": "City/Lifestyle",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ถ่ายรูปสวย",
+      "วิวพาโนรามา"
+    ],
+    "highlights_en": [
+      "Great Photo Spot",
+      "Panoramic View"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "world",
+    "name": "มารีน่าเบย์แซนด์",
+    "name_en": "Marina Bay Sands",
+    "country": "สิงคโปร์",
+    "country_en": "Singapore",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": null,
+    "region_en": null,
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "ตึกสูง/สถาปัตยกรรมสมัยใหม่",
+    "main_feature_en": "Skyscraper/Modern Architecture",
+    "feature_group": "สถาปัตยกรรม",
+    "feature_group_en": "Architecture",
+    "activity": "ขึ้นกระเช้า/ลิฟต์ชมวิว",
+    "activity_en": "Cable Car / Observation Deck",
+    "highlights": [
+      "วิวพาโนรามา",
+      "ถ่ายรูปสวย"
+    ],
+    "highlights_en": [
+      "Panoramic View",
+      "Great Photo Spot"
+    ],
+    "cost_level": 3
+  },
+  {
+    "collection": "world",
+    "name": "บุโรพุทโธ",
+    "name_en": "Borobudur",
+    "country": "อินโดนีเซีย",
+    "country_en": "Indonesia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": null,
+    "region_en": null,
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "วัดพุทธ",
+    "main_feature_en": "Buddhist Temple",
+    "feature_group": "ศาสนา/วัฒนธรรม",
+    "feature_group_en": "Religion/Culture",
+    "activity": "ชมพระอาทิตย์ขึ้น",
+    "activity_en": "Sunrise Viewing",
+    "highlights": [
+      "มรดกโลก",
+      "ชมพระอาทิตย์ขึ้น"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Sunrise Viewing"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "วัดทานาห์ลอต",
+    "name_en": "Tanah Lot Temple",
+    "country": "อินโดนีเซีย",
+    "country_en": "Indonesia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": null,
+    "region_en": null,
+    "place_type": "วัด/ศาสนสถาน",
+    "place_type_en": "Temple/Religious Site",
+    "main_feature": "วัดฮินดู",
+    "main_feature_en": "Hindu Temple",
+    "feature_group": "ศาสนา/วัฒนธรรม",
+    "feature_group_en": "Religion/Culture",
+    "activity": "ชมพระอาทิตย์ตก",
+    "activity_en": "Sunset Viewing",
+    "highlights": [
+      "ชมพระอาทิตย์ตก",
+      "ศรัทธา"
+    ],
+    "highlights_en": [
+      "Sunset Viewing",
+      "Faith"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "world",
+    "name": "อ่าวฮาลอง",
+    "name_en": "Ha Long Bay",
+    "country": "เวียดนาม",
+    "country_en": "Vietnam",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": null,
+    "region_en": null,
+    "place_type": "ชายหาด/เกาะ",
+    "place_type_en": "Beach/Island",
+    "main_feature": "อ่าว",
+    "main_feature_en": "Bay",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ล่องเรือ",
+    "activity_en": "Boat Trip",
+    "highlights": [
+      "มรดกโลก",
+      "ธรรมชาติสวยงาม"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Beautiful Nature"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "เปตรา",
+    "name_en": "Petra",
+    "country": "จอร์แดน",
+    "country_en": "Jordan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": null,
+    "region_en": null,
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "เมืองโบราณ",
+    "main_feature_en": "Ancient City",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "เดินป่า",
+    "activity_en": "Hiking",
+    "highlights": [
+      "มรดกโลก",
+      "ประวัติศาสตร์ยาวนาน"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Long History"
+    ],
+    "cost_level": 3
+  },
+  {
+    "collection": "world",
+    "name": "บุรจญ์เคาะลีฟะฮ์",
+    "name_en": "Burj Khalifa",
+    "country": "สหรัฐอาหรับเอมิเรตส์",
+    "country_en": "United Arab Emirates",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": null,
+    "region_en": null,
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "ตึกสูง/สถาปัตยกรรมสมัยใหม่",
+    "main_feature_en": "Skyscraper/Modern Architecture",
+    "feature_group": "สถาปัตยกรรม",
+    "feature_group_en": "Architecture",
+    "activity": "ขึ้นกระเช้า/ลิฟต์ชมวิว",
+    "activity_en": "Cable Car / Observation Deck",
+    "highlights": [
+      "วิวพาโนรามา",
+      "ถ่ายรูปสวย"
+    ],
+    "highlights_en": [
+      "Panoramic View",
+      "Great Photo Spot"
+    ],
+    "cost_level": 3
+  },
+  {
+    "collection": "world",
+    "name": "ปาล์มจูไมราห์",
+    "name_en": "Palm Jumeirah",
+    "country": "สหรัฐอาหรับเอมิเรตส์",
+    "country_en": "United Arab Emirates",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": null,
+    "region_en": null,
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "เกาะเทียม",
+    "main_feature_en": "Artificial Island",
+    "feature_group": "สถาปัตยกรรม",
+    "feature_group_en": "Architecture",
+    "activity": "ขับรถชมวิว",
+    "activity_en": "Scenic Drive",
+    "highlights": [
+      "ถ่ายรูปสวย",
+      "หรูหรา"
+    ],
+    "highlights_en": [
+      "Great Photo Spot",
+      "Luxurious"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "ป้อมปราการซิกิริยา",
+    "name_en": "Sigiriya",
+    "country": "ศรีลังกา",
+    "country_en": "Sri Lanka",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": null,
+    "region_en": null,
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "ป้อมปราการ",
+    "main_feature_en": "Fortress",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "ปีนเขา",
+    "activity_en": "Mountain Climbing",
+    "highlights": [
+      "มรดกโลก",
+      "วิวพาโนรามา"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Panoramic View"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "ปราสาทฮิมจิ",
+    "name_en": "Himeji Castle",
+    "country": "ญี่ปุ่น",
+    "country_en": "Japan",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": null,
+    "region_en": null,
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "ปราสาท",
+    "main_feature_en": "Castle",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "มรดกโลก",
+      "สถาปัตยกรรมงดงาม"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Beautiful Architecture"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "world",
+    "name": "มหาพีระมิดแห่งกีซา",
+    "name_en": "Great Pyramid of Giza",
+    "country": "อียิปต์",
+    "country_en": "Egypt",
+    "continent": "แอฟริกา",
+    "continent_en": "Africa",
+    "region": null,
+    "region_en": null,
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "สุสาน",
+    "main_feature_en": "Tomb",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "มรดกโลก",
+      "ประวัติศาสตร์ยาวนาน"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Long History"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "มหาสฟิงซ์",
+    "name_en": "Great Sphinx",
+    "country": "อียิปต์",
+    "country_en": "Egypt",
+    "continent": "แอฟริกา",
+    "continent_en": "Africa",
+    "region": null,
+    "region_en": null,
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "รูปปั้น",
+    "main_feature_en": "Statue",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "มรดกโลก",
+      "ประวัติศาสตร์ยาวนาน"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Long History"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "ทะเลทรายซาฮารา",
+    "name_en": "Sahara Desert",
+    "country": "โมร็อกโก",
+    "country_en": "Morocco",
+    "continent": "แอฟริกา",
+    "continent_en": "Africa",
+    "region": null,
+    "region_en": null,
+    "place_type": "ธรรมชาติ",
+    "place_type_en": "Nature",
+    "main_feature": "ทะเลทราย",
+    "main_feature_en": "Desert",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ขับรถชมวิว",
+    "activity_en": "Scenic Drive",
+    "highlights": [
+      "ผจญภัย",
+      "ชมพระอาทิตย์ตก"
+    ],
+    "highlights_en": [
+      "Adventure",
+      "Sunset Viewing"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "เมืองเก่ามาราเกช",
+    "name_en": "Marrakech Old Town (Medina)",
+    "country": "โมร็อกโก",
+    "country_en": "Morocco",
+    "continent": "แอฟริกา",
+    "continent_en": "Africa",
+    "region": null,
+    "region_en": null,
+    "place_type": "เมืองเก่า/ย่านเก่า",
+    "place_type_en": "Old Town/Old Quarter",
+    "main_feature": "ย่านช้อปปิ้ง",
+    "main_feature_en": "Shopping District",
+    "feature_group": "เมือง/ไลฟ์สไตล์",
+    "feature_group_en": "City/Lifestyle",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "วัฒนธรรมท้องถิ่น",
+      "ช้อปปิ้ง"
+    ],
+    "highlights_en": [
+      "Local Culture",
+      "Shopping"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "world",
+    "name": "อุทยานแห่งชาติเซเรนเกติ",
+    "name_en": "Serengeti National Park",
+    "country": "แทนซาเนีย",
+    "country_en": "Tanzania",
+    "continent": "แอฟริกา",
+    "continent_en": "Africa",
+    "region": null,
+    "region_en": null,
+    "place_type": "อุทยานแห่งชาติ",
+    "place_type_en": "National Park",
+    "main_feature": "ทุ่งหญ้าสะวันนา",
+    "main_feature_en": "Savanna",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ซาฟารี",
+    "activity_en": "Safari",
+    "highlights": [
+      "ธรรมชาติสวยงาม",
+      "ผจญภัย"
+    ],
+    "highlights_en": [
+      "Beautiful Nature",
+      "Adventure"
+    ],
+    "cost_level": 3
+  },
+  {
+    "collection": "world",
+    "name": "เทเบิลเมาน์เทน",
+    "name_en": "Table Mountain",
+    "country": "แอฟริกาใต้",
+    "country_en": "South Africa",
+    "continent": "แอฟริกา",
+    "continent_en": "Africa",
+    "region": null,
+    "region_en": null,
+    "place_type": "ภูเขา/จุดชมวิว",
+    "place_type_en": "Mountain/Viewpoint",
+    "main_feature": "ภูเขา",
+    "main_feature_en": "Mountain",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ขึ้นกระเช้า/ลิฟต์ชมวิว",
+    "activity_en": "Cable Car / Observation Deck",
+    "highlights": [
+      "วิวพาโนรามา",
+      "ถ่ายรูปสวย"
+    ],
+    "highlights_en": [
+      "Panoramic View",
+      "Great Photo Spot"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "น้ำตกวิกตอเรีย",
+    "name_en": "Victoria Falls",
+    "country": "แซมเบีย",
+    "country_en": "Zambia",
+    "continent": "แอฟริกา",
+    "continent_en": "Africa",
+    "region": null,
+    "region_en": null,
+    "place_type": "น้ำตก",
+    "place_type_en": "Waterfall",
+    "main_feature": "น้ำตก",
+    "main_feature_en": "Waterfall",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "มรดกโลก",
+      "ธรรมชาติสวยงาม"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Beautiful Nature"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "หอไอเฟล",
+    "name_en": "Eiffel Tower",
+    "country": "ฝรั่งเศส",
+    "country_en": "France",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "region": null,
+    "region_en": null,
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "หอคอย",
+    "main_feature_en": "Tower",
+    "feature_group": "สถาปัตยกรรม",
+    "feature_group_en": "Architecture",
+    "activity": "ขึ้นกระเช้า/ลิฟต์ชมวิว",
+    "activity_en": "Cable Car / Observation Deck",
+    "highlights": [
+      "วิวพาโนรามา",
+      "โรแมนติก"
+    ],
+    "highlights_en": [
+      "Panoramic View",
+      "Romantic"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "พิพิธภัณฑ์ลูฟร์",
+    "name_en": "Louvre Museum",
+    "country": "ฝรั่งเศส",
+    "country_en": "France",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "region": null,
+    "region_en": null,
+    "place_type": "พิพิธภัณฑ์",
+    "place_type_en": "Museum",
+    "main_feature": "พิพิธภัณฑ์ศิลปะ",
+    "main_feature_en": "Art Museum",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "มรดกโลก",
+      "ศิลปะ"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Art"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "มหาวิหารนอเทรอดาม",
+    "name_en": "Notre-Dame Cathedral",
+    "country": "ฝรั่งเศส",
+    "country_en": "France",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "region": null,
+    "region_en": null,
+    "place_type": "วัด/ศาสนสถาน",
+    "place_type_en": "Temple/Religious Site",
+    "main_feature": "โบสถ์คริสต์",
+    "main_feature_en": "Christian Church",
+    "feature_group": "ศาสนา/วัฒนธรรม",
+    "feature_group_en": "Religion/Culture",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "สถาปัตยกรรมงดงาม",
+      "ศรัทธา"
+    ],
+    "highlights_en": [
+      "Beautiful Architecture",
+      "Faith"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "world",
+    "name": "พระราชวังแวร์ซาย",
+    "name_en": "Palace of Versailles",
+    "country": "ฝรั่งเศส",
+    "country_en": "France",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "region": null,
+    "region_en": null,
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "พระราชวัง",
+    "main_feature_en": "Palace",
+    "feature_group": "สถาปัตยกรรม",
+    "feature_group_en": "Architecture",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "มรดกโลก",
+      "สวนสวย"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Beautiful Garden"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "โคลอสเซียม",
+    "name_en": "Colosseum",
+    "country": "อิตาลี",
+    "country_en": "Italy",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "region": null,
+    "region_en": null,
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "สนามกีฬาโบราณ",
+    "main_feature_en": "Ancient Arena",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "มรดกโลก",
+      "ประวัติศาสตร์ยาวนาน"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Long History"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "หอเอนเมืองปิซา",
+    "name_en": "Leaning Tower of Pisa",
+    "country": "อิตาลี",
+    "country_en": "Italy",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "region": null,
+    "region_en": null,
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "หอคอย",
+    "main_feature_en": "Tower",
+    "feature_group": "สถาปัตยกรรม",
+    "feature_group_en": "Architecture",
+    "activity": "ถ่ายรูป",
+    "activity_en": "Photography",
+    "highlights": [
+      "ถ่ายรูปสวย",
+      "มรดกโลก"
+    ],
+    "highlights_en": [
+      "Great Photo Spot",
+      "World Heritage Site"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "world",
+    "name": "มหาวิหารเซนต์ปีเตอร์",
+    "name_en": "St. Peter's Basilica",
+    "country": "นครรัฐวาติกัน",
+    "country_en": "Vatican City",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "region": null,
+    "region_en": null,
+    "place_type": "วัด/ศาสนสถาน",
+    "place_type_en": "Temple/Religious Site",
+    "main_feature": "โบสถ์คริสต์",
+    "main_feature_en": "Christian Church",
+    "feature_group": "ศาสนา/วัฒนธรรม",
+    "feature_group_en": "Religion/Culture",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ศรัทธา",
+      "สถาปัตยกรรมงดงาม"
+    ],
+    "highlights_en": [
+      "Faith",
+      "Beautiful Architecture"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "world",
+    "name": "คลองเวนิส",
+    "name_en": "Venice Canals",
+    "country": "อิตาลี",
+    "country_en": "Italy",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "region": null,
+    "region_en": null,
+    "place_type": "เมืองเก่า/ย่านเก่า",
+    "place_type_en": "Old Town/Old Quarter",
+    "main_feature": "คลอง",
+    "main_feature_en": "Canal",
+    "feature_group": "เมือง/ไลฟ์สไตล์",
+    "feature_group_en": "City/Lifestyle",
+    "activity": "ล่องเรือ",
+    "activity_en": "Boat Trip",
+    "highlights": [
+      "โรแมนติก",
+      "มรดกโลก"
+    ],
+    "highlights_en": [
+      "Romantic",
+      "World Heritage Site"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "ซากราดาฟามีเลีย",
+    "name_en": "Sagrada Familia",
+    "country": "สเปน",
+    "country_en": "Spain",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "region": null,
+    "region_en": null,
+    "place_type": "วัด/ศาสนสถาน",
+    "place_type_en": "Temple/Religious Site",
+    "main_feature": "โบสถ์คริสต์",
+    "main_feature_en": "Christian Church",
+    "feature_group": "สถาปัตยกรรม",
+    "feature_group_en": "Architecture",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "มรดกโลก",
+      "สถาปัตยกรรมงดงาม"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Beautiful Architecture"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "พระราชวังอัลฮัมบรา",
+    "name_en": "Alhambra",
+    "country": "สเปน",
+    "country_en": "Spain",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "region": null,
+    "region_en": null,
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "ปราสาท",
+    "main_feature_en": "Castle",
+    "feature_group": "สถาปัตยกรรม",
+    "feature_group_en": "Architecture",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "มรดกโลก",
+      "สถาปัตยกรรมงดงาม"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Beautiful Architecture"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "หอนาฬิกาบิ๊กเบน",
+    "name_en": "Big Ben",
+    "country": "สหราชอาณาจักร",
+    "country_en": "United Kingdom",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "region": null,
+    "region_en": null,
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "หอนาฬิกา",
+    "main_feature_en": "Clock Tower",
+    "feature_group": "สถาปัตยกรรม",
+    "feature_group_en": "Architecture",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ถ่ายรูปสวย",
+      "วิวพาโนรามา"
+    ],
+    "highlights_en": [
+      "Great Photo Spot",
+      "Panoramic View"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "world",
+    "name": "สโตนเฮนจ์",
+    "name_en": "Stonehenge",
+    "country": "สหราชอาณาจักร",
+    "country_en": "United Kingdom",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "region": null,
+    "region_en": null,
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "อนุสรณ์สถานยุคหิน",
+    "main_feature_en": "Stone Age Monument",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "มรดกโลก",
+      "ประวัติศาสตร์ยาวนาน"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Long History"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "ปราสาทเอดินบะระ",
+    "name_en": "Edinburgh Castle",
+    "country": "สหราชอาณาจักร",
+    "country_en": "United Kingdom",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "region": null,
+    "region_en": null,
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "ปราสาท",
+    "main_feature_en": "Castle",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "วิวพาโนรามา",
+      "ประวัติศาสตร์ยาวนาน"
+    ],
+    "highlights_en": [
+      "Panoramic View",
+      "Long History"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "ปราสาทนอยชวานสไตน์",
+    "name_en": "Neuschwanstein Castle",
+    "country": "เยอรมนี",
+    "country_en": "Germany",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "region": null,
+    "region_en": null,
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "ปราสาท",
+    "main_feature_en": "Castle",
+    "feature_group": "สถาปัตยกรรม",
+    "feature_group_en": "Architecture",
+    "activity": "เดินป่า",
+    "activity_en": "Hiking",
+    "highlights": [
+      "สถาปัตยกรรมงดงาม",
+      "ถ่ายรูปสวย"
+    ],
+    "highlights_en": [
+      "Beautiful Architecture",
+      "Great Photo Spot"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "ประตูบรันเดินบวร์ค",
+    "name_en": "Brandenburg Gate",
+    "country": "เยอรมนี",
+    "country_en": "Germany",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "region": null,
+    "region_en": null,
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "ประตูชัย",
+    "main_feature_en": "Triumphal Arch",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ประวัติศาสตร์ยาวนาน",
+      "ถ่ายรูปสวย"
+    ],
+    "highlights_en": [
+      "Long History",
+      "Great Photo Spot"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "world",
+    "name": "แมทเทอร์ฮอร์น",
+    "name_en": "Matterhorn",
+    "country": "สวิตเซอร์แลนด์",
+    "country_en": "Switzerland",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "region": null,
+    "region_en": null,
+    "place_type": "ภูเขา/จุดชมวิว",
+    "place_type_en": "Mountain/Viewpoint",
+    "main_feature": "ภูเขา",
+    "main_feature_en": "Mountain",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ขึ้นกระเช้า/ลิฟต์ชมวิว",
+    "activity_en": "Cable Car / Observation Deck",
+    "highlights": [
+      "วิวพาโนรามา",
+      "ธรรมชาติสวยงาม"
+    ],
+    "highlights_en": [
+      "Panoramic View",
+      "Beautiful Nature"
+    ],
+    "cost_level": 3
+  },
+  {
+    "collection": "world",
+    "name": "จัตุรัสเมืองเก่าปราก",
+    "name_en": "Prague Old Town Square",
+    "country": "สาธารณรัฐเช็ก",
+    "country_en": "Czech Republic",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "region": null,
+    "region_en": null,
+    "place_type": "เมืองเก่า/ย่านเก่า",
+    "place_type_en": "Old Town/Old Quarter",
+    "main_feature": "จัตุรัสกลางเมือง",
+    "main_feature_en": "City Square",
+    "feature_group": "เมือง/ไลฟ์สไตล์",
+    "feature_group_en": "City/Lifestyle",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "สถาปัตยกรรมงดงาม",
+      "วัฒนธรรมท้องถิ่น"
+    ],
+    "highlights_en": [
+      "Beautiful Architecture",
+      "Local Culture"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "world",
+    "name": "ซานโตรินี",
+    "name_en": "Santorini",
+    "country": "กรีซ",
+    "country_en": "Greece",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "region": null,
+    "region_en": null,
+    "place_type": "ชายหาด/เกาะ",
+    "place_type_en": "Beach/Island",
+    "main_feature": "เกาะภูเขาไฟ",
+    "main_feature_en": "Volcanic Island",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ชมพระอาทิตย์ตก",
+    "activity_en": "Sunset Viewing",
+    "highlights": [
+      "ชมพระอาทิตย์ตก",
+      "โรแมนติก"
+    ],
+    "highlights_en": [
+      "Sunset Viewing",
+      "Romantic"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "world",
+    "name": "วิหารพาร์เธนอน",
+    "name_en": "Parthenon",
+    "country": "กรีซ",
+    "country_en": "Greece",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "region": null,
+    "region_en": null,
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "วิหารกรีก",
+    "main_feature_en": "Greek Temple",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "มรดกโลก",
+      "ประวัติศาสตร์ยาวนาน"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Long History"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "world",
+    "name": "บลูลากูน",
+    "name_en": "Blue Lagoon",
+    "country": "ไอซ์แลนด์",
+    "country_en": "Iceland",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "region": null,
+    "region_en": null,
+    "place_type": "ธรรมชาติ",
+    "place_type_en": "Nature",
+    "main_feature": "บ่อน้ำพุร้อน",
+    "main_feature_en": "Hot Spring",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "แช่น้ำพุร้อน",
+    "activity_en": "Hot Spring Soak",
+    "highlights": [
+      "ผ่อนคลาย",
+      "ธรรมชาติสวยงาม"
+    ],
+    "highlights_en": [
+      "Relaxation",
+      "Beautiful Nature"
+    ],
+    "cost_level": 3
+  },
+  {
+    "collection": "world",
+    "name": "คลองอัมสเตอร์ดัม",
+    "name_en": "Amsterdam Canals",
+    "country": "เนเธอร์แลนด์",
+    "country_en": "Netherlands",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "region": null,
+    "region_en": null,
+    "place_type": "เมืองเก่า/ย่านเก่า",
+    "place_type_en": "Old Town/Old Quarter",
+    "main_feature": "คลอง",
+    "main_feature_en": "Canal",
+    "feature_group": "เมือง/ไลฟ์สไตล์",
+    "feature_group_en": "City/Lifestyle",
+    "activity": "ปั่นจักรยาน",
+    "activity_en": "Cycling",
+    "highlights": [
+      "สถาปัตยกรรมงดงาม",
+      "วัฒนธรรมท้องถิ่น"
+    ],
+    "highlights_en": [
+      "Beautiful Architecture",
+      "Local Culture"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "world",
+    "name": "จัตุรัสแดง",
+    "name_en": "Red Square",
+    "country": "รัสเซีย",
+    "country_en": "Russia",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "region": null,
+    "region_en": null,
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "จัตุรัสกลางเมือง",
+    "main_feature_en": "City Square",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ประวัติศาสตร์ยาวนาน",
+      "สถาปัตยกรรมงดงาม"
+    ],
+    "highlights_en": [
+      "Long History",
+      "Beautiful Architecture"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "world",
+    "name": "สะพานชาร์ลส์",
+    "name_en": "Charles Bridge",
+    "country": "สาธารณรัฐเช็ก",
+    "country_en": "Czech Republic",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "region": null,
+    "region_en": null,
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "สะพาน",
+    "main_feature_en": "Bridge",
+    "feature_group": "สถาปัตยกรรม",
+    "feature_group_en": "Architecture",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ถ่ายรูปสวย",
+      "ประวัติศาสตร์ยาวนาน"
+    ],
+    "highlights_en": [
+      "Great Photo Spot",
+      "Long History"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "world",
+    "name": "เทพีเสรีภาพ",
+    "name_en": "Statue of Liberty",
+    "country": "สหรัฐอเมริกา",
+    "country_en": "United States",
+    "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
+    "region": null,
+    "region_en": null,
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "รูปปั้น",
+    "main_feature_en": "Statue",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "ล่องเรือ",
+    "activity_en": "Boat Trip",
+    "highlights": [
+      "มรดกโลก",
+      "ถ่ายรูปสวย"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Great Photo Spot"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "ไทม์สแควร์",
+    "name_en": "Times Square",
+    "country": "สหรัฐอเมริกา",
+    "country_en": "United States",
+    "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
+    "region": null,
+    "region_en": null,
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "จัตุรัสกลางเมือง",
+    "main_feature_en": "City Square",
+    "feature_group": "เมือง/ไลฟ์สไตล์",
+    "feature_group_en": "City/Lifestyle",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ไนท์ไลฟ์",
+      "ถ่ายรูปสวย"
+    ],
+    "highlights_en": [
+      "Nightlife",
+      "Great Photo Spot"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "world",
+    "name": "แกรนด์แคนยอน",
+    "name_en": "Grand Canyon",
+    "country": "สหรัฐอเมริกา",
+    "country_en": "United States",
+    "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
+    "region": null,
+    "region_en": null,
+    "place_type": "อุทยานแห่งชาติ",
+    "place_type_en": "National Park",
+    "main_feature": "หุบเขา",
+    "main_feature_en": "Canyon",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินป่า",
+    "activity_en": "Hiking",
+    "highlights": [
+      "วิวพาโนรามา",
+      "ธรรมชาติสวยงาม"
+    ],
+    "highlights_en": [
+      "Panoramic View",
+      "Beautiful Nature"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "น้ำตกไนแองการา",
+    "name_en": "Niagara Falls",
+    "country": "สหรัฐอเมริกา",
+    "country_en": "United States",
+    "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
+    "region": null,
+    "region_en": null,
+    "place_type": "น้ำตก",
+    "place_type_en": "Waterfall",
+    "main_feature": "น้ำตก",
+    "main_feature_en": "Waterfall",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ล่องเรือ",
+    "activity_en": "Boat Trip",
+    "highlights": [
+      "ธรรมชาติสวยงาม",
+      "ผจญภัย"
+    ],
+    "highlights_en": [
+      "Beautiful Nature",
+      "Adventure"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "สะพานโกลเดนเกต",
+    "name_en": "Golden Gate Bridge",
+    "country": "สหรัฐอเมริกา",
+    "country_en": "United States",
+    "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
+    "region": null,
+    "region_en": null,
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "สะพาน",
+    "main_feature_en": "Bridge",
+    "feature_group": "สถาปัตยกรรม",
+    "feature_group_en": "Architecture",
+    "activity": "ปั่นจักรยาน",
+    "activity_en": "Cycling",
+    "highlights": [
+      "ถ่ายรูปสวย",
+      "วิวพาโนรามา"
+    ],
+    "highlights_en": [
+      "Great Photo Spot",
+      "Panoramic View"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "world",
+    "name": "วอลท์ดิสนีย์เวิลด์",
+    "name_en": "Walt Disney World",
+    "country": "สหรัฐอเมริกา",
+    "country_en": "United States",
+    "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
+    "region": null,
+    "region_en": null,
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "สวนสนุก",
+    "main_feature_en": "Theme Park",
+    "feature_group": "เมือง/ไลฟ์สไตล์",
+    "feature_group_en": "City/Lifestyle",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ครอบครัว",
+      "ผจญภัย"
+    ],
+    "highlights_en": [
+      "Family-Friendly",
+      "Adventure"
+    ],
+    "cost_level": 3
+  },
+  {
+    "collection": "world",
+    "name": "อุทยานแห่งชาติเยลโลว์สโตน",
+    "name_en": "Yellowstone National Park",
+    "country": "สหรัฐอเมริกา",
+    "country_en": "United States",
+    "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
+    "region": null,
+    "region_en": null,
+    "place_type": "อุทยานแห่งชาติ",
+    "place_type_en": "National Park",
+    "main_feature": "บ่อน้ำพุร้อน",
+    "main_feature_en": "Hot Spring",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินป่า",
+    "activity_en": "Hiking",
+    "highlights": [
+      "ธรรมชาติสวยงาม",
+      "ผจญภัย"
+    ],
+    "highlights_en": [
+      "Beautiful Nature",
+      "Adventure"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "ลาสเวกัสสตริป",
+    "name_en": "Las Vegas Strip",
+    "country": "สหรัฐอเมริกา",
+    "country_en": "United States",
+    "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
+    "region": null,
+    "region_en": null,
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "ย่านช้อปปิ้ง",
+    "main_feature_en": "Shopping District",
+    "feature_group": "เมือง/ไลฟ์สไตล์",
+    "feature_group_en": "City/Lifestyle",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ไนท์ไลฟ์",
+      "ถ่ายรูปสวย"
+    ],
+    "highlights_en": [
+      "Nightlife",
+      "Great Photo Spot"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "world",
+    "name": "หอคอยซีเอ็น",
+    "name_en": "CN Tower",
+    "country": "แคนาดา",
+    "country_en": "Canada",
+    "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
+    "region": null,
+    "region_en": null,
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "หอคอย",
+    "main_feature_en": "Tower",
+    "feature_group": "สถาปัตยกรรม",
+    "feature_group_en": "Architecture",
+    "activity": "ขึ้นกระเช้า/ลิฟต์ชมวิว",
+    "activity_en": "Cable Car / Observation Deck",
+    "highlights": [
+      "วิวพาโนรามา",
+      "ถ่ายรูปสวย"
+    ],
+    "highlights_en": [
+      "Panoramic View",
+      "Great Photo Spot"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "ทะเลสาบหลุยส์",
+    "name_en": "Lake Louise",
+    "country": "แคนาดา",
+    "country_en": "Canada",
+    "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
+    "region": null,
+    "region_en": null,
+    "place_type": "ธรรมชาติ",
+    "place_type_en": "Nature",
+    "main_feature": "ทะเลสาบ",
+    "main_feature_en": "Lake",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินป่า",
+    "activity_en": "Hiking",
+    "highlights": [
+      "ธรรมชาติสวยงาม",
+      "ถ่ายรูปสวย"
+    ],
+    "highlights_en": [
+      "Beautiful Nature",
+      "Great Photo Spot"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "world",
+    "name": "อุทยานแห่งชาติแบนฟ์",
+    "name_en": "Banff National Park",
+    "country": "แคนาดา",
+    "country_en": "Canada",
+    "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
+    "region": null,
+    "region_en": null,
+    "place_type": "อุทยานแห่งชาติ",
+    "place_type_en": "National Park",
+    "main_feature": "ภูเขา",
+    "main_feature_en": "Mountain",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินป่า",
+    "activity_en": "Hiking",
+    "highlights": [
+      "ธรรมชาติสวยงาม",
+      "ผจญภัย"
+    ],
+    "highlights_en": [
+      "Beautiful Nature",
+      "Adventure"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "ชิเชนอิตซา",
+    "name_en": "Chichen Itza",
+    "country": "เม็กซิโก",
+    "country_en": "Mexico",
+    "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
+    "region": null,
+    "region_en": null,
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "เมืองโบราณ",
+    "main_feature_en": "Ancient City",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "มรดกโลก",
+      "ประวัติศาสตร์ยาวนาน"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Long History"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "ตูลุม",
+    "name_en": "Tulum",
+    "country": "เม็กซิโก",
+    "country_en": "Mexico",
+    "continent": "อเมริกาเหนือ",
+    "continent_en": "North America",
+    "region": null,
+    "region_en": null,
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "เมืองโบราณ",
+    "main_feature_en": "Ancient City",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ประวัติศาสตร์ยาวนาน",
+      "น้ำทะเลใส"
+    ],
+    "highlights_en": [
+      "Long History",
+      "Clear Water"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "world",
+    "name": "มาชูปิกชู",
+    "name_en": "Machu Picchu",
+    "country": "เปรู",
+    "country_en": "Peru",
+    "continent": "อเมริกาใต้",
+    "continent_en": "South America",
+    "region": null,
+    "region_en": null,
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "เมืองโบราณ",
+    "main_feature_en": "Ancient City",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "เดินป่า",
+    "activity_en": "Hiking",
+    "highlights": [
+      "มรดกโลก",
+      "วิวพาโนรามา"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Panoramic View"
+    ],
+    "cost_level": 3
+  },
+  {
+    "collection": "world",
+    "name": "เส้นแบ่งเขตนาซกา",
+    "name_en": "Nazca Lines",
+    "country": "เปรู",
+    "country_en": "Peru",
+    "continent": "อเมริกาใต้",
+    "continent_en": "South America",
+    "region": null,
+    "region_en": null,
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "รอยขีดเขียนโบราณ",
+    "main_feature_en": "Ancient Geoglyphs",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "ขับรถชมวิว",
+    "activity_en": "Scenic Drive",
+    "highlights": [
+      "มรดกโลก",
+      "ประวัติศาสตร์ยาวนาน"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Long History"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "รูปปั้นพระคริสต์ผู้ไถ่",
+    "name_en": "Christ the Redeemer",
+    "country": "บราซิล",
+    "country_en": "Brazil",
+    "continent": "อเมริกาใต้",
+    "continent_en": "South America",
+    "region": null,
+    "region_en": null,
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "รูปปั้น",
+    "main_feature_en": "Statue",
+    "feature_group": "ศาสนา/วัฒนธรรม",
+    "feature_group_en": "Religion/Culture",
+    "activity": "ขึ้นกระเช้า/ลิฟต์ชมวิว",
+    "activity_en": "Cable Car / Observation Deck",
+    "highlights": [
+      "วิวพาโนรามา",
+      "ศรัทธา"
+    ],
+    "highlights_en": [
+      "Panoramic View",
+      "Faith"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "น้ำตกอีกวาซู",
+    "name_en": "Iguazu Falls",
+    "country": "บราซิล",
+    "country_en": "Brazil",
+    "continent": "อเมริกาใต้",
+    "continent_en": "South America",
+    "region": null,
+    "region_en": null,
+    "place_type": "น้ำตก",
+    "place_type_en": "Waterfall",
+    "main_feature": "น้ำตก",
+    "main_feature_en": "Waterfall",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "มรดกโลก",
+      "ธรรมชาติสวยงาม"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Beautiful Nature"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "ทะเลสาบเกลือยูยูนี",
+    "name_en": "Salar de Uyuni",
+    "country": "โบลิเวีย",
+    "country_en": "Bolivia",
+    "continent": "อเมริกาใต้",
+    "continent_en": "South America",
+    "region": null,
+    "region_en": null,
+    "place_type": "ธรรมชาติ",
+    "place_type_en": "Nature",
+    "main_feature": "ทะเลสาบเกลือ",
+    "main_feature_en": "Salt Flat",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ขับรถชมวิว",
+    "activity_en": "Scenic Drive",
+    "highlights": [
+      "ถ่ายรูปสวย",
+      "ธรรมชาติสวยงาม"
+    ],
+    "highlights_en": [
+      "Great Photo Spot",
+      "Beautiful Nature"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "เกาะอีสเตอร์",
+    "name_en": "Easter Island",
+    "country": "ชิลี",
+    "country_en": "Chile",
+    "continent": "อเมริกาใต้",
+    "continent_en": "South America",
+    "region": null,
+    "region_en": null,
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "รูปปั้นโมอาย",
+    "main_feature_en": "Moai Statues",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "มรดกโลก",
+      "ประวัติศาสตร์ยาวนาน"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Long History"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "โรงอุปรากรซิดนีย์",
+    "name_en": "Sydney Opera House",
+    "country": "ออสเตรเลีย",
+    "country_en": "Australia",
+    "continent": "โอเชียเนีย",
+    "continent_en": "Oceania",
+    "region": null,
+    "region_en": null,
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "สถาปัตยกรรมสมัยใหม่",
+    "main_feature_en": "Modern Architecture",
+    "feature_group": "สถาปัตยกรรม",
+    "feature_group_en": "Architecture",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "มรดกโลก",
+      "ถ่ายรูปสวย"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Great Photo Spot"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "สะพานซิดนีย์ฮาร์เบอร์",
+    "name_en": "Sydney Harbour Bridge",
+    "country": "ออสเตรเลีย",
+    "country_en": "Australia",
+    "continent": "โอเชียเนีย",
+    "continent_en": "Oceania",
+    "region": null,
+    "region_en": null,
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "สะพาน",
+    "main_feature_en": "Bridge",
+    "feature_group": "สถาปัตยกรรม",
+    "feature_group_en": "Architecture",
+    "activity": "ปีนเขา",
+    "activity_en": "Mountain Climbing",
+    "highlights": [
+      "วิวพาโนรามา",
+      "ผจญภัย"
+    ],
+    "highlights_en": [
+      "Panoramic View",
+      "Adventure"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "แนวปะการังเกรตแบร์ริเออร์รีฟ",
+    "name_en": "Great Barrier Reef",
+    "country": "ออสเตรเลีย",
+    "country_en": "Australia",
+    "continent": "โอเชียเนีย",
+    "continent_en": "Oceania",
+    "region": null,
+    "region_en": null,
+    "place_type": "ชายหาด/เกาะ",
+    "place_type_en": "Beach/Island",
+    "main_feature": "แนวปะการัง",
+    "main_feature_en": "Coral Reef",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ดำน้ำ/ดูปะการัง",
+    "activity_en": "Diving & Snorkeling",
+    "highlights": [
+      "มรดกโลก",
+      "น้ำทะเลใส"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Clear Water"
+    ],
+    "cost_level": 3
+  },
+  {
+    "collection": "world",
+    "name": "อูลูรู",
+    "name_en": "Uluru (Ayers Rock)",
+    "country": "ออสเตรเลีย",
+    "country_en": "Australia",
+    "continent": "โอเชียเนีย",
+    "continent_en": "Oceania",
+    "region": null,
+    "region_en": null,
+    "place_type": "ธรรมชาติ",
+    "place_type_en": "Nature",
+    "main_feature": "ภูเขาหิน",
+    "main_feature_en": "Rock Formation",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ชมพระอาทิตย์ตก",
+    "activity_en": "Sunset Viewing",
+    "highlights": [
+      "มรดกโลก",
+      "ชมพระอาทิตย์ตก"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Sunset Viewing"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "โรโตรัว",
+    "name_en": "Rotorua",
+    "country": "นิวซีแลนด์",
+    "country_en": "New Zealand",
+    "continent": "โอเชียเนีย",
+    "continent_en": "Oceania",
+    "region": null,
+    "region_en": null,
+    "place_type": "ธรรมชาติ",
+    "place_type_en": "Nature",
+    "main_feature": "บ่อน้ำพุร้อน",
+    "main_feature_en": "Hot Spring",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ธรรมชาติสวยงาม",
+      "วัฒนธรรมท้องถิ่น"
+    ],
+    "highlights_en": [
+      "Beautiful Nature",
+      "Local Culture"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "มิลฟอร์ดซาวด์",
+    "name_en": "Milford Sound",
+    "country": "นิวซีแลนด์",
+    "country_en": "New Zealand",
+    "continent": "โอเชียเนีย",
+    "continent_en": "Oceania",
+    "region": null,
+    "region_en": null,
+    "place_type": "ธรรมชาติ",
+    "place_type_en": "Nature",
+    "main_feature": "ฟยอร์ด",
+    "main_feature_en": "Fjord",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ล่องเรือ",
+    "activity_en": "Boat Trip",
+    "highlights": [
+      "ธรรมชาติสวยงาม",
+      "วิวพาโนรามา"
+    ],
+    "highlights_en": [
+      "Beautiful Nature",
+      "Panoramic View"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "world",
+    "name": "หมู่บ้านฮัลล์สตัทท์",
+    "name_en": "Hallstatt",
+    "country": "ออสเตรีย",
+    "country_en": "Austria",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "region": null,
+    "region_en": null,
+    "place_type": "เมืองเก่า/ย่านเก่า",
+    "place_type_en": "Old Town/Old Quarter",
+    "main_feature": "หมู่บ้านริมทะเลสาบ",
+    "main_feature_en": "Lakeside Village",
+    "feature_group": "เมือง/ไลฟ์สไตล์",
+    "feature_group_en": "City/Lifestyle",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "มรดกโลก",
+      "ถ่ายรูปสวย"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Great Photo Spot"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "world",
+    "name": "ปราสาทบราน",
+    "name_en": "Bran Castle",
+    "country": "โรมาเนีย",
+    "country_en": "Romania",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "region": null,
+    "region_en": null,
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "ปราสาท",
+    "main_feature_en": "Castle",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ประวัติศาสตร์ยาวนาน",
+      "ถ่ายรูปสวย"
+    ],
+    "highlights_en": [
+      "Long History",
+      "Great Photo Spot"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "world",
+    "name": "วัดพระเขี้ยวแก้ว แคนดี้",
+    "name_en": "Temple of the Sacred Tooth Relic, Kandy",
+    "country": "ศรีลังกา",
+    "country_en": "Sri Lanka",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": null,
+    "region_en": null,
+    "place_type": "วัด/ศาสนสถาน",
+    "place_type_en": "Temple/Religious Site",
+    "main_feature": "วัดพุทธ",
+    "main_feature_en": "Buddhist Temple",
+    "feature_group": "ศาสนา/วัฒนธรรม",
+    "feature_group_en": "Religion/Culture",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "มรดกโลก",
+      "ศรัทธา"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Faith"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "world",
+    "name": "นาขั้นบันไดจาติลูวิห์",
+    "name_en": "Jatiluwih Rice Terraces",
+    "country": "อินโดนีเซีย",
+    "country_en": "Indonesia",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": null,
+    "region_en": null,
+    "place_type": "ธรรมชาติ",
+    "place_type_en": "Nature",
+    "main_feature": "นาขั้นบันได",
+    "main_feature_en": "Rice Terraces",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ขับรถชมวิว",
+    "activity_en": "Scenic Drive",
+    "highlights": [
+      "มรดกโลก",
+      "ธรรมชาติสวยงาม"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Beautiful Nature"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "world",
+    "name": "อุทยานแห่งชาติพลิตวิเซ",
+    "name_en": "Plitvice Lakes National Park",
+    "country": "โครเอเชีย",
+    "country_en": "Croatia",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "region": null,
+    "region_en": null,
+    "place_type": "อุทยานแห่งชาติ",
+    "place_type_en": "National Park",
+    "main_feature": "ทะเลสาบ",
+    "main_feature_en": "Lake",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินป่า",
+    "activity_en": "Hiking",
+    "highlights": [
+      "มรดกโลก",
+      "ธรรมชาติสวยงาม"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Beautiful Nature"
+    ],
+    "cost_level": 2
+  }
+]

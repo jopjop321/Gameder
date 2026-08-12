@@ -1,5 +1,6 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 
 import '../controllers/pokemon.dart';
 import '../theme/pokedle_theme.dart';
@@ -46,7 +47,7 @@ class ResultBanner extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text(
-                  won ? 'You caught it!' : 'Out of guesses!',
+                  won ? 'pokedle_won'.tr : 'pokedle_lost'.tr,
                   style: const TextStyle(
                     color: Colors.white,
                     fontWeight: FontWeight.bold,
@@ -55,7 +56,9 @@ class ResultBanner extends StatelessWidget {
                 ),
                 const SizedBox(height: 2),
                 Text(
-                  'The answer was ${answer.name} (${answer.nameTh})',
+                  'pokedle_answerWas'.trParams(
+                    {'name': answer.name, 'nameTh': answer.nameTh},
+                  ),
                   style: const TextStyle(color: Colors.white, fontSize: 13),
                 ),
               ],
@@ -64,7 +67,7 @@ class ResultBanner extends StatelessWidget {
           IconButton(
             onPressed: onRestart,
             icon: const Icon(Icons.refresh, color: Colors.white),
-            tooltip: 'Play again',
+            tooltip: 'pokedle_playAgain'.tr,
           ),
         ],
       ),

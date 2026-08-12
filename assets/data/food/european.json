@@ -2,235 +2,2643 @@
   {
     "collection": "european",
     "name": "พิซซ่า",
+    "name_en": "Pizza",
     "country": "อิตาลี",
+    "country_en": "Italy",
     "continent": "ยุโรป",
+    "continent_en": "Europe",
     "dish_type": "แป้ง",
+    "dish_type_en": "Batter Dish",
     "main_ingredient": "ชีส",
+    "main_ingredient_en": "Cheese",
     "ingredient_group": "นม",
+    "ingredient_group_en": "Dairy",
     "cooking_method": "อบ",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "european",
     "name": "พาสต้า",
+    "name_en": "Pasta",
     "country": "อิตาลี",
+    "country_en": "Italy",
     "continent": "ยุโรป",
+    "continent_en": "Europe",
     "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
     "main_ingredient": "แป้ง",
+    "main_ingredient_en": "Flour",
     "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
     "cooking_method": "ต้ม",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "european",
     "name": "ครัวซองต์",
+    "name_en": "Croissant",
     "country": "ฝรั่งเศส",
+    "country_en": "France",
     "continent": "ยุโรป",
+    "continent_en": "Europe",
     "dish_type": "ขนมอบ",
+    "dish_type_en": "Baked Sweet",
     "main_ingredient": "เนย",
+    "main_ingredient_en": "Butter",
     "ingredient_group": "นม",
+    "ingredient_group_en": "Dairy",
     "cooking_method": "อบ",
-    "flavors": ["หวาน"],
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
     "spice_level": 0,
-    "serving_temperature": "อุ่น"
+    "serving_temperature": "อุ่น",
+    "serving_temperature_en": "Warm"
   },
   {
     "collection": "european",
     "name": "ริซอตโต",
+    "name_en": "Risotto",
     "country": "อิตาลี",
+    "country_en": "Italy",
     "continent": "ยุโรป",
+    "continent_en": "Europe",
     "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
     "main_ingredient": "ข้าว",
+    "main_ingredient_en": "Rice",
     "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
     "cooking_method": "ต้ม",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "european",
     "name": "ลาซานญ่า",
+    "name_en": "Lasagna",
     "country": "อิตาลี",
+    "country_en": "Italy",
     "continent": "ยุโรป",
+    "continent_en": "Europe",
     "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
     "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
     "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
     "cooking_method": "อบ",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "european",
     "name": "ปาเอยา",
+    "name_en": "Paella",
     "country": "สเปน",
+    "country_en": "Spain",
     "continent": "ยุโรป",
+    "continent_en": "Europe",
     "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
     "main_ingredient": "อาหารทะเล",
+    "main_ingredient_en": "Seafood",
     "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
     "cooking_method": "ต้ม",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "european",
     "name": "ฟิชแอนด์ชิปส์",
+    "name_en": "Fish and Chips",
     "country": "สหราชอาณาจักร",
+    "country_en": "United Kingdom",
     "continent": "ยุโรป",
+    "continent_en": "Europe",
     "dish_type": "ของทอด",
+    "dish_type_en": "Fried Dish",
     "main_ingredient": "ปลา",
+    "main_ingredient_en": "Fish",
     "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
     "cooking_method": "ทอด",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "european",
     "name": "ชนิทเซล",
+    "name_en": "Schnitzel",
     "country": "ออสเตรีย",
+    "country_en": "Austria",
     "continent": "ยุโรป",
+    "continent_en": "Europe",
     "dish_type": "ของทอด",
+    "dish_type_en": "Fried Dish",
     "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
     "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
     "cooking_method": "ทอด",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "european",
     "name": "มูซากา",
+    "name_en": "Moussaka",
     "country": "กรีซ",
+    "country_en": "Greece",
     "continent": "ยุโรป",
+    "continent_en": "Europe",
     "dish_type": "อบ",
+    "dish_type_en": "Baked Dish",
     "main_ingredient": "มะเขือม่วง",
+    "main_ingredient_en": "Eggplant",
     "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
     "cooking_method": "อบ",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "european",
     "name": "ฟองดู",
+    "name_en": "Fondue",
     "country": "สวิตเซอร์แลนด์",
+    "country_en": "Switzerland",
     "continent": "ยุโรป",
+    "continent_en": "Europe",
     "dish_type": "จิ้ม",
+    "dish_type_en": "Dipping Dish",
     "main_ingredient": "ชีส",
+    "main_ingredient_en": "Cheese",
     "ingredient_group": "นม",
+    "ingredient_group_en": "Dairy",
     "cooking_method": "ต้ม",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "european",
     "name": "กูลาช",
+    "name_en": "Goulash",
     "country": "ฮังการี",
+    "country_en": "Hungary",
     "continent": "ยุโรป",
+    "continent_en": "Europe",
     "dish_type": "ซุป",
+    "dish_type_en": "Soup",
     "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
     "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
     "cooking_method": "ต้ม",
-    "flavors": ["เค็ม", "เผ็ด"],
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม",
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Spicy"
+    ],
     "spice_level": 1,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "european",
     "name": "เครป",
+    "name_en": "Crepe",
     "country": "ฝรั่งเศส",
+    "country_en": "France",
     "continent": "ยุโรป",
+    "continent_en": "Europe",
     "dish_type": "ขนมอบ",
+    "dish_type_en": "Baked Sweet",
     "main_ingredient": "แป้ง",
+    "main_ingredient_en": "Flour",
     "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
     "cooking_method": "ทอด",
-    "flavors": ["หวาน"],
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
     "spice_level": 0,
-    "serving_temperature": "อุ่น"
+    "serving_temperature": "อุ่น",
+    "serving_temperature_en": "Warm"
   },
   {
     "collection": "european",
     "name": "ปาต้าตาสบราวาส",
+    "name_en": "Patatas Bravas",
     "country": "สเปน",
+    "country_en": "Spain",
     "continent": "ยุโรป",
+    "continent_en": "Europe",
     "dish_type": "ของทอด",
+    "dish_type_en": "Fried Dish",
     "main_ingredient": "มันฝรั่ง",
+    "main_ingredient_en": "Potato",
     "ingredient_group": "พืช",
+    "ingredient_group_en": "Plant-based",
     "cooking_method": "ทอด",
-    "flavors": ["เผ็ด", "เค็ม"],
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เผ็ด",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Salty"
+    ],
     "spice_level": 1,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "european",
     "name": "เอสคาร์โก้",
+    "name_en": "Escargot",
     "country": "ฝรั่งเศส",
+    "country_en": "France",
     "continent": "ยุโรป",
+    "continent_en": "Europe",
     "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
     "main_ingredient": "หอยทาก",
+    "main_ingredient_en": "Snail",
     "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
     "cooking_method": "อบ",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "european",
     "name": "ควิช",
+    "name_en": "Quiche",
     "country": "ฝรั่งเศส",
+    "country_en": "France",
     "continent": "ยุโรป",
+    "continent_en": "Europe",
     "dish_type": "ขนมอบ",
+    "dish_type_en": "Baked Sweet",
     "main_ingredient": "ไข่",
+    "main_ingredient_en": "Eggs",
     "ingredient_group": "ไข่",
+    "ingredient_group_en": "Eggs",
     "cooking_method": "อบ",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "อุ่น"
+    "serving_temperature": "อุ่น",
+    "serving_temperature_en": "Warm"
   },
   {
     "collection": "european",
     "name": "ไส้กรอกเยอรมัน",
+    "name_en": "German Sausage (Bratwurst)",
     "country": "เยอรมนี",
+    "country_en": "Germany",
     "continent": "ยุโรป",
+    "continent_en": "Europe",
     "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
     "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
     "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
     "cooking_method": "ย่าง",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "european",
     "name": "เพรทเซล",
+    "name_en": "Pretzel",
     "country": "เยอรมนี",
+    "country_en": "Germany",
     "continent": "ยุโรป",
+    "continent_en": "Europe",
     "dish_type": "ขนมอบ",
+    "dish_type_en": "Baked Sweet",
     "main_ingredient": "แป้ง",
+    "main_ingredient_en": "Flour",
     "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
     "cooking_method": "อบ",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "อุ่น"
+    "serving_temperature": "อุ่น",
+    "serving_temperature_en": "Warm"
   },
   {
     "collection": "european",
     "name": "บอร์ช",
+    "name_en": "Borscht",
     "country": "ยูเครน",
+    "country_en": "Ukraine",
     "continent": "ยุโรป",
+    "continent_en": "Europe",
     "dish_type": "ซุป",
+    "dish_type_en": "Soup",
     "main_ingredient": "บีทรูท",
+    "main_ingredient_en": "Beetroot",
     "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
     "cooking_method": "ต้ม",
-    "flavors": ["เปรี้ยว", "หวาน"],
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เปรี้ยว",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Sweet"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "ทีรามิสุ",
+    "name_en": "Tiramisu",
+    "country": "อิตาลี",
+    "country_en": "Italy",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "มาสคาร์โปเน",
+    "main_ingredient_en": "Mascarpone",
+    "ingredient_group": "นม",
+    "ingredient_group_en": "Dairy",
+    "cooking_method": "แช่เย็น",
+    "cooking_method_en": "Chilled",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "european",
+    "name": "เจลาโต",
+    "name_en": "Gelato",
+    "country": "อิตาลี",
+    "country_en": "Italy",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "นม",
+    "main_ingredient_en": "Milk",
+    "ingredient_group": "นม",
+    "ingredient_group_en": "Dairy",
+    "cooking_method": "แช่แข็ง",
+    "cooking_method_en": "Frozen",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "european",
+    "name": "คาโปนาต้า",
+    "name_en": "Caponata",
+    "country": "อิตาลี",
+    "country_en": "Italy",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "เครื่องเคียง",
+    "dish_type_en": "Accompaniment",
+    "main_ingredient": "มะเขือม่วง",
+    "main_ingredient_en": "Eggplant",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เปรี้ยว",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "european",
+    "name": "ออสโซบูโก",
+    "name_en": "Osso Buco",
+    "country": "อิตาลี",
+    "country_en": "Italy",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ตุ๋น",
+    "cooking_method_en": "Stewed/Braised",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "โพเลนต้า",
+    "name_en": "Polenta",
+    "country": "อิตาลี",
+    "country_en": "Italy",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "แป้ง",
+    "dish_type_en": "Batter Dish",
+    "main_ingredient": "ข้าวโพด",
+    "main_ingredient_en": "Corn",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "พาสต้าเพสโต้",
+    "name_en": "Pesto Pasta",
+    "country": "อิตาลี",
+    "country_en": "Italy",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
+    "main_ingredient": "โหระพา",
+    "main_ingredient_en": "Basil",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "คาโบนาร่า",
+    "name_en": "Carbonara",
+    "country": "อิตาลี",
+    "country_en": "Italy",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
+    "main_ingredient": "ไข่",
+    "main_ingredient_en": "Eggs",
+    "ingredient_group": "ไข่",
+    "ingredient_group_en": "Eggs",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "บรุสเชตต้า",
+    "name_en": "Bruschetta",
+    "country": "อิตาลี",
+    "country_en": "Italy",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "มะเขือเทศ",
+    "main_ingredient_en": "Tomato",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "เค็ม",
+      "เปรี้ยว"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Sour"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "european",
+    "name": "คาปเรเซ่",
+    "name_en": "Caprese Salad",
+    "country": "อิตาลี",
+    "country_en": "Italy",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "สลัด",
+    "dish_type_en": "Salad",
+    "main_ingredient": "มะเขือเทศ",
+    "main_ingredient_en": "Tomato",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "สด",
+    "cooking_method_en": "Raw/Fresh",
+    "flavors": [
+      "เค็ม",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "european",
+    "name": "อาแรนชินี",
+    "name_en": "Arancini",
+    "country": "อิตาลี",
+    "country_en": "Italy",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของทอด",
+    "dish_type_en": "Fried Dish",
+    "main_ingredient": "ข้าว",
+    "main_ingredient_en": "Rice",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "มินิสโตรเน่",
+    "name_en": "Minestrone",
+    "country": "อิตาลี",
+    "country_en": "Italy",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ซุป",
+    "dish_type_en": "Soup",
+    "main_ingredient": "ผักรวม",
+    "main_ingredient_en": "Mixed Vegetables",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "คานอลี",
+    "name_en": "Cannoli",
+    "country": "อิตาลี",
+    "country_en": "Italy",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "ริคอตต้า",
+    "main_ingredient_en": "Ricotta",
+    "ingredient_group": "นม",
+    "ingredient_group_en": "Dairy",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "european",
+    "name": "สปาเก็ตตี้โบโลเนส",
+    "name_en": "Spaghetti Bolognese",
+    "country": "อิตาลี",
+    "country_en": "Italy",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "ญอกกี",
+    "name_en": "Gnocchi",
+    "country": "อิตาลี",
+    "country_en": "Italy",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "แป้ง",
+    "dish_type_en": "Batter Dish",
+    "main_ingredient": "มันฝรั่ง",
+    "main_ingredient_en": "Potato",
+    "ingredient_group": "พืช",
+    "ingredient_group_en": "Plant-based",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "ราวิโอลี",
+    "name_en": "Ravioli",
+    "country": "อิตาลี",
+    "country_en": "Italy",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
+    "main_ingredient": "แป้ง",
+    "main_ingredient_en": "Flour",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "บูยาเบส",
+    "name_en": "Bouillabaisse",
+    "country": "ฝรั่งเศส",
+    "country_en": "France",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ซุป",
+    "dish_type_en": "Soup",
+    "main_ingredient": "อาหารทะเล",
+    "main_ingredient_en": "Seafood",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "เนื้อตุ๋นไวน์แดง",
+    "name_en": "Beef Bourguignon",
+    "country": "ฝรั่งเศส",
+    "country_en": "France",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ตุ๋น",
+    "cooking_method_en": "Stewed/Braised",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "ราตาตุยล์",
+    "name_en": "Ratatouille",
+    "country": "ฝรั่งเศส",
+    "country_en": "France",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "เครื่องเคียง",
+    "dish_type_en": "Accompaniment",
+    "main_ingredient": "ผักรวม",
+    "main_ingredient_en": "Mixed Vegetables",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ตุ๋น",
+    "cooking_method_en": "Stewed/Braised",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "ครีมบรูเล่",
+    "name_en": "Crème Brûlée",
+    "country": "ฝรั่งเศส",
+    "country_en": "France",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "ไข่",
+    "main_ingredient_en": "Eggs",
+    "ingredient_group": "ไข่",
+    "ingredient_group_en": "Eggs",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "european",
+    "name": "มาการอง",
+    "name_en": "Macaron",
+    "country": "ฝรั่งเศส",
+    "country_en": "France",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "อัลมอนด์",
+    "main_ingredient_en": "Almonds",
+    "ingredient_group": "ถั่ว",
+    "ingredient_group_en": "Beans/Nuts",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "european",
+    "name": "ซุปหัวหอมฝรั่งเศส",
+    "name_en": "French Onion Soup",
+    "country": "ฝรั่งเศส",
+    "country_en": "France",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ซุป",
+    "dish_type_en": "Soup",
+    "main_ingredient": "หัวหอม",
+    "main_ingredient_en": "Onion",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "เอแคลร์",
+    "name_en": "Éclair",
+    "country": "ฝรั่งเศส",
+    "country_en": "France",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "แป้ง",
+    "main_ingredient_en": "Flour",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "european",
+    "name": "สลัดนิซัวส์",
+    "name_en": "Salade Niçoise",
+    "country": "ฝรั่งเศส",
+    "country_en": "France",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "สลัด",
+    "dish_type_en": "Salad",
+    "main_ingredient": "ทูน่า",
+    "main_ingredient_en": "Tuna",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "สด",
+    "cooking_method_en": "Raw/Fresh",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "european",
+    "name": "ครัวก์มองซิเออร์",
+    "name_en": "Croque Monsieur",
+    "country": "ฝรั่งเศส",
+    "country_en": "France",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "แซนด์วิช",
+    "dish_type_en": "Sandwich",
+    "main_ingredient": "แฮม",
+    "main_ingredient_en": "Ham",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "คาสซูเล่",
+    "name_en": "Cassoulet",
+    "country": "ฝรั่งเศส",
+    "country_en": "France",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "ถั่วขาว",
+    "main_ingredient_en": "White Beans",
+    "ingredient_group": "พืช",
+    "ingredient_group_en": "Plant-based",
+    "cooking_method": "ตุ๋น",
+    "cooking_method_en": "Stewed/Braised",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "มาดแลน",
+    "name_en": "Madeleine",
+    "country": "ฝรั่งเศส",
+    "country_en": "France",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "แป้ง",
+    "main_ingredient_en": "Flour",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "european",
+    "name": "ซุปครีมเห็ดฝรั่งเศส",
+    "name_en": "French Cream of Mushroom Soup",
+    "country": "ฝรั่งเศส",
+    "country_en": "France",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ซุป",
+    "dish_type_en": "Soup",
+    "main_ingredient": "เห็ด",
+    "main_ingredient_en": "Mushrooms",
+    "ingredient_group": "เห็ด",
+    "ingredient_group_en": "Mushrooms",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "มัน"
+    ],
+    "flavors_en": [
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "กุ้งอบกระเทียมสเปน",
+    "name_en": "Spanish Garlic Shrimp (Gambas al Ajillo)",
+    "country": "สเปน",
+    "country_en": "Spain",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "กุ้ง",
+    "main_ingredient_en": "Shrimp",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็มกระเทียม"
+    ],
+    "flavors_en": [
+      "Salty Garlic"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "ทอร์ตียาสเปน",
+    "name_en": "Spanish Tortilla (Tortilla Española)",
+    "country": "สเปน",
+    "country_en": "Spain",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "ไข่",
+    "main_ingredient_en": "Eggs",
+    "ingredient_group": "ไข่",
+    "ingredient_group_en": "Eggs",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "european",
+    "name": "กัซปาโช่",
+    "name_en": "Gazpacho",
+    "country": "สเปน",
+    "country_en": "Spain",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ซุป",
+    "dish_type_en": "Soup",
+    "main_ingredient": "มะเขือเทศ",
+    "main_ingredient_en": "Tomato",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "สด",
+    "cooking_method_en": "Raw/Fresh",
+    "flavors": [
+      "เปรี้ยว"
+    ],
+    "flavors_en": [
+      "Sour"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "european",
+    "name": "ชูรอส",
+    "name_en": "Churros",
+    "country": "สเปน",
+    "country_en": "Spain",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "แป้ง",
+    "main_ingredient_en": "Flour",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "ฮามอนอิเบริโก้",
+    "name_en": "Jamón Ibérico",
+    "country": "สเปน",
+    "country_en": "Spain",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "หมัก",
+    "cooking_method_en": "Marinated",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "european",
+    "name": "ฟลานคาราเมล",
+    "name_en": "Crème Caramel (Flan)",
+    "country": "สเปน",
+    "country_en": "Spain",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "ไข่",
+    "main_ingredient_en": "Eggs",
+    "ingredient_group": "ไข่",
+    "ingredient_group_en": "Eggs",
+    "cooking_method": "นึ่ง",
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "european",
+    "name": "อัลบอนดิกาส",
+    "name_en": "Albóndigas (Spanish Meatballs)",
+    "country": "สเปน",
+    "country_en": "Spain",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ตุ๋น",
+    "cooking_method_en": "Stewed/Braised",
+    "flavors": [
+      "เค็ม",
+      "เปรี้ยว"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Sour"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "หมึกยักษ์สไตล์กาลิเซีย",
+    "name_en": "Galician-style Octopus (Pulpo a la Gallega)",
+    "country": "สเปน",
+    "country_en": "Spain",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "หมึกยักษ์",
+    "main_ingredient_en": "Octopus",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม",
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Spicy"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "ซันเดย์โรสต์",
+    "name_en": "Sunday Roast",
+    "country": "สหราชอาณาจักร",
+    "country_en": "United Kingdom",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "เชพเพิร์ดพาย",
+    "name_en": "Shepherd's Pie",
+    "country": "สหราชอาณาจักร",
+    "country_en": "United Kingdom",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "เนื้อแกะ",
+    "main_ingredient_en": "Lamb",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "ฟูลอิงลิชเบรกฟาสต์",
+    "name_en": "Full English Breakfast",
+    "country": "สหราชอาณาจักร",
+    "country_en": "United Kingdom",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "จานเดียว",
+    "dish_type_en": "One-Dish Meal",
+    "main_ingredient": "ไข่",
+    "main_ingredient_en": "Eggs",
+    "ingredient_group": "ไข่",
+    "ingredient_group_en": "Eggs",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "สโคนพร้อมครีมชา",
+    "name_en": "Scones with Cream Tea",
+    "country": "สหราชอาณาจักร",
+    "country_en": "United Kingdom",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ขนมอบ",
+    "dish_type_en": "Baked Sweet",
+    "main_ingredient": "แป้ง",
+    "main_ingredient_en": "Flour",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุ่น",
+    "serving_temperature_en": "Warm"
+  },
+  {
+    "collection": "european",
+    "name": "แบล็คพุดดิ้ง",
+    "name_en": "Black Pudding",
+    "country": "สหราชอาณาจักร",
+    "country_en": "United Kingdom",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "เลือดหมู",
+    "main_ingredient_en": "Pig's Blood",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "ไอริชสตูว์",
+    "name_en": "Irish Stew",
+    "country": "ไอร์แลนด์",
+    "country_en": "Ireland",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "เนื้อแกะ",
+    "main_ingredient_en": "Lamb",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ตุ๋น",
+    "cooking_method_en": "Stewed/Braised",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "ซาวเออร์เคราต์",
+    "name_en": "Sauerkraut",
+    "country": "เยอรมนี",
+    "country_en": "Germany",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "เครื่องเคียง",
+    "dish_type_en": "Accompaniment",
+    "main_ingredient": "กะหล่ำปลี",
+    "main_ingredient_en": "Cabbage",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "หมัก",
+    "cooking_method_en": "Marinated",
+    "flavors": [
+      "เปรี้ยว"
+    ],
+    "flavors_en": [
+      "Sour"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "european",
+    "name": "เคเซ่สแปตเซิล",
+    "name_en": "Käsespätzle",
+    "country": "เยอรมนี",
+    "country_en": "Germany",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
+    "main_ingredient": "แป้ง",
+    "main_ingredient_en": "Flour",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "ซาวเออร์บราเทน",
+    "name_en": "Sauerbraten",
+    "country": "เยอรมนี",
+    "country_en": "Germany",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ตุ๋น",
+    "cooking_method_en": "Stewed/Braised",
+    "flavors": [
+      "เปรี้ยว",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "ไอส์ไบน์",
+    "name_en": "Eisbein (Pork Knuckle)",
+    "country": "เยอรมนี",
+    "country_en": "Germany",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "ขาหมู",
+    "main_ingredient_en": "Pork Leg",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "ชวาร์ซวัลด์เค้ก",
+    "name_en": "Black Forest Cake",
+    "country": "เยอรมนี",
+    "country_en": "Germany",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "ช็อกโกแลต",
+    "main_ingredient_en": "Chocolate",
+    "ingredient_group": "ของหวาน",
+    "ingredient_group_en": "Sweets",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "european",
+    "name": "แอปเปิ้ลชตรูเดล",
+    "name_en": "Apple Strudel",
+    "country": "ออสเตรีย",
+    "country_en": "Austria",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "แอปเปิล",
+    "main_ingredient_en": "Apple",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุ่น",
+    "serving_temperature_en": "Warm"
+  },
+  {
+    "collection": "european",
+    "name": "สลัดมันฝรั่งเยอรมัน",
+    "name_en": "German Potato Salad",
+    "country": "เยอรมนี",
+    "country_en": "Germany",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "สลัด",
+    "dish_type_en": "Salad",
+    "main_ingredient": "มันฝรั่ง",
+    "main_ingredient_en": "Potato",
+    "ingredient_group": "พืช",
+    "ingredient_group_en": "Plant-based",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เปรี้ยว",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "european",
+    "name": "ขนมปังดำเยอรมัน",
+    "name_en": "German Dark Rye Bread",
+    "country": "เยอรมนี",
+    "country_en": "Germany",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ขนมอบ",
+    "dish_type_en": "Baked Sweet",
+    "main_ingredient": "ข้าวไรย์",
+    "main_ingredient_en": "Rye",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "เค็มอ่อน"
+    ],
+    "flavors_en": [
+      "Lightly Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "european",
+    "name": "ซาซิกิ",
+    "name_en": "Tzatziki",
+    "country": "กรีซ",
+    "country_en": "Greece",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "เครื่องเคียง",
+    "dish_type_en": "Accompaniment",
+    "main_ingredient": "โยเกิร์ต",
+    "main_ingredient_en": "Yogurt",
+    "ingredient_group": "นม",
+    "ingredient_group_en": "Dairy",
+    "cooking_method": "สด",
+    "cooking_method_en": "Raw/Fresh",
+    "flavors": [
+      "เปรี้ยว"
+    ],
+    "flavors_en": [
+      "Sour"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "european",
+    "name": "สลัดกรีก",
+    "name_en": "Greek Salad",
+    "country": "กรีซ",
+    "country_en": "Greece",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "สลัด",
+    "dish_type_en": "Salad",
+    "main_ingredient": "แตงกวา",
+    "main_ingredient_en": "Cucumber",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "สด",
+    "cooking_method_en": "Raw/Fresh",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "european",
+    "name": "ซูฟลากิ",
+    "name_en": "Souvlaki",
+    "country": "กรีซ",
+    "country_en": "Greece",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของย่าง",
+    "dish_type_en": "Grilled Dish",
+    "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "บาคลาวา",
+    "name_en": "Baklava",
+    "country": "กรีซ",
+    "country_en": "Greece",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "ถั่ว",
+    "main_ingredient_en": "Nuts",
+    "ingredient_group": "ถั่ว",
+    "ingredient_group_en": "Beans/Nuts",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "european",
+    "name": "โดลมาเดส",
+    "name_en": "Dolmades",
+    "country": "กรีซ",
+    "country_en": "Greece",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "ข้าว",
+    "main_ingredient_en": "Rice",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "นึ่ง",
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "เปรี้ยว",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "european",
+    "name": "ไจโร",
+    "name_en": "Gyro",
+    "country": "กรีซ",
+    "country_en": "Greece",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "แซนด์วิช",
+    "dish_type_en": "Sandwich",
+    "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "ปลาค็อดอบครีมโปรตุเกส",
+    "name_en": "Portuguese Creamy Baked Cod (Bacalhau com Natas)",
+    "country": "โปรตุเกส",
+    "country_en": "Portugal",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "ปลาค็อด",
+    "main_ingredient_en": "Cod",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "พาสเตลเดนาตา",
+    "name_en": "Pastel de Nata",
+    "country": "โปรตุเกส",
+    "country_en": "Portugal",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "ไข่",
+    "main_ingredient_en": "Eggs",
+    "ingredient_group": "ไข่",
+    "ingredient_group_en": "Eggs",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุ่น",
+    "serving_temperature_en": "Warm"
+  },
+  {
+    "collection": "european",
+    "name": "ซุปผักโปรตุเกส",
+    "name_en": "Portuguese Vegetable Soup (Caldo Verde)",
+    "country": "โปรตุเกส",
+    "country_en": "Portugal",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ซุป",
+    "dish_type_en": "Soup",
+    "main_ingredient": "กะหล่ำปลี",
+    "main_ingredient_en": "Cabbage",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "ปลาซาร์ดีนย่างโปรตุเกส",
+    "name_en": "Portuguese Grilled Sardines",
+    "country": "โปรตุเกส",
+    "country_en": "Portugal",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของย่าง",
+    "dish_type_en": "Grilled Dish",
+    "main_ingredient": "ปลาซาร์ดีน",
+    "main_ingredient_en": "Sardine",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "เปียโรกี",
+    "name_en": "Pierogi",
+    "country": "โปแลนด์",
+    "country_en": "Poland",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "มันฝรั่ง",
+    "main_ingredient_en": "Potato",
+    "ingredient_group": "พืช",
+    "ingredient_group_en": "Plant-based",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "บิกอส",
+    "name_en": "Bigos (Polish Hunter's Stew)",
+    "country": "โปแลนด์",
+    "country_en": "Poland",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "กะหล่ำปลี",
+    "main_ingredient_en": "Cabbage",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ตุ๋น",
+    "cooking_method_en": "Stewed/Braised",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "ซุปเห็ดป่าโปแลนด์",
+    "name_en": "Polish Wild Mushroom Soup",
+    "country": "โปแลนด์",
+    "country_en": "Poland",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ซุป",
+    "dish_type_en": "Soup",
+    "main_ingredient": "เห็ด",
+    "main_ingredient_en": "Mushrooms",
+    "ingredient_group": "เห็ด",
+    "ingredient_group_en": "Mushrooms",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "ห่อกะหล่ำปลีไส้เนื้อโปแลนด์",
+    "name_en": "Polish Stuffed Cabbage Rolls (Gołąbki)",
+    "country": "โปแลนด์",
+    "country_en": "Poland",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ตุ๋น",
+    "cooking_method_en": "Stewed/Braised",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "กูลาชเช็กกับเกี๊ยว",
+    "name_en": "Czech Goulash with Dumplings",
+    "country": "สาธารณรัฐเช็ก",
+    "country_en": "Czech Republic",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ตุ๋น",
+    "cooking_method_en": "Stewed/Braised",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "เทรเดลนิค",
+    "name_en": "Trdelník",
+    "country": "สาธารณรัฐเช็ก",
+    "country_en": "Czech Republic",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "แป้ง",
+    "main_ingredient_en": "Flour",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "หมูย่างเช็กกับกะหล่ำ",
+    "name_en": "Czech Roast Pork with Cabbage",
+    "country": "สาธารณรัฐเช็ก",
+    "country_en": "Czech Republic",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "เปลเมนี",
+    "name_en": "Pelmeni",
+    "country": "รัสเซีย",
+    "country_en": "Russia",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "บีฟสโตรกานอฟ",
+    "name_en": "Beef Stroganoff",
+    "country": "รัสเซีย",
+    "country_en": "Russia",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "บลินี",
+    "name_en": "Blini",
+    "country": "รัสเซีย",
+    "country_en": "Russia",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ขนมอบ",
+    "dish_type_en": "Baked Sweet",
+    "main_ingredient": "แป้ง",
+    "main_ingredient_en": "Flour",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "หวาน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุ่น",
+    "serving_temperature_en": "Warm"
+  },
+  {
+    "collection": "european",
+    "name": "สลัดโอลิวิเยร่า",
+    "name_en": "Olivier Salad",
+    "country": "รัสเซีย",
+    "country_en": "Russia",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "สลัด",
+    "dish_type_en": "Salad",
+    "main_ingredient": "มันฝรั่ง",
+    "main_ingredient_en": "Potato",
+    "ingredient_group": "พืช",
+    "ingredient_group_en": "Plant-based",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "european",
+    "name": "มีทบอลสวีเดน",
+    "name_en": "Swedish Meatballs",
+    "country": "สวีเดน",
+    "country_en": "Sweden",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "แซลมอนรมควันนอร์เวย์",
+    "name_en": "Norwegian Smoked Salmon",
+    "country": "นอร์เวย์",
+    "country_en": "Norway",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "อาหารทะเล",
+    "dish_type_en": "Seafood Dish",
+    "main_ingredient": "แซลมอน",
+    "main_ingredient_en": "Salmon",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "รมควัน",
+    "cooking_method_en": "Smoked",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "european",
+    "name": "กราฟลักซ์แซลมอน",
+    "name_en": "Gravlax",
+    "country": "สวีเดน",
+    "country_en": "Sweden",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "อาหารทะเล",
+    "dish_type_en": "Seafood Dish",
+    "main_ingredient": "แซลมอน",
+    "main_ingredient_en": "Salmon",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "หมัก",
+    "cooking_method_en": "Marinated",
+    "flavors": [
+      "เค็ม",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "european",
+    "name": "เดนิชเปสตรี้",
+    "name_en": "Danish Pastry",
+    "country": "เดนมาร์ก",
+    "country_en": "Denmark",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ขนมอบ",
+    "dish_type_en": "Baked Sweet",
+    "main_ingredient": "แป้ง",
+    "main_ingredient_en": "Flour",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุ่น",
+    "serving_temperature_en": "Warm"
+  },
+  {
+    "collection": "european",
+    "name": "ซุปปลาแซลมอนฟินแลนด์",
+    "name_en": "Finnish Salmon Soup (Lohikeitto)",
+    "country": "ฟินแลนด์",
+    "country_en": "Finland",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ซุป",
+    "dish_type_en": "Soup",
+    "main_ingredient": "แซลมอน",
+    "main_ingredient_en": "Salmon",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "ซินนามอนโรลสวีเดน",
+    "name_en": "Swedish Cinnamon Roll (Kanelbulle)",
+    "country": "สวีเดน",
+    "country_en": "Sweden",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "แป้ง",
+    "main_ingredient_en": "Flour",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุ่น",
+    "serving_temperature_en": "Warm"
+  },
+  {
+    "collection": "european",
+    "name": "มูลส์เฟรทเบลเยียม",
+    "name_en": "Belgian Mussels and Fries (Moules-Frites)",
+    "country": "เบลเยียม",
+    "country_en": "Belgium",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของทอด",
+    "dish_type_en": "Fried Dish",
+    "main_ingredient": "หอยแมลงภู่",
+    "main_ingredient_en": "Mussels",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "วาฟเฟิลเบลเยียม",
+    "name_en": "Belgian Waffle",
+    "country": "เบลเยียม",
+    "country_en": "Belgium",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "แป้ง",
+    "main_ingredient_en": "Flour",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุ่น",
+    "serving_temperature_en": "Warm"
+  },
+  {
+    "collection": "european",
+    "name": "ช็อกโกแลตเบลเยียม",
+    "name_en": "Belgian Chocolate",
+    "country": "เบลเยียม",
+    "country_en": "Belgium",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "ช็อกโกแลต",
+    "main_ingredient_en": "Chocolate",
+    "ingredient_group": "ของหวาน",
+    "ingredient_group_en": "Sweets",
+    "cooking_method": "แช่เย็น",
+    "cooking_method_en": "Chilled",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "european",
+    "name": "สตรูปวาเฟิลดัตช์",
+    "name_en": "Dutch Stroopwafel",
+    "country": "เนเธอร์แลนด์",
+    "country_en": "Netherlands",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "แป้ง",
+    "main_ingredient_en": "Flour",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "european",
+    "name": "ซาร์มาบอลข่าน",
+    "name_en": "Balkan Sarma (Stuffed Cabbage Rolls)",
+    "country": "เซอร์เบีย",
+    "country_en": "Serbia",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ตุ๋น",
+    "cooking_method_en": "Stewed/Braised",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "european",
+    "name": "เชวาปิ",
+    "name_en": "Ćevapi",
+    "country": "เซอร์เบีย",
+    "country_en": "Serbia",
+    "continent": "ยุโรป",
+    "continent_en": "Europe",
+    "dish_type": "ของย่าง",
+    "dish_type_en": "Grilled Dish",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   }
 ]

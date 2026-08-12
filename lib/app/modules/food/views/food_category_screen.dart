@@ -13,7 +13,7 @@ class FoodCategoryScreen extends StatelessWidget {
     return Scaffold(
       backgroundColor: kFoodBgColor,
       appBar: AppBar(
-        title: const Text('อาหารนี้คืออะไร?'),
+        title: Text('category_foodMenu'.tr),
         backgroundColor: Colors.transparent,
         foregroundColor: Colors.white,
         elevation: 0,
@@ -31,6 +31,8 @@ class FoodCategoryScreen extends StatelessWidget {
     final regionId = category.gameId;
     if (regionId == null) return;
 
-    Get.to(() => FoodleScreen(regionId: regionId, title: category.title));
+    Get.to(
+      () => FoodleScreen(regionId: regionId, title: category.displayTitle),
+    );
   }
 }

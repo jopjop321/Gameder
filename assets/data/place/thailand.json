@@ -1,0 +1,2242 @@
+[
+  {
+    "collection": "thailand",
+    "name": "วัดพระธาตุดอยสุเทพ",
+    "name_en": "Wat Phra That Doi Suthep",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคเหนือ",
+    "region_en": "Northern Thailand",
+    "place_type": "วัด/ศาสนสถาน",
+    "place_type_en": "Temple/Religious Site",
+    "main_feature": "วัดพุทธ",
+    "main_feature_en": "Buddhist Temple",
+    "feature_group": "ศาสนา/วัฒนธรรม",
+    "feature_group_en": "Religion/Culture",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "วิวพาโนรามา",
+      "ศรัทธา"
+    ],
+    "highlights_en": [
+      "Panoramic View",
+      "Faith"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "วัดร่องขุ่น",
+    "name_en": "Wat Rong Khun (White Temple)",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคเหนือ",
+    "region_en": "Northern Thailand",
+    "place_type": "วัด/ศาสนสถาน",
+    "place_type_en": "Temple/Religious Site",
+    "main_feature": "วัดพุทธ",
+    "main_feature_en": "Buddhist Temple",
+    "feature_group": "ศาสนา/วัฒนธรรม",
+    "feature_group_en": "Religion/Culture",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ถ่ายรูปสวย",
+      "ศิลปะร่วมสมัย"
+    ],
+    "highlights_en": [
+      "Great Photo Spot",
+      "Contemporary Art"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "thailand",
+    "name": "วัดร่องเสือเต้น",
+    "name_en": "Wat Rong Suea Ten (Blue Temple)",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคเหนือ",
+    "region_en": "Northern Thailand",
+    "place_type": "วัด/ศาสนสถาน",
+    "place_type_en": "Temple/Religious Site",
+    "main_feature": "วัดพุทธ",
+    "main_feature_en": "Buddhist Temple",
+    "feature_group": "ศาสนา/วัฒนธรรม",
+    "feature_group_en": "Religion/Culture",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ถ่ายรูปสวย",
+      "ศิลปะร่วมสมัย"
+    ],
+    "highlights_en": [
+      "Great Photo Spot",
+      "Contemporary Art"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "thailand",
+    "name": "ดอยอินทนนท์",
+    "name_en": "Doi Inthanon",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคเหนือ",
+    "region_en": "Northern Thailand",
+    "place_type": "อุทยานแห่งชาติ",
+    "place_type_en": "National Park",
+    "main_feature": "ภูเขา",
+    "main_feature_en": "Mountain",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินป่า",
+    "activity_en": "Hiking",
+    "highlights": [
+      "วิวพาโนรามา",
+      "อากาศเย็น"
+    ],
+    "highlights_en": [
+      "Panoramic View",
+      "Cool Weather"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "thailand",
+    "name": "ดอยม่อนแจ่ม",
+    "name_en": "Doi Mon Jam",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคเหนือ",
+    "region_en": "Northern Thailand",
+    "place_type": "ภูเขา/จุดชมวิว",
+    "place_type_en": "Mountain/Viewpoint",
+    "main_feature": "ภูเขา",
+    "main_feature_en": "Mountain",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ขับรถชมวิว",
+    "activity_en": "Scenic Drive",
+    "highlights": [
+      "ชมพระอาทิตย์ขึ้น",
+      "อากาศเย็น"
+    ],
+    "highlights_en": [
+      "Sunrise Viewing",
+      "Cool Weather"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "ปายแคนยอน",
+    "name_en": "Pai Canyon",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคเหนือ",
+    "region_en": "Northern Thailand",
+    "place_type": "ภูเขา/จุดชมวิว",
+    "place_type_en": "Mountain/Viewpoint",
+    "main_feature": "ภูเขา",
+    "main_feature_en": "Mountain",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ชมพระอาทิตย์ตก",
+      "ถ่ายรูปสวย"
+    ],
+    "highlights_en": [
+      "Sunset Viewing",
+      "Great Photo Spot"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "thailand",
+    "name": "สะพานซูตองเป้",
+    "name_en": "Su Tong Pe Bridge",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคเหนือ",
+    "region_en": "Northern Thailand",
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "สะพาน",
+    "main_feature_en": "Bridge",
+    "feature_group": "วัฒนธรรม/ศาสนา",
+    "feature_group_en": "Culture/Religion",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "วัฒนธรรมท้องถิ่น",
+      "ถ่ายรูปสวย"
+    ],
+    "highlights_en": [
+      "Local Culture",
+      "Great Photo Spot"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "thailand",
+    "name": "ภูชี้ฟ้า",
+    "name_en": "Phu Chi Fa",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคเหนือ",
+    "region_en": "Northern Thailand",
+    "place_type": "ภูเขา/จุดชมวิว",
+    "place_type_en": "Mountain/Viewpoint",
+    "main_feature": "ภูเขา",
+    "main_feature_en": "Mountain",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินป่า",
+    "activity_en": "Hiking",
+    "highlights": [
+      "ชมพระอาทิตย์ขึ้น",
+      "วิวพาโนรามา"
+    ],
+    "highlights_en": [
+      "Sunrise Viewing",
+      "Panoramic View"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "พระตำหนักดอยตุง",
+    "name_en": "Doi Tung Royal Villa",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคเหนือ",
+    "region_en": "Northern Thailand",
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "พระราชวัง",
+    "main_feature_en": "Palace",
+    "feature_group": "สถาปัตยกรรม",
+    "feature_group_en": "Architecture",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "สวนดอกไม้",
+      "อากาศเย็น"
+    ],
+    "highlights_en": [
+      "Flower Garden",
+      "Cool Weather"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "thailand",
+    "name": "วัดพระธาตุช่อแฮ",
+    "name_en": "Wat Phra That Cho Hae",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคเหนือ",
+    "region_en": "Northern Thailand",
+    "place_type": "วัด/ศาสนสถาน",
+    "place_type_en": "Temple/Religious Site",
+    "main_feature": "วัดพุทธ",
+    "main_feature_en": "Buddhist Temple",
+    "feature_group": "ศาสนา/วัฒนธรรม",
+    "feature_group_en": "Religion/Culture",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ศรัทธา",
+      "วัฒนธรรมท้องถิ่น"
+    ],
+    "highlights_en": [
+      "Faith",
+      "Local Culture"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "thailand",
+    "name": "อุทยานประวัติศาสตร์สุโขทัย",
+    "name_en": "Sukhothai Historical Park",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคเหนือ",
+    "region_en": "Northern Thailand",
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "เมืองโบราณ",
+    "main_feature_en": "Ancient City",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "ปั่นจักรยาน",
+    "activity_en": "Cycling",
+    "highlights": [
+      "มรดกโลก",
+      "ประวัติศาสตร์ยาวนาน"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Long History"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "thailand",
+    "name": "อุทยานประวัติศาสตร์ศรีสัชนาลัย",
+    "name_en": "Si Satchanalai Historical Park",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคเหนือ",
+    "region_en": "Northern Thailand",
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "เมืองโบราณ",
+    "main_feature_en": "Ancient City",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "ปั่นจักรยาน",
+    "activity_en": "Cycling",
+    "highlights": [
+      "มรดกโลก",
+      "ประวัติศาสตร์ยาวนาน"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Long History"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "ถ้ำหลวง-ขุนน้ำนางนอน",
+    "name_en": "Tham Luang - Khun Nam Nang Non",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคเหนือ",
+    "region_en": "Northern Thailand",
+    "place_type": "ถ้ำ",
+    "place_type_en": "Cave",
+    "main_feature": "ถ้ำ",
+    "main_feature_en": "Cave",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ธรรมชาติสวยงาม",
+      "ผจญภัย"
+    ],
+    "highlights_en": [
+      "Beautiful Nature",
+      "Adventure"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "thailand",
+    "name": "วัดภูมินทร์",
+    "name_en": "Wat Phumin",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคเหนือ",
+    "region_en": "Northern Thailand",
+    "place_type": "วัด/ศาสนสถาน",
+    "place_type_en": "Temple/Religious Site",
+    "main_feature": "วัดพุทธ",
+    "main_feature_en": "Buddhist Temple",
+    "feature_group": "ศาสนา/วัฒนธรรม",
+    "feature_group_en": "Religion/Culture",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "จิตรกรรมฝาผนัง",
+      "วัฒนธรรมท้องถิ่น"
+    ],
+    "highlights_en": [
+      "Murals",
+      "Local Culture"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "thailand",
+    "name": "ดอยเสมอดาว",
+    "name_en": "Doi Samoe Dao",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคเหนือ",
+    "region_en": "Northern Thailand",
+    "place_type": "ภูเขา/จุดชมวิว",
+    "place_type_en": "Mountain/Viewpoint",
+    "main_feature": "ภูเขา",
+    "main_feature_en": "Mountain",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินป่า",
+    "activity_en": "Hiking",
+    "highlights": [
+      "ทะเลหมอก",
+      "ชมพระอาทิตย์ขึ้น"
+    ],
+    "highlights_en": [
+      "Sea of Mist",
+      "Sunrise Viewing"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "น้ำตกทีลอซู",
+    "name_en": "Thi Lo Su Waterfall",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคเหนือ",
+    "region_en": "Northern Thailand",
+    "place_type": "น้ำตก",
+    "place_type_en": "Waterfall",
+    "main_feature": "น้ำตก",
+    "main_feature_en": "Waterfall",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินป่า",
+    "activity_en": "Hiking",
+    "highlights": [
+      "ธรรมชาติสวยงาม",
+      "ผจญภัย"
+    ],
+    "highlights_en": [
+      "Beautiful Nature",
+      "Adventure"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "thailand",
+    "name": "อุทยานแห่งชาติภูหินร่องกล้า",
+    "name_en": "Phu Hin Rong Kla National Park",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคเหนือ",
+    "region_en": "Northern Thailand",
+    "place_type": "อุทยานแห่งชาติ",
+    "place_type_en": "National Park",
+    "main_feature": "ภูเขา",
+    "main_feature_en": "Mountain",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินป่า",
+    "activity_en": "Hiking",
+    "highlights": [
+      "ประวัติศาสตร์ยาวนาน",
+      "อากาศเย็น"
+    ],
+    "highlights_en": [
+      "Long History",
+      "Cool Weather"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "วัดพระแก้ว (พระบรมมหาราชวัง)",
+    "name_en": "Wat Phra Kaew (Grand Palace)",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคกลาง",
+    "region_en": "Central Thailand",
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "พระราชวัง",
+    "main_feature_en": "Palace",
+    "feature_group": "สถาปัตยกรรม",
+    "feature_group_en": "Architecture",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ศรัทธา",
+      "สถาปัตยกรรมงดงาม"
+    ],
+    "highlights_en": [
+      "Faith",
+      "Beautiful Architecture"
+    ],
+    "cost_level": 3
+  },
+  {
+    "collection": "thailand",
+    "name": "วัดอรุณราชวราราม",
+    "name_en": "Wat Arun",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคกลาง",
+    "region_en": "Central Thailand",
+    "place_type": "วัด/ศาสนสถาน",
+    "place_type_en": "Temple/Religious Site",
+    "main_feature": "วัดพุทธ",
+    "main_feature_en": "Buddhist Temple",
+    "feature_group": "ศาสนา/วัฒนธรรม",
+    "feature_group_en": "Religion/Culture",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ชมพระอาทิตย์ตก",
+      "ถ่ายรูปสวย"
+    ],
+    "highlights_en": [
+      "Sunset Viewing",
+      "Great Photo Spot"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "วัดโพธิ์",
+    "name_en": "Wat Pho",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคกลาง",
+    "region_en": "Central Thailand",
+    "place_type": "วัด/ศาสนสถาน",
+    "place_type_en": "Temple/Religious Site",
+    "main_feature": "วัดพุทธ",
+    "main_feature_en": "Buddhist Temple",
+    "feature_group": "ศาสนา/วัฒนธรรม",
+    "feature_group_en": "Religion/Culture",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ศรัทธา",
+      "สถาปัตยกรรมงดงาม"
+    ],
+    "highlights_en": [
+      "Faith",
+      "Beautiful Architecture"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "ตลาดนัดจตุจักร",
+    "name_en": "Chatuchak Weekend Market",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคกลาง",
+    "region_en": "Central Thailand",
+    "place_type": "ตลาด",
+    "place_type_en": "Market",
+    "main_feature": "ตลาด",
+    "main_feature_en": "Market",
+    "feature_group": "เมือง/ไลฟ์สไตล์",
+    "feature_group_en": "City/Lifestyle",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ช้อปปิ้ง",
+      "วัฒนธรรมท้องถิ่น"
+    ],
+    "highlights_en": [
+      "Shopping",
+      "Local Culture"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "thailand",
+    "name": "ตลาดน้ำดำเนินสะดวก",
+    "name_en": "Damnoen Saduak Floating Market",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคกลาง",
+    "region_en": "Central Thailand",
+    "place_type": "ตลาด",
+    "place_type_en": "Market",
+    "main_feature": "ตลาด",
+    "main_feature_en": "Market",
+    "feature_group": "เมือง/ไลฟ์สไตล์",
+    "feature_group_en": "City/Lifestyle",
+    "activity": "ล่องเรือ",
+    "activity_en": "Boat Trip",
+    "highlights": [
+      "วัฒนธรรมท้องถิ่น",
+      "อาหารท้องถิ่น"
+    ],
+    "highlights_en": [
+      "Local Culture",
+      "Local Food"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "เยาวราช",
+    "name_en": "Yaowarat (Chinatown)",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคกลาง",
+    "region_en": "Central Thailand",
+    "place_type": "เมืองเก่า/ย่านเก่า",
+    "place_type_en": "Old Town/Old Quarter",
+    "main_feature": "ย่านช้อปปิ้ง",
+    "main_feature_en": "Shopping District",
+    "feature_group": "เมือง/ไลฟ์สไตล์",
+    "feature_group_en": "City/Lifestyle",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "อาหารท้องถิ่น",
+      "วัฒนธรรมท้องถิ่น"
+    ],
+    "highlights_en": [
+      "Local Food",
+      "Local Culture"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "thailand",
+    "name": "เอเชียทีค เดอะ ริเวอร์ฟร้อนท์",
+    "name_en": "Asiatique The Riverfront",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคกลาง",
+    "region_en": "Central Thailand",
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "ย่านช้อปปิ้ง",
+    "main_feature_en": "Shopping District",
+    "feature_group": "เมือง/ไลฟ์สไตล์",
+    "feature_group_en": "City/Lifestyle",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ถ่ายรูปสวย",
+      "ช้อปปิ้ง"
+    ],
+    "highlights_en": [
+      "Great Photo Spot",
+      "Shopping"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "thailand",
+    "name": "อุทยานประวัติศาสตร์พระนครศรีอยุธยา",
+    "name_en": "Ayutthaya Historical Park",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคกลาง",
+    "region_en": "Central Thailand",
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "เมืองโบราณ",
+    "main_feature_en": "Ancient City",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "ปั่นจักรยาน",
+    "activity_en": "Cycling",
+    "highlights": [
+      "มรดกโลก",
+      "ประวัติศาสตร์ยาวนาน"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Long History"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "thailand",
+    "name": "วัดไชยวัฒนาราม",
+    "name_en": "Wat Chaiwatthanaram",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคกลาง",
+    "region_en": "Central Thailand",
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "เมืองโบราณ",
+    "main_feature_en": "Ancient City",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ชมพระอาทิตย์ตก",
+      "ประวัติศาสตร์ยาวนาน"
+    ],
+    "highlights_en": [
+      "Sunset Viewing",
+      "Long History"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "พระราชวังบางปะอิน",
+    "name_en": "Bang Pa-In Royal Palace",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคกลาง",
+    "region_en": "Central Thailand",
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "พระราชวัง",
+    "main_feature_en": "Palace",
+    "feature_group": "สถาปัตยกรรม",
+    "feature_group_en": "Architecture",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "สถาปัตยกรรมงดงาม",
+      "สวนสวย"
+    ],
+    "highlights_en": [
+      "Beautiful Architecture",
+      "Beautiful Garden"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "thailand",
+    "name": "พระนารายณ์ราชนิเวศน์",
+    "name_en": "Phra Narai Ratchaniwet Palace",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคกลาง",
+    "region_en": "Central Thailand",
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "พระราชวัง",
+    "main_feature_en": "Palace",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ประวัติศาสตร์ยาวนาน",
+      "วัฒนธรรมท้องถิ่น"
+    ],
+    "highlights_en": [
+      "Long History",
+      "Local Culture"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "บึงบอระเพ็ด",
+    "name_en": "Bueng Boraphet",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคกลาง",
+    "region_en": "Central Thailand",
+    "place_type": "ธรรมชาติ",
+    "place_type_en": "Nature",
+    "main_feature": "ทะเลสาบ",
+    "main_feature_en": "Lake",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ล่องเรือ",
+    "activity_en": "Boat Trip",
+    "highlights": [
+      "ธรรมชาติสวยงาม",
+      "ดูนก"
+    ],
+    "highlights_en": [
+      "Beautiful Nature",
+      "Bird Watching"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "สะพานข้ามแม่น้ำแคว",
+    "name_en": "Bridge over the River Kwai",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคตะวันตก",
+    "region_en": "Western Thailand",
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "สะพาน",
+    "main_feature_en": "Bridge",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ประวัติศาสตร์ยาวนาน",
+      "ถ่ายรูปสวย"
+    ],
+    "highlights_en": [
+      "Long History",
+      "Great Photo Spot"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "thailand",
+    "name": "น้ำตกเอราวัณ",
+    "name_en": "Erawan Waterfall",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคตะวันตก",
+    "region_en": "Western Thailand",
+    "place_type": "น้ำตก",
+    "place_type_en": "Waterfall",
+    "main_feature": "น้ำตก",
+    "main_feature_en": "Waterfall",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินป่า",
+    "activity_en": "Hiking",
+    "highlights": [
+      "ธรรมชาติสวยงาม",
+      "เล่นน้ำตก"
+    ],
+    "highlights_en": [
+      "Beautiful Nature",
+      "Waterfall Swimming"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "thailand",
+    "name": "สะพานมอญสังขละบุรี",
+    "name_en": "Mon Bridge, Sangkhlaburi",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคตะวันตก",
+    "region_en": "Western Thailand",
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "สะพาน",
+    "main_feature_en": "Bridge",
+    "feature_group": "วัฒนธรรม/ศาสนา",
+    "feature_group_en": "Culture/Religion",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ชมพระอาทิตย์ตก",
+      "วัฒนธรรมท้องถิ่น"
+    ],
+    "highlights_en": [
+      "Sunset Viewing",
+      "Local Culture"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "thailand",
+    "name": "พระนครคีรี (เขาวัง)",
+    "name_en": "Phra Nakhon Khiri (Khao Wang)",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคตะวันตก",
+    "region_en": "Western Thailand",
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "พระราชวัง",
+    "main_feature_en": "Palace",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "ขึ้นกระเช้า/ลิฟต์ชมวิว",
+    "activity_en": "Cable Car / Observation Deck",
+    "highlights": [
+      "วิวพาโนรามา",
+      "ประวัติศาสตร์ยาวนาน"
+    ],
+    "highlights_en": [
+      "Panoramic View",
+      "Long History"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "หาดชะอำ",
+    "name_en": "Cha-am Beach",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคตะวันตก",
+    "region_en": "Western Thailand",
+    "place_type": "ชายหาด/เกาะ",
+    "place_type_en": "Beach/Island",
+    "main_feature": "ชายหาด",
+    "main_feature_en": "Beach",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ครอบครัว",
+      "อาหารทะเล"
+    ],
+    "highlights_en": [
+      "Family-Friendly",
+      "Seafood"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "thailand",
+    "name": "อุทยานแห่งชาติแก่งกระจาน",
+    "name_en": "Kaeng Krachan National Park",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคตะวันตก",
+    "region_en": "Western Thailand",
+    "place_type": "อุทยานแห่งชาติ",
+    "place_type_en": "National Park",
+    "main_feature": "ป่า",
+    "main_feature_en": "Forest",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินป่า",
+    "activity_en": "Hiking",
+    "highlights": [
+      "ดูนก",
+      "ธรรมชาติสวยงาม"
+    ],
+    "highlights_en": [
+      "Bird Watching",
+      "Beautiful Nature"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "thailand",
+    "name": "หาดพัทยา",
+    "name_en": "Pattaya Beach",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคตะวันออก",
+    "region_en": "Eastern Thailand",
+    "place_type": "ชายหาด/เกาะ",
+    "place_type_en": "Beach/Island",
+    "main_feature": "ชายหาด",
+    "main_feature_en": "Beach",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ไนท์ไลฟ์",
+      "ครอบครัว"
+    ],
+    "highlights_en": [
+      "Nightlife",
+      "Family-Friendly"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "thailand",
+    "name": "เกาะล้าน",
+    "name_en": "Koh Larn",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคตะวันออก",
+    "region_en": "Eastern Thailand",
+    "place_type": "ชายหาด/เกาะ",
+    "place_type_en": "Beach/Island",
+    "main_feature": "ชายหาด",
+    "main_feature_en": "Beach",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ดำน้ำ/ดูปะการัง",
+    "activity_en": "Diving & Snorkeling",
+    "highlights": [
+      "น้ำทะเลใส",
+      "ผจญภัย"
+    ],
+    "highlights_en": [
+      "Clear Water",
+      "Adventure"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "เกาะเสม็ด",
+    "name_en": "Koh Samet",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคตะวันออก",
+    "region_en": "Eastern Thailand",
+    "place_type": "ชายหาด/เกาะ",
+    "place_type_en": "Beach/Island",
+    "main_feature": "ชายหาด",
+    "main_feature_en": "Beach",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ดำน้ำ/ดูปะการัง",
+    "activity_en": "Diving & Snorkeling",
+    "highlights": [
+      "น้ำทะเลใส",
+      "โรแมนติก"
+    ],
+    "highlights_en": [
+      "Clear Water",
+      "Romantic"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "เกาะช้าง",
+    "name_en": "Koh Chang",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคตะวันออก",
+    "region_en": "Eastern Thailand",
+    "place_type": "ชายหาด/เกาะ",
+    "place_type_en": "Beach/Island",
+    "main_feature": "ชายหาด",
+    "main_feature_en": "Beach",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินป่า",
+    "activity_en": "Hiking",
+    "highlights": [
+      "ธรรมชาติสวยงาม",
+      "ผจญภัย"
+    ],
+    "highlights_en": [
+      "Beautiful Nature",
+      "Adventure"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "เกาะกูด",
+    "name_en": "Koh Kood",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคตะวันออก",
+    "region_en": "Eastern Thailand",
+    "place_type": "ชายหาด/เกาะ",
+    "place_type_en": "Beach/Island",
+    "main_feature": "ชายหาด",
+    "main_feature_en": "Beach",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ดำน้ำ/ดูปะการัง",
+    "activity_en": "Diving & Snorkeling",
+    "highlights": [
+      "น้ำทะเลใส",
+      "โรแมนติก"
+    ],
+    "highlights_en": [
+      "Clear Water",
+      "Romantic"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "ปราสาทสัจธรรม",
+    "name_en": "Sanctuary of Truth",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคตะวันออก",
+    "region_en": "Eastern Thailand",
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "สถาปัตยกรรมสมัยใหม่",
+    "main_feature_en": "Modern Architecture",
+    "feature_group": "สถาปัตยกรรม",
+    "feature_group_en": "Architecture",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "สถาปัตยกรรมงดงาม",
+      "วัฒนธรรมท้องถิ่น"
+    ],
+    "highlights_en": [
+      "Beautiful Architecture",
+      "Local Culture"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "thailand",
+    "name": "สวนนงนุช",
+    "name_en": "Nong Nooch Tropical Garden",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคตะวันออก",
+    "region_en": "Eastern Thailand",
+    "place_type": "แลนด์มาร์ก/สถาปัตยกรรม",
+    "place_type_en": "Landmark/Architecture",
+    "main_feature": "สวนพฤกษศาสตร์",
+    "main_feature_en": "Botanical Garden",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "สวนดอกไม้",
+      "ครอบครัว"
+    ],
+    "highlights_en": [
+      "Flower Garden",
+      "Family-Friendly"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "thailand",
+    "name": "ชุมชนริมน้ำจันทบูร",
+    "name_en": "Chanthaboon Waterfront Community",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคตะวันออก",
+    "region_en": "Eastern Thailand",
+    "place_type": "เมืองเก่า/ย่านเก่า",
+    "place_type_en": "Old Town/Old Quarter",
+    "main_feature": "ย่านช้อปปิ้ง",
+    "main_feature_en": "Shopping District",
+    "feature_group": "เมือง/ไลฟ์สไตล์",
+    "feature_group_en": "City/Lifestyle",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "วัฒนธรรมท้องถิ่น",
+      "อาหารท้องถิ่น"
+    ],
+    "highlights_en": [
+      "Local Culture",
+      "Local Food"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "thailand",
+    "name": "อุทยานประวัติศาสตร์พิมาย",
+    "name_en": "Phimai Historical Park",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคตะวันออกเฉียงเหนือ",
+    "region_en": "Northeastern Thailand (Isan)",
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "ซากปราสาท",
+    "main_feature_en": "Castle Ruins",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ประวัติศาสตร์ยาวนาน",
+      "สถาปัตยกรรมงดงาม"
+    ],
+    "highlights_en": [
+      "Long History",
+      "Beautiful Architecture"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "ปราสาทหินพนมรุ้ง",
+    "name_en": "Phanom Rung Historical Park",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคตะวันออกเฉียงเหนือ",
+    "region_en": "Northeastern Thailand (Isan)",
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "ซากปราสาท",
+    "main_feature_en": "Castle Ruins",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ชมพระอาทิตย์ขึ้น",
+      "ประวัติศาสตร์ยาวนาน"
+    ],
+    "highlights_en": [
+      "Sunrise Viewing",
+      "Long History"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "ปราสาทเมืองต่ำ",
+    "name_en": "Prasat Muang Tam",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคตะวันออกเฉียงเหนือ",
+    "region_en": "Northeastern Thailand (Isan)",
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "ซากปราสาท",
+    "main_feature_en": "Castle Ruins",
+    "feature_group": "ประวัติศาสตร์",
+    "feature_group_en": "History",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ประวัติศาสตร์ยาวนาน",
+      "สถาปัตยกรรมงดงาม"
+    ],
+    "highlights_en": [
+      "Long History",
+      "Beautiful Architecture"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "ผาแต้ม",
+    "name_en": "Pha Taem",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคตะวันออกเฉียงเหนือ",
+    "region_en": "Northeastern Thailand (Isan)",
+    "place_type": "ภูเขา/จุดชมวิว",
+    "place_type_en": "Mountain/Viewpoint",
+    "main_feature": "ภูเขา",
+    "main_feature_en": "Mountain",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ชมพระอาทิตย์ขึ้น",
+      "วิวพาโนรามา"
+    ],
+    "highlights_en": [
+      "Sunrise Viewing",
+      "Panoramic View"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "สามพันโบก",
+    "name_en": "Sam Phan Bok",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคตะวันออกเฉียงเหนือ",
+    "region_en": "Northeastern Thailand (Isan)",
+    "place_type": "ธรรมชาติ",
+    "place_type_en": "Nature",
+    "main_feature": "แม่น้ำ",
+    "main_feature_en": "River",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ล่องเรือ",
+    "activity_en": "Boat Trip",
+    "highlights": [
+      "ธรรมชาติสวยงาม",
+      "ถ่ายรูปสวย"
+    ],
+    "highlights_en": [
+      "Beautiful Nature",
+      "Great Photo Spot"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "ภูกระดึง",
+    "name_en": "Phu Kradueng",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคตะวันออกเฉียงเหนือ",
+    "region_en": "Northeastern Thailand (Isan)",
+    "place_type": "อุทยานแห่งชาติ",
+    "place_type_en": "National Park",
+    "main_feature": "ภูเขา",
+    "main_feature_en": "Mountain",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินป่า",
+    "activity_en": "Hiking",
+    "highlights": [
+      "ผจญภัย",
+      "อากาศเย็น"
+    ],
+    "highlights_en": [
+      "Adventure",
+      "Cool Weather"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "thailand",
+    "name": "เชียงคาน",
+    "name_en": "Chiang Khan",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคตะวันออกเฉียงเหนือ",
+    "region_en": "Northeastern Thailand (Isan)",
+    "place_type": "เมืองเก่า/ย่านเก่า",
+    "place_type_en": "Old Town/Old Quarter",
+    "main_feature": "ย่านช้อปปิ้ง",
+    "main_feature_en": "Shopping District",
+    "feature_group": "เมือง/ไลฟ์สไตล์",
+    "feature_group_en": "City/Lifestyle",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ชมพระอาทิตย์ขึ้น",
+      "วัฒนธรรมท้องถิ่น"
+    ],
+    "highlights_en": [
+      "Sunrise Viewing",
+      "Local Culture"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "thailand",
+    "name": "วัดพระธาตุพนม",
+    "name_en": "Wat Phra That Phanom",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคตะวันออกเฉียงเหนือ",
+    "region_en": "Northeastern Thailand (Isan)",
+    "place_type": "วัด/ศาสนสถาน",
+    "place_type_en": "Temple/Religious Site",
+    "main_feature": "สถูป/เจดีย์",
+    "main_feature_en": "Stupa/Pagoda",
+    "feature_group": "ศาสนา/วัฒนธรรม",
+    "feature_group_en": "Religion/Culture",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ศรัทธา",
+      "วัฒนธรรมท้องถิ่น"
+    ],
+    "highlights_en": [
+      "Faith",
+      "Local Culture"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "thailand",
+    "name": "น้ำตกเจ็ดสี",
+    "name_en": "Nam Tok Chet Si (Seven-Color Waterfall)",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคตะวันออกเฉียงเหนือ",
+    "region_en": "Northeastern Thailand (Isan)",
+    "place_type": "น้ำตก",
+    "place_type_en": "Waterfall",
+    "main_feature": "น้ำตก",
+    "main_feature_en": "Waterfall",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินป่า",
+    "activity_en": "Hiking",
+    "highlights": [
+      "ธรรมชาติสวยงาม",
+      "ผจญภัย"
+    ],
+    "highlights_en": [
+      "Beautiful Nature",
+      "Adventure"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "เกาะพีพี",
+    "name_en": "Koh Phi Phi",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคใต้",
+    "region_en": "Southern Thailand",
+    "place_type": "ชายหาด/เกาะ",
+    "place_type_en": "Beach/Island",
+    "main_feature": "ชายหาด",
+    "main_feature_en": "Beach",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ดำน้ำ/ดูปะการัง",
+    "activity_en": "Diving & Snorkeling",
+    "highlights": [
+      "น้ำทะเลใส",
+      "ผจญภัย"
+    ],
+    "highlights_en": [
+      "Clear Water",
+      "Adventure"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "thailand",
+    "name": "อ่าวมาหยา",
+    "name_en": "Maya Bay",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคใต้",
+    "region_en": "Southern Thailand",
+    "place_type": "ชายหาด/เกาะ",
+    "place_type_en": "Beach/Island",
+    "main_feature": "ชายหาด",
+    "main_feature_en": "Beach",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ดำน้ำ/ดูปะการัง",
+    "activity_en": "Diving & Snorkeling",
+    "highlights": [
+      "น้ำทะเลใส",
+      "ถ่ายรูปสวย"
+    ],
+    "highlights_en": [
+      "Clear Water",
+      "Great Photo Spot"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "thailand",
+    "name": "หาดไร่เลย์",
+    "name_en": "Railay Beach",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคใต้",
+    "region_en": "Southern Thailand",
+    "place_type": "ชายหาด/เกาะ",
+    "place_type_en": "Beach/Island",
+    "main_feature": "ชายหาด",
+    "main_feature_en": "Beach",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ปีนเขา",
+    "activity_en": "Mountain Climbing",
+    "highlights": [
+      "ผจญภัย",
+      "น้ำทะเลใส"
+    ],
+    "highlights_en": [
+      "Adventure",
+      "Clear Water"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "เกาะสมุย",
+    "name_en": "Koh Samui",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคใต้",
+    "region_en": "Southern Thailand",
+    "place_type": "ชายหาด/เกาะ",
+    "place_type_en": "Beach/Island",
+    "main_feature": "ชายหาด",
+    "main_feature_en": "Beach",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "โรแมนติก",
+      "ไนท์ไลฟ์"
+    ],
+    "highlights_en": [
+      "Romantic",
+      "Nightlife"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "เกาะพะงัน",
+    "name_en": "Koh Phangan",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคใต้",
+    "region_en": "Southern Thailand",
+    "place_type": "ชายหาด/เกาะ",
+    "place_type_en": "Beach/Island",
+    "main_feature": "ชายหาด",
+    "main_feature_en": "Beach",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ไนท์ไลฟ์",
+      "โรแมนติก"
+    ],
+    "highlights_en": [
+      "Nightlife",
+      "Romantic"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "เกาะเต่า",
+    "name_en": "Koh Tao",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคใต้",
+    "region_en": "Southern Thailand",
+    "place_type": "ชายหาด/เกาะ",
+    "place_type_en": "Beach/Island",
+    "main_feature": "ชายหาด",
+    "main_feature_en": "Beach",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ดำน้ำ/ดูปะการัง",
+    "activity_en": "Diving & Snorkeling",
+    "highlights": [
+      "น้ำทะเลใส",
+      "ผจญภัย"
+    ],
+    "highlights_en": [
+      "Clear Water",
+      "Adventure"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "หมู่เกาะสิมิลัน",
+    "name_en": "Similan Islands",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคใต้",
+    "region_en": "Southern Thailand",
+    "place_type": "ชายหาด/เกาะ",
+    "place_type_en": "Beach/Island",
+    "main_feature": "แนวปะการัง",
+    "main_feature_en": "Coral Reef",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ดำน้ำ/ดูปะการัง",
+    "activity_en": "Diving & Snorkeling",
+    "highlights": [
+      "น้ำทะเลใส",
+      "ผจญภัย"
+    ],
+    "highlights_en": [
+      "Clear Water",
+      "Adventure"
+    ],
+    "cost_level": 3
+  },
+  {
+    "collection": "thailand",
+    "name": "เขาตะปู (เกาะเจมส์บอนด์)",
+    "name_en": "Khao Phing Kan (James Bond Island)",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคใต้",
+    "region_en": "Southern Thailand",
+    "place_type": "ธรรมชาติ",
+    "place_type_en": "Nature",
+    "main_feature": "ภูเขา",
+    "main_feature_en": "Mountain",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ล่องเรือ",
+    "activity_en": "Boat Trip",
+    "highlights": [
+      "ถ่ายรูปสวย",
+      "ธรรมชาติสวยงาม"
+    ],
+    "highlights_en": [
+      "Great Photo Spot",
+      "Beautiful Nature"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "thailand",
+    "name": "หาดป่าตอง",
+    "name_en": "Patong Beach",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคใต้",
+    "region_en": "Southern Thailand",
+    "place_type": "ชายหาด/เกาะ",
+    "place_type_en": "Beach/Island",
+    "main_feature": "ชายหาด",
+    "main_feature_en": "Beach",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ไนท์ไลฟ์",
+      "ครอบครัว"
+    ],
+    "highlights_en": [
+      "Nightlife",
+      "Family-Friendly"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "thailand",
+    "name": "แหลมพรหมเทพ",
+    "name_en": "Promthep Cape",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคใต้",
+    "region_en": "Southern Thailand",
+    "place_type": "ภูเขา/จุดชมวิว",
+    "place_type_en": "Mountain/Viewpoint",
+    "main_feature": "ภูเขา",
+    "main_feature_en": "Mountain",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ชมพระอาทิตย์ตก",
+      "โรแมนติก"
+    ],
+    "highlights_en": [
+      "Sunset Viewing",
+      "Romantic"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "thailand",
+    "name": "วัดฉลอง",
+    "name_en": "Wat Chalong",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคใต้",
+    "region_en": "Southern Thailand",
+    "place_type": "วัด/ศาสนสถาน",
+    "place_type_en": "Temple/Religious Site",
+    "main_feature": "วัดพุทธ",
+    "main_feature_en": "Buddhist Temple",
+    "feature_group": "ศาสนา/วัฒนธรรม",
+    "feature_group_en": "Religion/Culture",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ศรัทธา",
+      "วัฒนธรรมท้องถิ่น"
+    ],
+    "highlights_en": [
+      "Faith",
+      "Local Culture"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "thailand",
+    "name": "ย่านเมืองเก่าภูเก็ต",
+    "name_en": "Phuket Old Town",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคใต้",
+    "region_en": "Southern Thailand",
+    "place_type": "เมืองเก่า/ย่านเก่า",
+    "place_type_en": "Old Town/Old Quarter",
+    "main_feature": "ย่านช้อปปิ้ง",
+    "main_feature_en": "Shopping District",
+    "feature_group": "เมือง/ไลฟ์สไตล์",
+    "feature_group_en": "City/Lifestyle",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "สถาปัตยกรรมงดงาม",
+      "ถ่ายรูปสวย"
+    ],
+    "highlights_en": [
+      "Beautiful Architecture",
+      "Great Photo Spot"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "thailand",
+    "name": "ถ้ำมรกต",
+    "name_en": "Emerald Cave (Tham Morakot)",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคใต้",
+    "region_en": "Southern Thailand",
+    "place_type": "ถ้ำ",
+    "place_type_en": "Cave",
+    "main_feature": "ถ้ำ",
+    "main_feature_en": "Cave",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ล่องเรือ",
+    "activity_en": "Boat Trip",
+    "highlights": [
+      "ผจญภัย",
+      "ธรรมชาติสวยงาม"
+    ],
+    "highlights_en": [
+      "Adventure",
+      "Beautiful Nature"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "หมู่เกาะตะรุเตา",
+    "name_en": "Tarutao Islands",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคใต้",
+    "region_en": "Southern Thailand",
+    "place_type": "อุทยานแห่งชาติ",
+    "place_type_en": "National Park",
+    "main_feature": "แนวปะการัง",
+    "main_feature_en": "Coral Reef",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ดำน้ำ/ดูปะการัง",
+    "activity_en": "Diving & Snorkeling",
+    "highlights": [
+      "น้ำทะเลใส",
+      "ผจญภัย"
+    ],
+    "highlights_en": [
+      "Clear Water",
+      "Adventure"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "thailand",
+    "name": "หาดสมิหลา",
+    "name_en": "Samila Beach",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคใต้",
+    "region_en": "Southern Thailand",
+    "place_type": "ชายหาด/เกาะ",
+    "place_type_en": "Beach/Island",
+    "main_feature": "ชายหาด",
+    "main_feature_en": "Beach",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ถ่ายรูปสวย",
+      "ครอบครัว"
+    ],
+    "highlights_en": [
+      "Great Photo Spot",
+      "Family-Friendly"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "thailand",
+    "name": "วัดถ้ำเสือ",
+    "name_en": "Tiger Cave Temple",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคใต้",
+    "region_en": "Southern Thailand",
+    "place_type": "วัด/ศาสนสถาน",
+    "place_type_en": "Temple/Religious Site",
+    "main_feature": "วัดพุทธ",
+    "main_feature_en": "Buddhist Temple",
+    "feature_group": "ศาสนา/วัฒนธรรม",
+    "feature_group_en": "Religion/Culture",
+    "activity": "ปีนเขา",
+    "activity_en": "Mountain Climbing",
+    "highlights": [
+      "วิวพาโนรามา",
+      "ผจญภัย"
+    ],
+    "highlights_en": [
+      "Panoramic View",
+      "Adventure"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "สระมรกต",
+    "name_en": "Emerald Pool",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคใต้",
+    "region_en": "Southern Thailand",
+    "place_type": "ธรรมชาติ",
+    "place_type_en": "Nature",
+    "main_feature": "ป่า",
+    "main_feature_en": "Forest",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินป่า",
+    "activity_en": "Hiking",
+    "highlights": [
+      "ธรรมชาติสวยงาม",
+      "เล่นน้ำตก"
+    ],
+    "highlights_en": [
+      "Beautiful Nature",
+      "Waterfall Swimming"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "วัดพระบรมธาตุไชยา",
+    "name_en": "Wat Phra Borommathat Chaiya",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคใต้",
+    "region_en": "Southern Thailand",
+    "place_type": "วัด/ศาสนสถาน",
+    "place_type_en": "Temple/Religious Site",
+    "main_feature": "สถูป/เจดีย์",
+    "main_feature_en": "Stupa/Pagoda",
+    "feature_group": "ศาสนา/วัฒนธรรม",
+    "feature_group_en": "Religion/Culture",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ศรัทธา",
+      "ประวัติศาสตร์ยาวนาน"
+    ],
+    "highlights_en": [
+      "Faith",
+      "Long History"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "thailand",
+    "name": "เขาหลัก",
+    "name_en": "Khao Lak",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคใต้",
+    "region_en": "Southern Thailand",
+    "place_type": "ชายหาด/เกาะ",
+    "place_type_en": "Beach/Island",
+    "main_feature": "ชายหาด",
+    "main_feature_en": "Beach",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ดำน้ำ/ดูปะการัง",
+    "activity_en": "Diving & Snorkeling",
+    "highlights": [
+      "น้ำทะเลใส",
+      "ผจญภัย"
+    ],
+    "highlights_en": [
+      "Clear Water",
+      "Adventure"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "เขาสก",
+    "name_en": "Khao Sok",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคใต้",
+    "region_en": "Southern Thailand",
+    "place_type": "อุทยานแห่งชาติ",
+    "place_type_en": "National Park",
+    "main_feature": "ป่า",
+    "main_feature_en": "Forest",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ล่องเรือ",
+    "activity_en": "Boat Trip",
+    "highlights": [
+      "ธรรมชาติสวยงาม",
+      "ผจญภัย"
+    ],
+    "highlights_en": [
+      "Beautiful Nature",
+      "Adventure"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "thailand",
+    "name": "เกาะยอ",
+    "name_en": "Koh Yo",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคใต้",
+    "region_en": "Southern Thailand",
+    "place_type": "ชายหาด/เกาะ",
+    "place_type_en": "Beach/Island",
+    "main_feature": "ชายหาด",
+    "main_feature_en": "Beach",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ขับรถชมวิว",
+    "activity_en": "Scenic Drive",
+    "highlights": [
+      "ธรรมชาติสวยงาม",
+      "อาหารท้องถิ่น"
+    ],
+    "highlights_en": [
+      "Beautiful Nature",
+      "Local Food"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "thailand",
+    "name": "เกาะหลีเป๊ะ",
+    "name_en": "Koh Lipe",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคใต้",
+    "region_en": "Southern Thailand",
+    "place_type": "ชายหาด/เกาะ",
+    "place_type_en": "Beach/Island",
+    "main_feature": "ชายหาด",
+    "main_feature_en": "Beach",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ดำน้ำ/ดูปะการัง",
+    "activity_en": "Diving & Snorkeling",
+    "highlights": [
+      "น้ำทะเลใส",
+      "ผจญภัย"
+    ],
+    "highlights_en": [
+      "Clear Water",
+      "Adventure"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "วัดใหญ่ชัยมงคล",
+    "name_en": "Wat Yai Chai Mongkol",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคกลาง",
+    "region_en": "Central Thailand",
+    "place_type": "โบราณสถาน",
+    "place_type_en": "Historical Site",
+    "main_feature": "วัดพุทธ",
+    "main_feature_en": "Buddhist Temple",
+    "feature_group": "ศาสนา/วัฒนธรรม",
+    "feature_group_en": "Religion/Culture",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ประวัติศาสตร์ยาวนาน",
+      "ศรัทธา"
+    ],
+    "highlights_en": [
+      "Long History",
+      "Faith"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "อุทยานแห่งชาติเขาใหญ่",
+    "name_en": "Khao Yai National Park",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคตะวันออกเฉียงเหนือ",
+    "region_en": "Northeastern Thailand (Isan)",
+    "place_type": "อุทยานแห่งชาติ",
+    "place_type_en": "National Park",
+    "main_feature": "ป่า",
+    "main_feature_en": "Forest",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินป่า",
+    "activity_en": "Hiking",
+    "highlights": [
+      "มรดกโลก",
+      "ธรรมชาติสวยงาม"
+    ],
+    "highlights_en": [
+      "World Heritage Site",
+      "Beautiful Nature"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "thailand",
+    "name": "หาดบางแสน",
+    "name_en": "Bang Saen Beach",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคตะวันออก",
+    "region_en": "Eastern Thailand",
+    "place_type": "ชายหาด/เกาะ",
+    "place_type_en": "Beach/Island",
+    "main_feature": "ชายหาด",
+    "main_feature_en": "Beach",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินชม",
+    "activity_en": "Sightseeing",
+    "highlights": [
+      "ครอบครัว",
+      "อาหารทะเล"
+    ],
+    "highlights_en": [
+      "Family-Friendly",
+      "Seafood"
+    ],
+    "cost_level": 0
+  },
+  {
+    "collection": "thailand",
+    "name": "ดอยหลวงเชียงดาว",
+    "name_en": "Doi Luang Chiang Dao",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคเหนือ",
+    "region_en": "Northern Thailand",
+    "place_type": "ภูเขา/จุดชมวิว",
+    "place_type_en": "Mountain/Viewpoint",
+    "main_feature": "ภูเขา",
+    "main_feature_en": "Mountain",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "เดินป่า",
+    "activity_en": "Hiking",
+    "highlights": [
+      "วิวพาโนรามา",
+      "ทะเลหมอก"
+    ],
+    "highlights_en": [
+      "Panoramic View",
+      "Sea of Mist"
+    ],
+    "cost_level": 2
+  },
+  {
+    "collection": "thailand",
+    "name": "ทะเลบัวแดง",
+    "name_en": "Red Lotus Sea",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคตะวันออกเฉียงเหนือ",
+    "region_en": "Northeastern Thailand (Isan)",
+    "place_type": "ธรรมชาติ",
+    "place_type_en": "Nature",
+    "main_feature": "ทะเลสาบ",
+    "main_feature_en": "Lake",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ล่องเรือ",
+    "activity_en": "Boat Trip",
+    "highlights": [
+      "ธรรมชาติสวยงาม",
+      "ชมพระอาทิตย์ขึ้น"
+    ],
+    "highlights_en": [
+      "Beautiful Nature",
+      "Sunrise Viewing"
+    ],
+    "cost_level": 1
+  },
+  {
+    "collection": "thailand",
+    "name": "เขาค้อ",
+    "name_en": "Khao Kho",
+    "country": "ไทย",
+    "country_en": "Thailand",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "region": "ภาคเหนือ",
+    "region_en": "Northern Thailand",
+    "place_type": "ภูเขา/จุดชมวิว",
+    "place_type_en": "Mountain/Viewpoint",
+    "main_feature": "ภูเขา",
+    "main_feature_en": "Mountain",
+    "feature_group": "ธรรมชาติ",
+    "feature_group_en": "Nature",
+    "activity": "ขับรถชมวิว",
+    "activity_en": "Scenic Drive",
+    "highlights": [
+      "อากาศเย็น",
+      "วิวพาโนรามา"
+    ],
+    "highlights_en": [
+      "Cool Weather",
+      "Panoramic View"
+    ],
+    "cost_level": 1
+  }
+]

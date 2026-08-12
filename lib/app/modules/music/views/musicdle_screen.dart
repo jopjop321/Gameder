@@ -1,0 +1,336 @@
+import 'dart:math';
+
+import 'package:flutter/material.dart';
+import 'package:get/get.dart';
+
+import '../models/song.dart';
+import '../models/song_guess_result.dart';
+import '../models/song_load_status.dart';
+import '../services/song_service.dart';
+import '../theme/musicdle_theme.dart';
+import '../widgets/musicdle_guess_row.dart';
+import '../widgets/musicdle_header_row.dart';
+import '../widgets/song_dex_dialog.dart';
+import '../widgets/song_error_state.dart';
+
+class MusicdleScreen extends StatefulWidget {
+  final String collectionId;
+  final String title;
+
+  const MusicdleScreen({
+    super.key,
+    required this.collectionId,
+    required this.title,
+  });
+
+  @override
+  State<MusicdleScreen> createState() => _MusicdleScreenState();
+}
+
+class _MusicdleScreenState extends State<MusicdleScreen> {
+  final _random = Random();
+  final _searchController = TextEditingController();
+  final _searchFocusNode = FocusNode();
+  final _tableScrollController = ScrollController();
+  SongLoadStatus _status = SongLoadStatus.loading;
+  List<Song> _availableSongs = [];
+  Song? _answer;
+  final List<SongGuessResult> _guesses = [];
+  List<Song> _suggestions = [];
+  bool _isAnswerRevealed = false;
+  bool _hasWon = false;
+
+  @override
+  void initState() {
+    super.initState();
+    _searchController.addListener(_updateSuggestions);
+    _loadAndStartGame();
+  }
+
+  @override
+  void dispose() {
+    _searchController
+      ..removeListener(_updateSuggestions)
+      ..dispose();
+    _searchFocusNode.dispose();
+    _tableScrollController.dispose();
+    super.dispose();
+  }
+
+  Future<void> _loadAndStartGame() async {
+    setState(() => _status = SongLoadStatus.loading);
+
+    final collectionSongs = await SongService.loadSongs(widget.collectionId);
+
+    if (!mounted) return;
+    if (collectionSongs.isEmpty) {
+      setState(() => _status = SongLoadStatus.error);
+      return;
+    }
+
+    setState(() {
+      _availableSongs = collectionSongs;
+      _answer = collectionSongs[_random.nextInt(collectionSongs.length)];
+      _guesses.clear();
+      _suggestions = [];
+      _isAnswerRevealed = false;
+      _hasWon = false;
+      _status = SongLoadStatus.ready;
+    });
+
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      if (!mounted) return;
+      _searchFocusNode.requestFocus();
+    });
+  }
+
+  void _restart() {
+    setState(() {
+      _answer = _availableSongs[_random.nextInt(_availableSongs.length)];
+      _guesses.clear();
+      _suggestions = [];
+      _isAnswerRevealed = false;
+      _hasWon = false;
+    });
+  }
+
+  void _updateSuggestions() {
+    final query = _searchController.text;
+    if (query.trim().isEmpty || _isAnswerRevealed || _hasWon) {
+      setState(() => _suggestions = []);
+      return;
+    }
+
+    final guessedNames = _guesses.map((result) => result.song.name).toSet();
+    setState(() {
+      _suggestions = _availableSongs
+          .where(
+            (song) => !guessedNames.contains(song.name) && song.matchesQuery(query),
+          )
+          .toList();
+    });
+  }
+
+  void _submitGuess(Song song) {
+    final alreadyGuessed = _guesses.any((result) => result.song.name == song.name);
+    if (_status != SongLoadStatus.ready || _isAnswerRevealed || _hasWon || alreadyGuessed) {
+      return;
+    }
+
+    final result = SongGuessResult.evaluate(song, _answer!);
+    setState(() {
+      _guesses.insert(0, result);
+      _hasWon = result.isWin;
+      _suggestions = [];
+      _searchController.clear();
+    });
+
+    _scrollToLatestGuess();
+    if (!_hasWon) _searchFocusNode.requestFocus();
+  }
+
+  void _scrollToLatestGuess() {
+    if (!_tableScrollController.hasClients) return;
+
+    _tableScrollController.animateTo(
+      0,
+      duration: const Duration(milliseconds: 250),
+      curve: Curves.easeOut,
+    );
+  }
+
+  void _revealAnswer() => setState(() => _isAnswerRevealed = true);
+
+  Future<void> _openSongDex() async {
+    final selected = await showSongDexDialog(context, _availableSongs);
+    if (!mounted || selected == null) return;
+    setState(() => _searchController.text = selected.name);
+    _searchFocusNode.requestFocus();
+  }
+
+  void _submitFirstSuggestion(String _) {
+    if (_suggestions.length == 1) _submitGuess(_suggestions.single);
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      backgroundColor: kMusicBgColor,
+      appBar: AppBar(
+        title: Text('Musicdle: ${widget.title}'),
+        backgroundColor: Colors.transparent,
+        foregroundColor: Colors.white,
+        elevation: 0,
+        actions: [
+          if (_status == SongLoadStatus.ready)
+            IconButton(
+              onPressed: _openSongDex,
+              icon: const Icon(Icons.menu_book_rounded),
+              tooltip: 'music_dexTooltip'.tr,
+            ),
+        ],
+      ),
+      body: SafeArea(
+        child: _status == SongLoadStatus.loading
+            ? const Center(
+                child: CircularProgressIndicator(color: kMusicAccentColor),
+              )
+            : _status == SongLoadStatus.error
+                ? SongErrorState(onRetry: _loadAndStartGame)
+                : Column(
+                    children: [
+                      Padding(
+                        padding: const EdgeInsets.fromLTRB(16, 0, 16, 8),
+                        child: Text(
+                          'common_unlimitedGuesses'.tr,
+                          style: const TextStyle(color: Colors.white70),
+                        ),
+                      ),
+                      Expanded(child: _buildGuessTable()),
+                      if (_isAnswerRevealed || _hasWon) _buildAnswerBanner(),
+                      _buildSearchArea(),
+                    ],
+                  ),
+      ),
+    );
+  }
+
+  Widget _buildGuessTable() {
+    return SingleChildScrollView(
+      controller: _tableScrollController,
+      padding: const EdgeInsets.symmetric(horizontal: 12),
+      child: SingleChildScrollView(
+        scrollDirection: Axis.horizontal,
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            const MusicdleHeaderRow(),
+            ..._guesses.asMap().entries.map(
+                  (entry) => MusicdleGuessRow(
+                    key: ValueKey(entry.value.song.name),
+                    result: entry.value,
+                    animate: entry.key == 0,
+                  ),
+                ),
+            if (_guesses.isEmpty)
+              Padding(
+                padding: const EdgeInsets.only(top: 32),
+                child: SizedBox(
+                  width: 728,
+                  child: Text(
+                    'music_typeToStart'.tr,
+                    textAlign: TextAlign.center,
+                    style: const TextStyle(color: Colors.white54, fontSize: 16),
+                  ),
+                ),
+              ),
+          ],
+        ),
+      ),
+    );
+  }
+
+  Widget _buildAnswerBanner() {
+    return Container(
+      width: double.infinity,
+      margin: const EdgeInsets.fromLTRB(16, 8, 16, 0),
+      padding: const EdgeInsets.all(12),
+      decoration: BoxDecoration(
+        color: kMusicHeaderCellColor,
+        borderRadius: BorderRadius.circular(12),
+      ),
+      child: Row(
+        children: [
+          Expanded(
+            child: Text(
+              _hasWon
+                  ? 'common_correctAnswerIs'.trParams({'name': _answer!.name})
+                  : 'common_answerIs'.trParams({'name': _answer!.name}),
+              style: const TextStyle(
+                color: Colors.white,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+          ),
+          TextButton(
+            onPressed: () {
+              _searchController.clear();
+              _restart();
+            },
+            child: Text('common_restart'.tr),
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildSearchArea() {
+    return Container(
+      color: kMusicPanelColor,
+      padding: const EdgeInsets.fromLTRB(16, 12, 16, 16),
+      child: SafeArea(
+        top: false,
+        child: Column(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            if (_suggestions.isNotEmpty)
+              ConstrainedBox(
+                constraints: const BoxConstraints(maxHeight: 220),
+                child: ListView.builder(
+                  shrinkWrap: true,
+                  itemCount: _suggestions.length,
+                  itemBuilder: (context, index) {
+                    final song = _suggestions[index];
+                    return ListTile(
+                      dense: true,
+                      title: Text(
+                        song.name,
+                        style: const TextStyle(
+                          color: Colors.white,
+                          fontWeight: FontWeight.w600,
+                        ),
+                      ),
+                      subtitle: Text(
+                        '${song.artist} · ${song.genre}',
+                        style: const TextStyle(color: Colors.white60),
+                      ),
+                      onTap: () => _submitGuess(song),
+                    );
+                  },
+                ),
+              ),
+            Row(
+              children: [
+                Expanded(
+                  child: TextField(
+                    controller: _searchController,
+                    focusNode: _searchFocusNode,
+                    enabled: !_isAnswerRevealed && !_hasWon,
+                    onSubmitted: _submitFirstSuggestion,
+                    style: const TextStyle(color: Colors.white),
+                    decoration: InputDecoration(
+                      hintText: 'music_inputHint'.tr,
+                      hintStyle: const TextStyle(color: Colors.white54),
+                      prefixIcon: const Icon(Icons.search, color: Colors.white70),
+                      filled: true,
+                      fillColor: kMusicBgColor,
+                      border: const OutlineInputBorder(
+                        borderSide: BorderSide.none,
+                      ),
+                    ),
+                  ),
+                ),
+                const SizedBox(width: 8),
+                OutlinedButton(
+                  onPressed: _isAnswerRevealed || _hasWon ? null : _revealAnswer,
+                  style: OutlinedButton.styleFrom(foregroundColor: Colors.white),
+                  child: Text('common_giveUp'.tr),
+                ),
+              ],
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+}

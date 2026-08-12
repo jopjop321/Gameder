@@ -35,20 +35,29 @@ class FoodGuessResult {
       food: guess,
       isWin: guess.name == answer.name,
       cells: [
-        FoodMatchCell(guess.name, _exactMatch(guess.name, answer.name)),
-        FoodMatchCell(guess.country, _countryMatch(guess, answer)),
+        FoodMatchCell(guess.displayName, _exactMatch(guess.name, answer.name)),
+        FoodMatchCell(guess.displayCountry, _countryMatch(guess, answer)),
         if (includeRegion)
-          FoodMatchCell(guess.region ?? '-', _regionMatch(guess, answer)),
+          FoodMatchCell(
+            guess.displayRegion ?? '-',
+            _regionMatch(guess, answer),
+          ),
         FoodMatchCell(
-          guess.dishType,
+          guess.displayDishType,
           _exactMatch(guess.dishType, answer.dishType),
         ),
-        FoodMatchCell(guess.mainIngredient, _ingredientMatch(guess, answer)),
         FoodMatchCell(
-          guess.cookingMethod,
+          guess.displayMainIngredient,
+          _ingredientMatch(guess, answer),
+        ),
+        FoodMatchCell(
+          guess.displayCookingMethod,
           _exactMatch(guess.cookingMethod, answer.cookingMethod),
         ),
-        FoodMatchCell(guess.flavors.join(', '), _flavorMatch(guess, answer)),
+        FoodMatchCell(
+          guess.displayFlavors.join(', '),
+          _flavorMatch(guess, answer),
+        ),
         FoodMatchCell(
           '${guess.spiceLevel}$spiceArrow',
           _exactMatch('${guess.spiceLevel}', '${answer.spiceLevel}'),

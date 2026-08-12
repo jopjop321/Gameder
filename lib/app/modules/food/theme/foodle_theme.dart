@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 
 import 'package:gameder/constants/app_colors.dart';
 
@@ -10,23 +11,22 @@ const Color kFoodCorrectColor = Color(0xFF238636);
 const Color kFoodPartialColor = Color(0xFFC98A00);
 const Color kFoodIncorrectColor = Color(0xFF475569);
 
-const List<String> kFoodColumnLabels = [
-  'เมนู',
-  'ประเทศ',
-  'ประเภท',
-  'วัตถุดิบ',
-  'วิธีปรุง',
-  'รสชาติ',
-  'เผ็ด',
-];
-
-/// Thai game only: 'ภาค' is inserted right after 'ประเทศ'.
+/// Thai game only: 'col_foodRegion' is inserted right after 'col_foodCountry'.
 List<String> foodColumnLabels({bool includeRegion = false}) {
-  if (!includeRegion) return kFoodColumnLabels;
+  final labels = [
+    'col_foodMenu'.tr,
+    'col_foodCountry'.tr,
+    'col_foodType'.tr,
+    'col_foodIngredient'.tr,
+    'col_foodCookingMethod'.tr,
+    'col_foodFlavor'.tr,
+    'col_foodSpiceLevel'.tr,
+  ];
+  if (!includeRegion) return labels;
   return [
-    kFoodColumnLabels[0],
-    kFoodColumnLabels[1],
-    'ภาค',
-    ...kFoodColumnLabels.skip(2),
+    labels[0],
+    labels[1],
+    'col_foodRegion'.tr,
+    ...labels.skip(2),
   ];
 }

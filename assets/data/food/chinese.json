@@ -2,235 +2,2659 @@
   {
     "collection": "chinese",
     "name": "ติ่มซำ",
+    "name_en": "Dim Sum",
     "country": "จีน",
+    "country_en": "China",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
     "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
     "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
     "cooking_method": "นึ่ง",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "chinese",
     "name": "เป็ดปักกิ่ง",
+    "name_en": "Peking Duck",
     "country": "จีน",
+    "country_en": "China",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
     "main_ingredient": "เป็ด",
+    "main_ingredient_en": "Duck",
     "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
     "cooking_method": "ย่าง",
-    "flavors": ["หวาน"],
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "chinese",
     "name": "หมาล่า",
+    "name_en": "Mala Skewers",
     "country": "จีน",
+    "country_en": "China",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "dish_type": "ของย่าง",
+    "dish_type_en": "Grilled Dish",
     "main_ingredient": "เนื้อสัตว์",
+    "main_ingredient_en": "Meat",
     "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
     "cooking_method": "ย่าง",
-    "flavors": ["เผ็ด"],
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Spicy"
+    ],
     "spice_level": 4,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "chinese",
     "name": "ไก่กงเปา",
+    "name_en": "Kung Pao Chicken",
     "country": "จีน",
+    "country_en": "China",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
     "main_ingredient": "ไก่",
+    "main_ingredient_en": "Chicken",
     "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
     "cooking_method": "ผัด",
-    "flavors": ["หวาน", "เผ็ด"],
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "หวาน",
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Spicy"
+    ],
     "spice_level": 2,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "chinese",
     "name": "หม่าผัวโต้วฝู่",
+    "name_en": "Mapo Tofu",
     "country": "จีน",
+    "country_en": "China",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
     "main_ingredient": "เต้าหู้",
+    "main_ingredient_en": "Tofu",
     "ingredient_group": "พืช",
+    "ingredient_group_en": "Plant-based",
     "cooking_method": "ผัด",
-    "flavors": ["เผ็ด"],
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Spicy"
+    ],
     "spice_level": 3,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "chinese",
     "name": "เสี่ยวหลงเปา",
+    "name_en": "Xiaolongbao (Soup Dumplings)",
     "country": "จีน",
+    "country_en": "China",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
     "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
     "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
     "cooking_method": "นึ่ง",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "chinese",
     "name": "ข้าวผัด",
+    "name_en": "Fried Rice",
     "country": "จีน",
+    "country_en": "China",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
     "main_ingredient": "ข้าว",
+    "main_ingredient_en": "Rice",
     "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
     "cooking_method": "ผัด",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "chinese",
     "name": "บะหมี่เกี๊ยว",
+    "name_en": "Wonton Noodles",
     "country": "จีน",
+    "country_en": "China",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
     "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
     "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
     "cooking_method": "ต้ม",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "chinese",
     "name": "หมูแดง",
+    "name_en": "Char Siu (Red Roast Pork)",
     "country": "จีน",
+    "country_en": "China",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
     "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
     "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
     "cooking_method": "ย่าง",
-    "flavors": ["หวาน"],
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "chinese",
     "name": "หมี่ผัด",
+    "name_en": "Stir-fried Noodles",
     "country": "จีน",
+    "country_en": "China",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
     "main_ingredient": "แป้ง",
+    "main_ingredient_en": "Flour",
     "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
     "cooking_method": "ผัด",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "chinese",
     "name": "ซาลาเปา",
+    "name_en": "Steamed Bun (Salapao)",
     "country": "จีน",
+    "country_en": "China",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
     "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
     "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
     "cooking_method": "นึ่ง",
-    "flavors": ["หวาน", "เค็ม"],
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "หวาน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "chinese",
     "name": "เกี๊ยวน้ำ",
+    "name_en": "Wonton Soup",
     "country": "จีน",
+    "country_en": "China",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "dish_type": "ซุป",
+    "dish_type_en": "Soup",
     "main_ingredient": "กุ้ง",
+    "main_ingredient_en": "Shrimp",
     "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
     "cooking_method": "ต้ม",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "chinese",
     "name": "หมูหวาน",
+    "name_en": "Sweet and Sour Pork",
     "country": "จีน",
+    "country_en": "China",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
     "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
     "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
     "cooking_method": "ทอด",
-    "flavors": ["หวาน", "เปรี้ยว"],
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "หวาน",
+      "เปรี้ยว"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Sour"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "chinese",
     "name": "ไข่เยี่ยวม้า",
+    "name_en": "Century Egg",
     "country": "จีน",
+    "country_en": "China",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
     "main_ingredient": "ไข่เป็ด",
+    "main_ingredient_en": "Duck Egg",
     "ingredient_group": "ไข่",
+    "ingredient_group_en": "Eggs",
     "cooking_method": "หมัก",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Marinated",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "เย็น"
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
   },
   {
     "collection": "chinese",
     "name": "ผัดผักรวมจีน",
+    "name_en": "Chinese Mixed Vegetable Stir-fry",
     "country": "จีน",
+    "country_en": "China",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
     "main_ingredient": "ผัก",
+    "main_ingredient_en": "Vegetables",
     "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
     "cooking_method": "ผัด",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "chinese",
     "name": "ปลานึ่งซีอิ๊ว",
+    "name_en": "Steamed Fish with Soy Sauce",
     "country": "จีน",
+    "country_en": "China",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
     "main_ingredient": "ปลา",
+    "main_ingredient_en": "Fish",
     "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
     "cooking_method": "นึ่ง",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "chinese",
     "name": "ก๋วยเตี๋ยวเป็ด",
+    "name_en": "Duck Noodle Soup",
     "country": "จีน",
+    "country_en": "China",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
     "main_ingredient": "เป็ด",
+    "main_ingredient_en": "Duck",
     "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
     "cooking_method": "ต้ม",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "chinese",
     "name": "โจ๊ก",
+    "name_en": "Rice Congee",
     "country": "จีน",
+    "country_en": "China",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
     "main_ingredient": "ข้าว",
+    "main_ingredient_en": "Rice",
     "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
     "cooking_method": "ต้ม",
-    "flavors": ["เค็ม"],
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "เกี๊ยวซ่าทอด",
+    "name_en": "Fried Gyoza Dumplings",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "หมั่นโถว",
+    "name_en": "Mantou (Steamed Bun)",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ขนมอบ",
+    "dish_type_en": "Baked Sweet",
+    "main_ingredient": "แป้ง",
+    "main_ingredient_en": "Flour",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "นึ่ง",
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "หวานอ่อนๆ"
+    ],
+    "flavors_en": [
+      "Slightly Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "บะหมี่ผัดฮ่องกง",
+    "name_en": "Hong Kong-style Fried Noodles",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
+    "main_ingredient": "บะหมี่",
+    "main_ingredient_en": "Egg Noodles",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "หมูตงปอ",
+    "name_en": "Dongpo Pork",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ตุ๋น",
+    "cooking_method_en": "Stewed/Braised",
+    "flavors": [
+      "หวาน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ปลาเปรี้ยวหวาน",
+    "name_en": "Sweet and Sour Fish",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "ปลา",
+    "main_ingredient_en": "Fish",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เปรี้ยว",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "กุ้งผัดพริกเสฉวน",
+    "name_en": "Sichuan Chili Shrimp Stir-fry",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
+    "main_ingredient": "กุ้ง",
+    "main_ingredient_en": "Shrimp",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Spicy"
+    ],
+    "spice_level": 3,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "เนื้อผัดน้ำมันหอย",
+    "name_en": "Beef with Oyster Sauce",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ข้าวมันไก่ไหหลำ",
+    "name_en": "Hainanese Chicken Rice",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
+    "main_ingredient": "ไก่",
+    "main_ingredient_en": "Chicken",
+    "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ซุปข้าวโพดไข่",
+    "name_en": "Corn and Egg Soup",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ซุป",
+    "dish_type_en": "Soup",
+    "main_ingredient": "ข้าวโพด",
+    "main_ingredient_en": "Corn",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "หวาน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ซุปเปรี้ยวเผ็ด",
+    "name_en": "Hot and Sour Soup",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ซุป",
+    "dish_type_en": "Soup",
+    "main_ingredient": "เต้าหู้",
+    "main_ingredient_en": "Tofu",
+    "ingredient_group": "พืช",
+    "ingredient_group_en": "Plant-based",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เปรี้ยว",
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Spicy"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "บร็อคโคลี่ผัดน้ำมันหอย",
+    "name_en": "Broccoli with Oyster Sauce",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
+    "main_ingredient": "บร็อคโคลี่",
+    "main_ingredient_en": "Broccoli",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "เต้าหู้ทอดซอสเปรี้ยวหวาน",
+    "name_en": "Fried Tofu with Sweet and Sour Sauce",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของทอด",
+    "dish_type_en": "Fried Dish",
+    "main_ingredient": "เต้าหู้",
+    "main_ingredient_en": "Tofu",
+    "ingredient_group": "พืช",
+    "ingredient_group_en": "Plant-based",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เปรี้ยว",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ปลาหมึกทอดพริกเกลือ",
+    "name_en": "Salt and Pepper Squid",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของทอด",
+    "dish_type_en": "Fried Dish",
+    "main_ingredient": "ปลาหมึก",
+    "main_ingredient_en": "Squid",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม",
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Spicy"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ไก่ผัดเม็ดมะม่วงหิมพานต์",
+    "name_en": "Chicken with Cashew Nuts",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
+    "main_ingredient": "ไก่",
+    "main_ingredient_en": "Chicken",
+    "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "หวาน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "หมูผัดพริกหยวกเสฉวน",
+    "name_en": "Sichuan Pork with Bell Peppers",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
+    "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เผ็ด",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Salty"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "เต้าหู้หมาล่า",
+    "name_en": "Mala Tofu",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "เต้าหู้",
+    "main_ingredient_en": "Tofu",
+    "ingredient_group": "พืช",
+    "ingredient_group_en": "Plant-based",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เผ็ดชา"
+    ],
+    "flavors_en": [
+      "Spicy and Numbing"
+    ],
+    "spice_level": 3,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ปลาต้มน้ำมันเสฉวน",
+    "name_en": "Sichuan Boiled Fish in Chili Oil",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ซุป",
+    "dish_type_en": "Soup",
+    "main_ingredient": "ปลา",
+    "main_ingredient_en": "Fish",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เผ็ดชา"
+    ],
+    "flavors_en": [
+      "Spicy and Numbing"
+    ],
+    "spice_level": 4,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "เป็ดพะโล้",
+    "name_en": "Braised Duck in Five-Spice",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "เป็ด",
+    "main_ingredient_en": "Duck",
+    "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
+    "cooking_method": "ตุ๋น",
+    "cooking_method_en": "Stewed/Braised",
+    "flavors": [
+      "หวาน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ไข่ตุ๋นทรงเครื่อง",
+    "name_en": "Steamed Egg Custard",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "ไข่",
+    "main_ingredient_en": "Eggs",
+    "ingredient_group": "ไข่",
+    "ingredient_group_en": "Eggs",
+    "cooking_method": "นึ่ง",
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "เกี๊ยวทอดกรอบ",
+    "name_en": "Crispy Fried Wontons",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ปอเปี๊ยะทอด",
+    "name_en": "Fried Spring Rolls",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "ผัก",
+    "main_ingredient_en": "Vegetables",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ข้าวห่อใบบัว",
+    "name_en": "Lotus Leaf Rice",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
+    "main_ingredient": "ข้าว",
+    "main_ingredient_en": "Rice",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "นึ่ง",
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "จับฉ่าย",
+    "name_en": "Chinese Mixed Vegetable Stew",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
+    "main_ingredient": "ผักรวม",
+    "main_ingredient_en": "Mixed Vegetables",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "คะน้าปลาเค็ม",
+    "name_en": "Kale with Salted Fish",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
+    "main_ingredient": "คะน้า",
+    "main_ingredient_en": "Kale",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ซี่โครงหมูเปรี้ยวหวาน",
+    "name_en": "Sweet and Sour Pork Ribs",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "ซี่โครงหมู",
+    "main_ingredient_en": "Pork Ribs",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เปรี้ยว",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "บัวลอยน้ำขิง",
+    "name_en": "Glutinous Rice Balls in Ginger Syrup",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "แป้งข้าวเหนียว",
+    "main_ingredient_en": "Glutinous Rice Flour",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ขนมไหว้พระจันทร์",
+    "name_en": "Mooncake",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "ถั่วแดง",
+    "main_ingredient_en": "Red Beans",
+    "ingredient_group": "ถั่ว",
+    "ingredient_group_en": "Beans/Nuts",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "chinese",
+    "name": "ขนมเปี๊ยะ",
+    "name_en": "Chinese Pastry (Khanom Pia)",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "ถั่วเขียว",
+    "main_ingredient_en": "Mung Beans",
+    "ingredient_group": "ถั่ว",
+    "ingredient_group_en": "Beans/Nuts",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "chinese",
+    "name": "ถั่วงอกผัดหมูสับ",
+    "name_en": "Bean Sprouts with Minced Pork",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
+    "main_ingredient": "ถั่วงอก",
+    "main_ingredient_en": "Bean Sprouts",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "วุ้นเส้นผัด",
+    "name_en": "Stir-fried Glass Noodles",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
+    "main_ingredient": "วุ้นเส้น",
+    "main_ingredient_en": "Glass Noodles",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "หมี่ซั่วผัด",
+    "name_en": "Stir-fried Mee Sua",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
+    "main_ingredient": "เส้นหมี่ซั่ว",
+    "main_ingredient_en": "Mee Sua Noodles",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "บะหมี่เย็นซอสงา",
+    "name_en": "Cold Noodles with Sesame Sauce",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
+    "main_ingredient": "บะหมี่",
+    "main_ingredient_en": "Egg Noodles",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ลวก",
+    "cooking_method_en": "Blanched",
+    "flavors": [
+      "หวาน",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "chinese",
+    "name": "น้ำเต้าหู้",
+    "name_en": "Soy Milk",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เครื่องดื่ม",
+    "dish_type_en": "Beverage",
+    "main_ingredient": "ถั่วเหลือง",
+    "main_ingredient_en": "Soybeans",
+    "ingredient_group": "ถั่วเหลือง",
+    "ingredient_group_en": "Soybeans",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "chinese",
+    "name": "ปาท่องโก๋",
+    "name_en": "Chinese Fried Dough Stick (Patongko)",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "แป้ง",
+    "main_ingredient_en": "Flour",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "มัน"
+    ],
+    "flavors_en": [
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ข้าวเหนียวห่อใบไผ่",
+    "name_en": "Bamboo Leaf Sticky Rice (Zongzi)",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
+    "main_ingredient": "ข้าวเหนียว",
+    "main_ingredient_en": "Sticky Rice",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "นึ่ง",
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "เกี๊ยวกุยช่ายทอด",
+    "name_en": "Fried Chive Dumplings",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "กุยช่าย",
+    "main_ingredient_en": "Chinese Chives",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ไก่แช่เหล้าเหลือง",
+    "name_en": "Drunken Chicken",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "ไก่",
+    "main_ingredient_en": "Chicken",
+    "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็มหอมเหล้า"
+    ],
+    "flavors_en": [
+      "Salty with Liquor Aroma"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "chinese",
+    "name": "ซี่โครงหมูย่างจีน",
+    "name_en": "Chinese Grilled Pork Ribs",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "ซี่โครงหมู",
+    "main_ingredient_en": "Pork Ribs",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "หวาน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ผักบุ้งไฟแดง",
+    "name_en": "Stir-fried Morning Glory",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
+    "main_ingredient": "ผักบุ้ง",
+    "main_ingredient_en": "Water Spinach",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ฮะเก๋ากุ้ง",
+    "name_en": "Har Gow (Shrimp Dumplings)",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "กุ้ง",
+    "main_ingredient_en": "Shrimp",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "นึ่ง",
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ไก่ผัดขิงอ่อน",
+    "name_en": "Chicken with Young Ginger",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
+    "main_ingredient": "ไก่",
+    "main_ingredient_en": "Chicken",
+    "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เผ็ดหอมขิง"
+    ],
+    "flavors_en": [
+      "Spicy Ginger Aroma"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ยำแมงกะพรุน",
+    "name_en": "Jellyfish Salad",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "สลัด",
+    "dish_type_en": "Salad",
+    "main_ingredient": "แมงกะพรุน",
+    "main_ingredient_en": "Jellyfish",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ลวก",
+    "cooking_method_en": "Blanched",
+    "flavors": [
+      "เปรี้ยว",
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Spicy"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "chinese",
+    "name": "หมูสับนึ่งไข่เค็ม",
+    "name_en": "Steamed Minced Pork with Salted Egg",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "หมูสับ",
+    "main_ingredient_en": "Minced Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "นึ่ง",
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ถั่วลันเตาผัดหมู",
+    "name_en": "Snow Peas with Pork",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
+    "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ก๋วยเตี๋ยวหลอด",
+    "name_en": "Rice Noodle Rolls (Chee Cheong Fun)",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "แป้งข้าวเจ้า",
+    "main_ingredient_en": "Rice Flour",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "นึ่ง",
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "เค็ม",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ข้าวผัดยองโจว",
+    "name_en": "Yangzhou Fried Rice",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
+    "main_ingredient": "ข้าว",
+    "main_ingredient_en": "Rice",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ซุปเห็ดหอมเต้าหู้",
+    "name_en": "Shiitake Mushroom and Tofu Soup",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ซุป",
+    "dish_type_en": "Soup",
+    "main_ingredient": "เห็ดหอม",
+    "main_ingredient_en": "Shiitake Mushroom",
+    "ingredient_group": "เห็ด",
+    "ingredient_group_en": "Mushrooms",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "เกาลัดคั่ว",
+    "name_en": "Roasted Chestnuts",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "เกาลัด",
+    "main_ingredient_en": "Chestnuts",
+    "ingredient_group": "ถั่ว",
+    "ingredient_group_en": "Beans/Nuts",
+    "cooking_method": "คั่ว",
+    "cooking_method_en": "Roasted",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "น้ำแข็งใสถั่วแดง",
+    "name_en": "Shaved Ice with Red Beans",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "ถั่วแดง",
+    "main_ingredient_en": "Red Beans",
+    "ingredient_group": "ถั่ว",
+    "ingredient_group_en": "Beans/Nuts",
+    "cooking_method": "แช่แข็ง",
+    "cooking_method_en": "Frozen",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "chinese",
+    "name": "ขนมถ้วยฟู",
+    "name_en": "Steamed Fluffy Rice Cakes (Khanom Thuay Fu)",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "แป้ง",
+    "main_ingredient_en": "Flour",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "นึ่ง",
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "chinese",
+    "name": "ไก่ผัดเห็ดหอม",
+    "name_en": "Chicken with Shiitake Mushrooms",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
+    "main_ingredient": "ไก่",
+    "main_ingredient_en": "Chicken",
+    "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "เนื้อตุ๋นซีอิ๊ว",
+    "name_en": "Beef Braised in Soy Sauce",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ตุ๋น",
+    "cooking_method_en": "Stewed/Braised",
+    "flavors": [
+      "เค็ม",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ข้าวต้มปลา",
+    "name_en": "Fish Rice Porridge",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
+    "main_ingredient": "ปลา",
+    "main_ingredient_en": "Fish",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "กุนเชียง",
+    "name_en": "Chinese Sausage (Kun Chiang)",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ย่าง",
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "หวาน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "คะน้าหมูกรอบฮ่องกง",
+    "name_en": "Hong Kong-style Kale with Crispy Pork",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
+    "main_ingredient": "คะน้า",
+    "main_ingredient_en": "Kale",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "หมูสามชั้นทอดกรอบ",
+    "name_en": "Crispy Fried Pork Belly",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "หมูสามชั้น",
+    "main_ingredient_en": "Pork Belly",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็มกรอบ"
+    ],
+    "flavors_en": [
+      "Salty and Crispy"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ปลาหมึกผัดซอสดำถั่วเน่า",
+    "name_en": "Squid with Black Bean Sauce",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
+    "main_ingredient": "ปลาหมึก",
+    "main_ingredient_en": "Squid",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ถั่วฝักยาวผัดเต้าเจี้ยว",
+    "name_en": "Long Beans with Fermented Soybean Paste",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
+    "main_ingredient": "ถั่วฝักยาว",
+    "main_ingredient_en": "Long Beans",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ข้าวผัดปู",
+    "name_en": "Crab Fried Rice",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
+    "main_ingredient": "ปู",
+    "main_ingredient_en": "Crab",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "บะหมี่หมูแดง",
+    "name_en": "Char Siu Noodles",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
+    "main_ingredient": "บะหมี่",
+    "main_ingredient_en": "Egg Noodles",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ซาลาเปาไส้ครีม",
+    "name_en": "Custard Cream Steamed Bun",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "คัสตาร์ด",
+    "main_ingredient_en": "Custard",
+    "ingredient_group": "ของหวาน",
+    "ingredient_group_en": "Sweets",
+    "cooking_method": "นึ่ง",
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ปลาหมึกผัดกระเทียม",
+    "name_en": "Squid with Garlic",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
+    "main_ingredient": "ปลาหมึก",
+    "main_ingredient_en": "Squid",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็มกระเทียม"
+    ],
+    "flavors_en": [
+      "Salty Garlic"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ขาหมูตุ๋นซีอิ๊ว",
+    "name_en": "Pork Leg Braised in Soy Sauce",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "ขาหมู",
+    "main_ingredient_en": "Pork Leg",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ตุ๋น",
+    "cooking_method_en": "Stewed/Braised",
+    "flavors": [
+      "หวาน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ปลาหมึกยัดไส้หมูนึ่ง",
+    "name_en": "Steamed Squid Stuffed with Pork",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "ปลาหมึก",
+    "main_ingredient_en": "Squid",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "นึ่ง",
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "กะหล่ำปลีผัดน้ำมันหมู",
+    "name_en": "Cabbage Stir-fried in Lard",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
+    "main_ingredient": "กะหล่ำปลี",
+    "main_ingredient_en": "Cabbage",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ยำแตงกวาสไตล์จีน",
+    "name_en": "Chinese-style Cucumber Salad",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "สลัด",
+    "dish_type_en": "Salad",
+    "main_ingredient": "แตงกวา",
+    "main_ingredient_en": "Cucumber",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ตำ",
+    "cooking_method_en": "Pounded",
+    "flavors": [
+      "เปรี้ยว",
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Spicy"
+    ],
+    "spice_level": 1,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "chinese",
+    "name": "ไข่ผัดมะเขือเทศ",
+    "name_en": "Tomato and Egg Stir-fry",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
+    "main_ingredient": "ไข่",
+    "main_ingredient_en": "Eggs",
+    "ingredient_group": "ไข่",
+    "ingredient_group_en": "Eggs",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เปรี้ยว",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "เห็ดหอมยัดไส้นึ่ง",
+    "name_en": "Steamed Stuffed Shiitake Mushrooms",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "เห็ดหอม",
+    "main_ingredient_en": "Shiitake Mushroom",
+    "ingredient_group": "เห็ด",
+    "ingredient_group_en": "Mushrooms",
+    "cooking_method": "นึ่ง",
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ปลาช่อนทอดซอสสามรส",
+    "name_en": "Fried Snakehead Fish with Three-Flavor Sauce",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เนื้อสัตว์",
+    "dish_type_en": "Meat",
+    "main_ingredient": "ปลา",
+    "main_ingredient_en": "Fish",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เปรี้ยว",
+      "หวาน",
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Sweet",
+      "Spicy"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "หมี่ฮกเกี้ยนผัด",
+    "name_en": "Stir-fried Hokkien Noodles",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "เส้น",
+    "dish_type_en": "Noodles",
+    "main_ingredient": "บะหมี่ฮกเกี้ยน",
+    "main_ingredient_en": "Hokkien Noodles",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ปูจ๋าทอด",
+    "name_en": "Fried Crab Cakes",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "เนื้อปู",
+    "main_ingredient_en": "Crab Meat",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ข้าวผัดไข่เค็ม",
+    "name_en": "Salted Egg Fried Rice",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
+    "main_ingredient": "ข้าว",
+    "main_ingredient_en": "Rice",
+    "ingredient_group": "ธัญพืช",
+    "ingredient_group_en": "Grains",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Rich"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ไก่ทอดซอสเสฉวน",
+    "name_en": "Fried Chicken with Sichuan Sauce",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของทอด",
+    "dish_type_en": "Fried Dish",
+    "main_ingredient": "ไก่",
+    "main_ingredient_en": "Chicken",
+    "ingredient_group": "สัตว์ปีก",
+    "ingredient_group_en": "Poultry",
+    "cooking_method": "ทอด",
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เผ็ด",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Sweet"
+    ],
+    "spice_level": 2,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "หมูผัดเปรี้ยวหวาน",
+    "name_en": "Sweet and Sour Pork Stir-fry",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
+    "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เปรี้ยว",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "เต้าหู้เย็นสไตล์เสฉวน",
+    "name_en": "Sichuan-style Cold Tofu",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "เต้าหู้",
+    "main_ingredient_en": "Tofu",
+    "ingredient_group": "พืช",
+    "ingredient_group_en": "Plant-based",
+    "cooking_method": "สด",
+    "cooking_method_en": "Raw/Fresh",
+    "flavors": [
+      "เผ็ดชา"
+    ],
+    "flavors_en": [
+      "Spicy and Numbing"
+    ],
+    "spice_level": 3,
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
+  },
+  {
+    "collection": "chinese",
+    "name": "ปลาไหลผัดเสฉวน",
+    "name_en": "Sichuan-style Stir-fried Eel",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
+    "main_ingredient": "ปลาไหล",
+    "main_ingredient_en": "Eel",
+    "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เผ็ด",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Salty"
+    ],
+    "spice_level": 3,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ถั่วงอกผัดไข่เจียว",
+    "name_en": "Bean Sprouts with Omelette",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
+    "main_ingredient": "ถั่วงอก",
+    "main_ingredient_en": "Bean Sprouts",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ปอเปี๊ยะสดจีน",
+    "name_en": "Fresh Spring Rolls",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของว่าง",
+    "dish_type_en": "Snack",
+    "main_ingredient": "ผักรวม",
+    "main_ingredient_en": "Mixed Vegetables",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ห่อ",
+    "cooking_method_en": "Wrapped",
+    "flavors": [
+      "เค็ม",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
+  },
+  {
+    "collection": "chinese",
+    "name": "ซุปเกี๊ยวหมูสับ",
+    "name_en": "Minced Pork Wonton Soup",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ซุป",
+    "dish_type_en": "Soup",
+    "main_ingredient": "หมู",
+    "main_ingredient_en": "Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ข้าวต้มหมูสับ",
+    "name_en": "Rice Porridge with Minced Pork",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ข้าว",
+    "dish_type_en": "Rice",
+    "main_ingredient": "หมูสับ",
+    "main_ingredient_en": "Minced Pork",
+    "ingredient_group": "เนื้อสัตว์",
+    "ingredient_group_en": "Meat",
+    "cooking_method": "ต้ม",
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "บวบผัดไข่",
+    "name_en": "Luffa Gourd with Egg",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ผัด",
+    "dish_type_en": "Stir-fry",
+    "main_ingredient": "บวบ",
+    "main_ingredient_en": "Luffa Gourd",
+    "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
+    "cooking_method": "ผัด",
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Salty"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
+  },
+  {
+    "collection": "chinese",
+    "name": "ขนมจันอับ",
+    "name_en": "Chinese Candied Nut Snack (Khanom Jan Ap)",
+    "country": "จีน",
+    "country_en": "China",
+    "continent": "เอเชีย",
+    "continent_en": "Asia",
+    "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
+    "main_ingredient": "ถั่วรวม",
+    "main_ingredient_en": "Mixed Nuts",
+    "ingredient_group": "ถั่ว",
+    "ingredient_group_en": "Beans/Nuts",
+    "cooking_method": "อบ",
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sweet"
+    ],
+    "spice_level": 0,
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
   }
 ]

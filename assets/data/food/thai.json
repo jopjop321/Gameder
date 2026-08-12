@@ -2,1681 +2,3735 @@
   {
     "collection": "thai",
     "name": "ต้มยำกุ้ง",
+    "name_en": "Tom Yum Goong",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "ซุป",
+    "dish_type_en": "Soup",
     "main_ingredient": "กุ้ง",
+    "main_ingredient_en": "Shrimp",
     "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
     "cooking_method": "ต้ม",
-    "flavors": ["เปรี้ยว", "เผ็ด"],
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เปรี้ยว",
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Spicy"
+    ],
     "spice_level": 3,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ผัดไทยกุ้งสด",
+    "name_en": "Pad Thai with Fresh Shrimp",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "จานเดียว",
+    "dish_type_en": "One-Dish Meal",
     "main_ingredient": "เส้นจันทน์",
+    "main_ingredient_en": "Chanthaburi Rice Noodles",
     "ingredient_group": "เส้น",
+    "ingredient_group_en": "Noodles",
     "cooking_method": "ผัด",
-    "flavors": ["เปรี้ยว", "หวาน", "เค็ม"],
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เปรี้ยว",
+      "หวาน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Sweet",
+      "Salty"
+    ],
     "spice_level": 1,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "แกงเขียวหวานไก่",
+    "name_en": "Green Curry with Chicken",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "แกง",
+    "dish_type_en": "Curry",
     "main_ingredient": "เนื้อไก่",
+    "main_ingredient_en": "Chicken",
     "ingredient_group": "สัตว์เนื้อขาว",
+    "ingredient_group_en": "White Meat",
     "cooking_method": "แกง",
-    "flavors": ["เผ็ด", "เค็ม", "มัน"],
+    "cooking_method_en": "Curried",
+    "flavors": [
+      "เผ็ด",
+      "เค็ม",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Salty",
+      "Rich"
+    ],
     "spice_level": 3,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "แกงมัสมั่นเนื้อ",
+    "name_en": "Beef Massaman Curry",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "แกง",
+    "dish_type_en": "Curry",
     "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
     "ingredient_group": "สัตว์เนื้อแดง",
+    "ingredient_group_en": "Red Meat",
     "cooking_method": "เคี่ยว",
-    "flavors": ["หวาน", "มัน", "เค็ม"],
+    "cooking_method_en": "Simmered",
+    "flavors": [
+      "หวาน",
+      "มัน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Rich",
+      "Salty"
+    ],
     "spice_level": 2,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ส้มตำไทย",
+    "name_en": "Thai Papaya Salad (Som Tam)",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคอีสาน",
+    "region_en": "Northeastern Region (Isan)",
     "dish_type": "สลัด/ยำ",
+    "dish_type_en": "Salad/Yum",
     "main_ingredient": "มะละกอ",
+    "main_ingredient_en": "Papaya",
     "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
     "cooking_method": "ตำ",
-    "flavors": ["เปรี้ยว", "หวาน", "เผ็ด", "เค็ม"],
+    "cooking_method_en": "Pounded",
+    "flavors": [
+      "เปรี้ยว",
+      "หวาน",
+      "เผ็ด",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Sweet",
+      "Spicy",
+      "Salty"
+    ],
     "spice_level": 3,
-    "serving_temperature": "อุณหภูมิห้อง"
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
   },
   {
     "collection": "thai",
     "name": "กะเพราหมูกรอบ",
+    "name_en": "Crispy Pork Basil Stir-fry (Pad Kra Pao)",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "จานเดียว",
+    "dish_type_en": "One-Dish Meal",
     "main_ingredient": "หมูกรอบ",
+    "main_ingredient_en": "Crispy Pork",
     "ingredient_group": "เนื้อหมู",
+    "ingredient_group_en": "Pork",
     "cooking_method": "ผัด",
-    "flavors": ["เผ็ด", "เค็ม"],
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เผ็ด",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Salty"
+    ],
     "spice_level": 4,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ต้มข่าไก่",
+    "name_en": "Tom Kha Gai",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "ซุป",
+    "dish_type_en": "Soup",
     "main_ingredient": "เนื้อไก่",
+    "main_ingredient_en": "Chicken",
     "ingredient_group": "สัตว์เนื้อขาว",
+    "ingredient_group_en": "White Meat",
     "cooking_method": "ต้ม",
-    "flavors": ["เปรี้ยว", "มัน", "เค็ม"],
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เปรี้ยว",
+      "มัน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Rich",
+      "Salty"
+    ],
     "spice_level": 2,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "พะแนงหมู",
+    "name_en": "Pork Panang Curry",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "แกง",
+    "dish_type_en": "Curry",
     "main_ingredient": "เนื้อหมู",
+    "main_ingredient_en": "Pork",
     "ingredient_group": "เนื้อหมู",
+    "ingredient_group_en": "Pork",
     "cooking_method": "ผัดแกง",
-    "flavors": ["เผ็ด", "หวาน", "มัน"],
+    "cooking_method_en": "Stir-fried Curry",
+    "flavors": [
+      "เผ็ด",
+      "หวาน",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Sweet",
+      "Rich"
+    ],
     "spice_level": 3,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ข้าวผัดปู",
+    "name_en": "Crab Fried Rice",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
     "dish_type": "จานเดียว",
+    "dish_type_en": "One-Dish Meal",
     "main_ingredient": "เนื้อปู",
+    "main_ingredient_en": "Crab Meat",
     "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
     "cooking_method": "ผัด",
-    "flavors": ["กลมกล่อม", "เค็มอ่อน"],
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "กลมกล่อม",
+      "เค็มอ่อน"
+    ],
+    "flavors_en": [
+      "Well-balanced",
+      "Lightly Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ข้าวซอยไก่",
+    "name_en": "Khao Soi with Chicken",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคเหนือ",
+    "region_en": "Northern Region",
     "dish_type": "จานเดียว",
+    "dish_type_en": "One-Dish Meal",
     "main_ingredient": "น่องไก่",
+    "main_ingredient_en": "Chicken Drumstick",
     "ingredient_group": "สัตว์เนื้อขาว",
+    "ingredient_group_en": "White Meat",
     "cooking_method": "เคี่ยว",
-    "flavors": ["เผ็ด", "มัน", "กลมกล่อม"],
+    "cooking_method_en": "Simmered",
+    "flavors": [
+      "เผ็ด",
+      "มัน",
+      "กลมกล่อม"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Rich",
+      "Well-balanced"
+    ],
     "spice_level": 2,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ลาบหมู",
+    "name_en": "Pork Larb",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคอีสาน",
+    "region_en": "Northeastern Region (Isan)",
     "dish_type": "สลัด/ยำ",
+    "dish_type_en": "Salad/Yum",
     "main_ingredient": "หมูสับ",
+    "main_ingredient_en": "Minced Pork",
     "ingredient_group": "เนื้อหมู",
+    "ingredient_group_en": "Pork",
     "cooking_method": "รวน/คลุก",
-    "flavors": ["เปรี้ยว", "เผ็ด", "เค็ม"],
+    "cooking_method_en": "Crumbled and Tossed",
+    "flavors": [
+      "เปรี้ยว",
+      "เผ็ด",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Spicy",
+      "Salty"
+    ],
     "spice_level": 3,
-    "serving_temperature": "อุณหภูมิห้อง"
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
   },
   {
     "collection": "thai",
     "name": "น้ำตกเนื้อ",
+    "name_en": "Beef Nam Tok",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคอีสาน",
+    "region_en": "Northeastern Region (Isan)",
     "dish_type": "สลัด/ยำ",
+    "dish_type_en": "Salad/Yum",
     "main_ingredient": "เนื้อวัวย่าง",
+    "main_ingredient_en": "Grilled Beef",
     "ingredient_group": "สัตว์เนื้อแดง",
+    "ingredient_group_en": "Red Meat",
     "cooking_method": "ย่าง/คลุก",
-    "flavors": ["เปรี้ยว", "เผ็ด", "เค็ม"],
+    "cooking_method_en": "Grilled and Tossed",
+    "flavors": [
+      "เปรี้ยว",
+      "เผ็ด",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Spicy",
+      "Salty"
+    ],
     "spice_level": 3,
-    "serving_temperature": "อุณหภูมิห้อง"
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
   },
   {
     "collection": "thai",
     "name": "แกงเผ็ดเป็ดย่าง",
+    "name_en": "Roast Duck Red Curry",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "แกง",
+    "dish_type_en": "Curry",
     "main_ingredient": "เป็ดย่าง",
+    "main_ingredient_en": "Roast Duck",
     "ingredient_group": "สัตว์เนื้อขาว",
+    "ingredient_group_en": "White Meat",
     "cooking_method": "แกง",
-    "flavors": ["เผ็ด", "เปรี้ยวหวาน", "มัน"],
+    "cooking_method_en": "Curried",
+    "flavors": [
+      "เผ็ด",
+      "เปรี้ยวหวาน",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Sweet and Sour",
+      "Rich"
+    ],
     "spice_level": 3,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "แกงส้มชะอมไข่ใส่กุ้ง",
+    "name_en": "Sour Curry with Cha-om Omelette and Shrimp",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "แกง",
+    "dish_type_en": "Curry",
     "main_ingredient": "ชะอมทอดไข่",
+    "main_ingredient_en": "Fried Cha-om Omelette",
     "ingredient_group": "ผัก/ไข่",
+    "ingredient_group_en": "Vegetables/Eggs",
     "cooking_method": "แกง",
-    "flavors": ["เปรี้ยว", "เผ็ด", "หวาน"],
+    "cooking_method_en": "Curried",
+    "flavors": [
+      "เปรี้ยว",
+      "เผ็ด",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Spicy",
+      "Sweet"
+    ],
     "spice_level": 3,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ปูกระเทียมพริกไทย",
+    "name_en": "Crab with Garlic and Pepper",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "เนื้อปู",
+    "main_ingredient_en": "Crab Meat",
     "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
     "cooking_method": "ผัด",
-    "flavors": ["เค็ม", "หอมพริกไทย"],
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม",
+      "หอมพริกไทย"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Peppery Aroma"
+    ],
     "spice_level": 1,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ปลากะพงทอดน้ำปลา",
+    "name_en": "Fried Sea Bass with Fish Sauce",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "ปลากะพง",
+    "main_ingredient_en": "Sea Bass",
     "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
     "cooking_method": "ทอด",
-    "flavors": ["เค็ม", "หวาน"],
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Sweet"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ยำถั่วพู",
+    "name_en": "Winged Bean Salad",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "สลัด/ยำ",
+    "dish_type_en": "Salad/Yum",
     "main_ingredient": "ถั่วพู",
+    "main_ingredient_en": "Winged Bean",
     "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
     "cooking_method": "ยำ",
-    "flavors": ["เปรี้ยว", "หวาน", "มัน", "เผ็ดน้อย"],
+    "cooking_method_en": "Tossed (Yum-style)",
+    "flavors": [
+      "เปรี้ยว",
+      "หวาน",
+      "มัน",
+      "เผ็ดน้อย"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Sweet",
+      "Rich",
+      "Mildly Spicy"
+    ],
     "spice_level": 2,
-    "serving_temperature": "อุณหภูมิห้อง"
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
   },
   {
     "collection": "thai",
     "name": "ผัดซีอิ๊วหมู",
+    "name_en": "Pad See Ew with Pork",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
     "dish_type": "จานเดียว",
+    "dish_type_en": "One-Dish Meal",
     "main_ingredient": "เส้นใหญ่",
+    "main_ingredient_en": "Wide Rice Noodles",
     "ingredient_group": "เส้น",
+    "ingredient_group_en": "Noodles",
     "cooking_method": "ผัด",
-    "flavors": ["เค็ม", "หวาน"],
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Sweet"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ราดหน้าหมูหมัก",
+    "name_en": "Rad Na with Marinated Pork",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
     "dish_type": "จานเดียว",
+    "dish_type_en": "One-Dish Meal",
     "main_ingredient": "เส้นใหญ่",
+    "main_ingredient_en": "Wide Rice Noodles",
     "ingredient_group": "เส้น",
+    "ingredient_group_en": "Noodles",
     "cooking_method": "ผัด/ต้มราด",
-    "flavors": ["เค็ม", "หวานอ่อน"],
+    "cooking_method_en": "Stir-fried/Boiled and Poured",
+    "flavors": [
+      "เค็ม",
+      "หวานอ่อน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Mildly Sweet"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "หมูกระเทียมพริกไทย",
+    "name_en": "Pork with Garlic and Pepper",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "เนื้อหมู",
+    "main_ingredient_en": "Pork",
     "ingredient_group": "เนื้อหมู",
+    "ingredient_group_en": "Pork",
     "cooking_method": "ผัด",
-    "flavors": ["เค็ม", "หอมพริกไทย"],
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม",
+      "หอมพริกไทย"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Peppery Aroma"
+    ],
     "spice_level": 1,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ไข่เจียวหมูสับ",
+    "name_en": "Minced Pork Omelette",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "ไข่ไก่",
+    "main_ingredient_en": "Chicken Egg",
     "ingredient_group": "ไข่",
+    "ingredient_group_en": "Eggs",
     "cooking_method": "ทอด",
-    "flavors": ["เค็มกลมกล่อม"],
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็มกลมกล่อม"
+    ],
+    "flavors_en": [
+      "Balanced Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ไก่ผัดเม็ดมะม่วงหิมพานต์",
+    "name_en": "Chicken with Cashew Nuts",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "เนื้อไก่",
+    "main_ingredient_en": "Chicken",
     "ingredient_group": "สัตว์เนื้อขาว",
+    "ingredient_group_en": "White Meat",
     "cooking_method": "ผัด",
-    "flavors": ["เค็ม", "หวาน", "เผ็ดน้อย"],
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม",
+      "หวาน",
+      "เผ็ดน้อย"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Sweet",
+      "Mildly Spicy"
+    ],
     "spice_level": 1,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ผัดฉ่าทะเล",
+    "name_en": "Stir-fried Spicy Seafood (Pad Cha)",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "อาหารทะเลรวม",
+    "main_ingredient_en": "Mixed Seafood",
     "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
     "cooking_method": "ผัด",
-    "flavors": ["เผ็ด", "เค็ม", "หอมสมุนไพร"],
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เผ็ด",
+      "เค็ม",
+      "หอมสมุนไพร"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Salty",
+      "Herbal Aroma"
+    ],
     "spice_level": 4,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ผัดผักบุ้งไฟแดง",
+    "name_en": "Stir-fried Morning Glory",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "ผักบุ้ง",
+    "main_ingredient_en": "Water Spinach",
     "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
     "cooking_method": "ผัด",
-    "flavors": ["เค็ม", "เผ็ดน้อย"],
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม",
+      "เผ็ดน้อย"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Mildly Spicy"
+    ],
     "spice_level": 1,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "หมูสะเต๊ะ",
+    "name_en": "Pork Satay",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "อาหารว่าง",
+    "dish_type_en": "Light Snack",
     "main_ingredient": "เนื้อหมู",
+    "main_ingredient_en": "Pork",
     "ingredient_group": "เนื้อหมู",
+    "ingredient_group_en": "Pork",
     "cooking_method": "ย่าง",
-    "flavors": ["หวาน", "มัน", "หอมเครื่องเทศ"],
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "หวาน",
+      "มัน",
+      "หอมเครื่องเทศ"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Rich",
+      "Spice Aroma"
+    ],
     "spice_level": 1,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ทอดมันกุ้ง",
+    "name_en": "Fried Shrimp Cakes",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "อาหารว่าง",
+    "dish_type_en": "Light Snack",
     "main_ingredient": "เนื้อกุ้ง",
+    "main_ingredient_en": "Shrimp Meat",
     "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
     "cooking_method": "ทอด",
-    "flavors": ["หวาน", "กลมกล่อม"],
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "หวาน",
+      "กลมกล่อม"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Well-balanced"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ทอดมันปลา",
+    "name_en": "Thai Fish Cakes",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "อาหารว่าง",
+    "dish_type_en": "Light Snack",
     "main_ingredient": "ปลากราย",
+    "main_ingredient_en": "Featherback Fish",
     "ingredient_group": "ปลา",
+    "ingredient_group_en": "Fish",
     "cooking_method": "ทอด",
-    "flavors": ["เผ็ดน้อย", "เค็ม", "หอมเครื่องแกง"],
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เผ็ดน้อย",
+      "เค็ม",
+      "หอมเครื่องแกง"
+    ],
+    "flavors_en": [
+      "Mildly Spicy",
+      "Salty",
+      "Curry Paste Aroma"
+    ],
     "spice_level": 2,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ไก่ห่อใบเตย",
+    "name_en": "Pandan-wrapped Chicken",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "เนื้อไก่",
+    "main_ingredient_en": "Chicken",
     "ingredient_group": "สัตว์เนื้อขาว",
+    "ingredient_group_en": "White Meat",
     "cooking_method": "ทอด",
-    "flavors": ["เค็ม", "หวาน", "หอมใบเตย"],
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม",
+      "หวาน",
+      "หอมใบเตย"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Sweet",
+      "Pandan Aroma"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ยำวุ้นเส้นทะเล",
+    "name_en": "Glass Noodle Salad with Seafood",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "สลัด/ยำ",
+    "dish_type_en": "Salad/Yum",
     "main_ingredient": "วุ้นเส้น",
+    "main_ingredient_en": "Glass Noodles",
     "ingredient_group": "เส้น",
+    "ingredient_group_en": "Noodles",
     "cooking_method": "ยำ",
-    "flavors": ["เปรี้ยว", "เผ็ด", "เค็ม"],
+    "cooking_method_en": "Tossed (Yum-style)",
+    "flavors": [
+      "เปรี้ยว",
+      "เผ็ด",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Spicy",
+      "Salty"
+    ],
     "spice_level": 3,
-    "serving_temperature": "อุณหภูมิห้อง"
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
   },
   {
     "collection": "thai",
     "name": "พล่ากุ้ง",
+    "name_en": "Spicy Shrimp Salad (Plah Goong)",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "สลัด/ยำ",
+    "dish_type_en": "Salad/Yum",
     "main_ingredient": "กุ้งสด",
+    "main_ingredient_en": "Fresh Shrimp",
     "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
     "cooking_method": "ยำ",
-    "flavors": ["เปรี้ยว", "เผ็ด", "หอมสมุนไพร"],
+    "cooking_method_en": "Tossed (Yum-style)",
+    "flavors": [
+      "เปรี้ยว",
+      "เผ็ด",
+      "หอมสมุนไพร"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Spicy",
+      "Herbal Aroma"
+    ],
     "spice_level": 3,
-    "serving_temperature": "เย็น"
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
   },
   {
     "collection": "thai",
     "name": "แกงเลียงกุ้งสด",
+    "name_en": "Kaeng Liang with Fresh Shrimp",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "แกง",
+    "dish_type_en": "Curry",
     "main_ingredient": "บวบและผักรวม",
+    "main_ingredient_en": "Luffa Gourd and Mixed Vegetables",
     "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
     "cooking_method": "ต้ม",
-    "flavors": ["เค็ม", "เผ็ดพริกไทย", "หวานผัก"],
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม",
+      "เผ็ดพริกไทย",
+      "หวานผัก"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Peppery Spicy",
+      "Vegetable Sweetness"
+    ],
     "spice_level": 2,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "แกงไตปลา",
+    "name_en": "Sour Curry with Fish Innards (Kaeng Tai Pla)",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคใต้",
+    "region_en": "Southern Region",
     "dish_type": "แกง",
+    "dish_type_en": "Curry",
     "main_ingredient": "ไตปลาและปลาย่าง",
+    "main_ingredient_en": "Fish Innards and Grilled Fish",
     "ingredient_group": "ปลา",
+    "ingredient_group_en": "Fish",
     "cooking_method": "แกง",
-    "flavors": ["เผ็ดมาก", "เค็ม"],
+    "cooking_method_en": "Curried",
+    "flavors": [
+      "เผ็ดมาก",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Very Spicy",
+      "Salty"
+    ],
     "spice_level": 5,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "คั่วกลิ้งหมู",
+    "name_en": "Southern Thai Dry Pork Curry (Khua Kling)",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคใต้",
+    "region_en": "Southern Region",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "หมูสับ",
+    "main_ingredient_en": "Minced Pork",
     "ingredient_group": "เนื้อหมู",
+    "ingredient_group_en": "Pork",
     "cooking_method": "ผัดแห้ง",
-    "flavors": ["เผ็ดมาก", "เค็ม"],
+    "cooking_method_en": "Dry Stir-fried",
+    "flavors": [
+      "เผ็ดมาก",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Very Spicy",
+      "Salty"
+    ],
     "spice_level": 5,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "แกงเหลืองปลากะพง",
+    "name_en": "Yellow Curry with Sea Bass",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคใต้",
+    "region_en": "Southern Region",
     "dish_type": "แกง",
+    "dish_type_en": "Curry",
     "main_ingredient": "ปลากะพง",
+    "main_ingredient_en": "Sea Bass",
     "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
     "cooking_method": "แกง",
-    "flavors": ["เปรี้ยว", "เผ็ดมาก"],
+    "cooking_method_en": "Curried",
+    "flavors": [
+      "เปรี้ยว",
+      "เผ็ดมาก"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Very Spicy"
+    ],
     "spice_level": 5,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ไก่อบภูเขาไฟ",
+    "name_en": "Volcano Baked Chicken",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "ไก่ทั้งตัว",
+    "main_ingredient_en": "Whole Chicken",
     "ingredient_group": "สัตว์เนื้อขาว",
+    "ingredient_group_en": "White Meat",
     "cooking_method": "อบ/ย่าง",
-    "flavors": ["เค็ม", "หวาน", "หอมพริกไทย"],
+    "cooking_method_en": "Baked/Grilled",
+    "flavors": [
+      "เค็ม",
+      "หวาน",
+      "หอมพริกไทย"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Sweet",
+      "Peppery Aroma"
+    ],
     "spice_level": 1,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ข้าวหมกไก่",
+    "name_en": "Thai Chicken Biryani (Khao Mok Gai)",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคใต้",
+    "region_en": "Southern Region",
     "dish_type": "จานเดียว",
+    "dish_type_en": "One-Dish Meal",
     "main_ingredient": "น่องไก่",
+    "main_ingredient_en": "Chicken Drumstick",
     "ingredient_group": "สัตว์เนื้อขาว",
+    "ingredient_group_en": "White Meat",
     "cooking_method": "หุงพร้อมกัน",
-    "flavors": ["หอมเครื่องเทศ", "เค็มอ่อน"],
+    "cooking_method_en": "Cooked Together",
+    "flavors": [
+      "หอมเครื่องเทศ",
+      "เค็มอ่อน"
+    ],
+    "flavors_en": [
+      "Spice Aroma",
+      "Lightly Salty"
+    ],
     "spice_level": 1,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ข้าวขาหมู",
+    "name_en": "Stewed Pork Leg with Rice",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
     "dish_type": "จานเดียว",
+    "dish_type_en": "One-Dish Meal",
     "main_ingredient": "ขาหมู",
+    "main_ingredient_en": "Pork Leg",
     "ingredient_group": "เนื้อหมู",
+    "ingredient_group_en": "Pork",
     "cooking_method": "เคี่ยว",
-    "flavors": ["หวาน", "เค็ม"],
+    "cooking_method_en": "Simmered",
+    "flavors": [
+      "หวาน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ข้าวมันไก่",
+    "name_en": "Hainanese Chicken Rice",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
     "dish_type": "จานเดียว",
+    "dish_type_en": "One-Dish Meal",
     "main_ingredient": "เนื้อไก่ต้ม",
+    "main_ingredient_en": "Boiled Chicken",
     "ingredient_group": "สัตว์เนื้อขาว",
+    "ingredient_group_en": "White Meat",
     "cooking_method": "ต้ม",
-    "flavors": ["กลมกล่อม", "หอมขิง"],
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "กลมกล่อม",
+      "หอมขิง"
+    ],
+    "flavors_en": [
+      "Well-balanced",
+      "Ginger Aroma"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ก๋วยเตี๋ยวเรือเนื้อน้ำตก",
+    "name_en": "Boat Noodles with Nam Tok Beef",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "จานเดียว",
+    "dish_type_en": "One-Dish Meal",
     "main_ingredient": "เส้นเล็ก",
+    "main_ingredient_en": "Thin Rice Noodles",
     "ingredient_group": "เส้น",
+    "ingredient_group_en": "Noodles",
     "cooking_method": "ต้ม",
-    "flavors": ["เข้มข้น", "เผ็ด", "เค็ม", "หวาน"],
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เข้มข้น",
+      "เผ็ด",
+      "เค็ม",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Rich",
+      "Spicy",
+      "Salty",
+      "Sweet"
+    ],
     "spice_level": 3,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ก๋วยเตี๋ยวต้มยำสุโขทัย",
+    "name_en": "Sukhothai-style Tom Yum Noodles",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคเหนือ",
+    "region_en": "Northern Region",
     "dish_type": "จานเดียว",
+    "dish_type_en": "One-Dish Meal",
     "main_ingredient": "เส้นเล็ก",
+    "main_ingredient_en": "Thin Rice Noodles",
     "ingredient_group": "เส้น",
+    "ingredient_group_en": "Noodles",
     "cooking_method": "ต้ม",
-    "flavors": ["เปรี้ยว", "หวาน", "เผ็ด"],
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เปรี้ยว",
+      "หวาน",
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Sweet",
+      "Spicy"
+    ],
     "spice_level": 3,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "เย็นตาโฟทะเล",
+    "name_en": "Yentafo with Seafood",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
     "dish_type": "จานเดียว",
+    "dish_type_en": "One-Dish Meal",
     "main_ingredient": "เส้นใหญ่",
+    "main_ingredient_en": "Wide Rice Noodles",
     "ingredient_group": "เส้น",
+    "ingredient_group_en": "Noodles",
     "cooking_method": "ต้ม",
-    "flavors": ["เปรี้ยว", "หวาน", "เค็ม"],
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เปรี้ยว",
+      "หวาน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Sweet",
+      "Salty"
+    ],
     "spice_level": 1,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ผัดพริกแกงถั่วยาวหมูกรอบ",
+    "name_en": "Stir-fried Long Beans with Curry Paste and Crispy Pork",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "หมูกรอบ",
+    "main_ingredient_en": "Crispy Pork",
     "ingredient_group": "เนื้อหมู",
+    "ingredient_group_en": "Pork",
     "cooking_method": "ผัด",
-    "flavors": ["เผ็ด", "เค็ม", "หวานน้อย"],
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เผ็ด",
+      "เค็ม",
+      "หวานน้อย"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Salty",
+      "Slightly Sweet"
+    ],
     "spice_level": 3,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "หมูผัดกะปิ",
+    "name_en": "Stir-fried Pork with Shrimp Paste",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคใต้",
+    "region_en": "Southern Region",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "หมูสามชั้น",
+    "main_ingredient_en": "Pork Belly",
     "ingredient_group": "เนื้อหมู",
+    "ingredient_group_en": "Pork",
     "cooking_method": "ผัด",
-    "flavors": ["เค็มกะปิ", "หวาน", "เผ็ดน้อย"],
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็มกะปิ",
+      "หวาน",
+      "เผ็ดน้อย"
+    ],
+    "flavors_en": [
+      "Salty Shrimp Paste",
+      "Sweet",
+      "Mildly Spicy"
+    ],
     "spice_level": 2,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ปูผัดผงกะหรี่",
+    "name_en": "Crab with Curry Powder",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "เนื้อปู",
+    "main_ingredient_en": "Crab Meat",
     "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
     "cooking_method": "ผัด",
-    "flavors": ["มัน", "เค็ม", "หวาน"],
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "มัน",
+      "เค็ม",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Rich",
+      "Salty",
+      "Sweet"
+    ],
     "spice_level": 1,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "กุ้งอบวุ้นเส้น",
+    "name_en": "Baked Prawns with Glass Noodles",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "กุ้งแม่น้ำ",
+    "main_ingredient_en": "River Prawn",
     "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
     "cooking_method": "อบ",
-    "flavors": ["เค็ม", "หอมเครื่องเทศ"],
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "เค็ม",
+      "หอมเครื่องเทศ"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Spice Aroma"
+    ],
     "spice_level": 1,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ปลาหมึกนึ่งมะนาว",
+    "name_en": "Steamed Squid with Lime",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "ปลาหมึก",
+    "main_ingredient_en": "Squid",
     "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
     "cooking_method": "นึ่ง",
-    "flavors": ["เปรี้ยว", "เผ็ด", "เค็ม"],
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "เปรี้ยว",
+      "เผ็ด",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Spicy",
+      "Salty"
+    ],
     "spice_level": 4,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "หอยแมลงภู่อบหม้อดิน",
+    "name_en": "Clay Pot Baked Mussels",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "หอยแมลงภู่",
+    "main_ingredient_en": "Mussels",
     "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
     "cooking_method": "อบ",
-    "flavors": ["หอมสมุนไพร", "เค็มธรรมชาติ"],
+    "cooking_method_en": "Baked",
+    "flavors": [
+      "หอมสมุนไพร",
+      "เค็มธรรมชาติ"
+    ],
+    "flavors_en": [
+      "Herbal Aroma",
+      "Naturally Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "แกงเทโพหมูสามชั้น",
+    "name_en": "Kaeng Tepo with Pork Belly",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "แกง",
+    "dish_type_en": "Curry",
     "main_ingredient": "หมูสามชั้น",
+    "main_ingredient_en": "Pork Belly",
     "ingredient_group": "เนื้อหมู",
+    "ingredient_group_en": "Pork",
     "cooking_method": "แกง",
-    "flavors": ["เปรี้ยวหวาน", "มัน", "เผ็ดน้อย"],
+    "cooking_method_en": "Curried",
+    "flavors": [
+      "เปรี้ยวหวาน",
+      "มัน",
+      "เผ็ดน้อย"
+    ],
+    "flavors_en": [
+      "Sweet and Sour",
+      "Rich",
+      "Mildly Spicy"
+    ],
     "spice_level": 2,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "แกงคั่วสับปะรดกุ้ง",
+    "name_en": "Curry with Pineapple and Shrimp",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "แกง",
+    "dish_type_en": "Curry",
     "main_ingredient": "กุ้ง",
+    "main_ingredient_en": "Shrimp",
     "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
     "cooking_method": "แกง",
-    "flavors": ["เปรี้ยวหวาน", "เผ็ด", "มัน"],
+    "cooking_method_en": "Curried",
+    "flavors": [
+      "เปรี้ยวหวาน",
+      "เผ็ด",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Sweet and Sour",
+      "Spicy",
+      "Rich"
+    ],
     "spice_level": 3,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "แกงป่าไก่",
+    "name_en": "Jungle Curry with Chicken",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "แกง",
+    "dish_type_en": "Curry",
     "main_ingredient": "เนื้อไก่",
+    "main_ingredient_en": "Chicken",
     "ingredient_group": "สัตว์เนื้อขาว",
+    "ingredient_group_en": "White Meat",
     "cooking_method": "ต้มแกง",
-    "flavors": ["เผ็ดร้อน", "เค็ม", "หอมสมุนไพร"],
+    "cooking_method_en": "Boiled Curry",
+    "flavors": [
+      "เผ็ดร้อน",
+      "เค็ม",
+      "หอมสมุนไพร"
+    ],
+    "flavors_en": [
+      "Fiery Spicy",
+      "Salty",
+      "Herbal Aroma"
+    ],
     "spice_level": 5,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ต้มแซ่บกระดูกอ่อน",
+    "name_en": "Spicy Soft Bone Soup (Tom Saep)",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคอีสาน",
+    "region_en": "Northeastern Region (Isan)",
     "dish_type": "ซุป",
+    "dish_type_en": "Soup",
     "main_ingredient": "กระดูกหมูอ่อน",
+    "main_ingredient_en": "Soft Pork Bones",
     "ingredient_group": "เนื้อหมู",
+    "ingredient_group_en": "Pork",
     "cooking_method": "ต้ม",
-    "flavors": ["เปรี้ยว", "เผ็ดร้อน"],
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เปรี้ยว",
+      "เผ็ดร้อน"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Fiery Spicy"
+    ],
     "spice_level": 4,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ต้มจืดเต้าหู้หมูสับ",
+    "name_en": "Clear Soup with Tofu and Minced Pork",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
     "dish_type": "ซุป",
+    "dish_type_en": "Soup",
     "main_ingredient": "เต้าหู้ไข่",
+    "main_ingredient_en": "Egg Tofu",
     "ingredient_group": "เต้าหู้/หมู",
+    "ingredient_group_en": "Tofu/Pork",
     "cooking_method": "ต้ม",
-    "flavors": ["กลมกล่อม", "หวานกระดูก"],
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "กลมกล่อม",
+      "หวานกระดูก"
+    ],
+    "flavors_en": [
+      "Well-balanced",
+      "Sweet Bone Broth"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ซุปหน่อไม้",
+    "name_en": "Bamboo Shoot Salad (Soup Naw Mai)",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคอีสาน",
+    "region_en": "Northeastern Region (Isan)",
     "dish_type": "สลัด/ยำ",
+    "dish_type_en": "Salad/Yum",
     "main_ingredient": "หน่อไม้",
+    "main_ingredient_en": "Bamboo Shoots",
     "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
     "cooking_method": "ต้ม/คลุก",
-    "flavors": ["เปรี้ยว", "เผ็ด", "นัวปลาร้า"],
+    "cooking_method_en": "Boiled/Tossed",
+    "flavors": [
+      "เปรี้ยว",
+      "เผ็ด",
+      "นัวปลาร้า"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Spicy",
+      "Savory Fermented Fish"
+    ],
     "spice_level": 3,
-    "serving_temperature": "อุณหภูมิห้อง"
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
   },
   {
     "collection": "thai",
     "name": "ส้มตำปูปลาร้า",
+    "name_en": "Papaya Salad with Crab and Fermented Fish",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคอีสาน",
+    "region_en": "Northeastern Region (Isan)",
     "dish_type": "สลัด/ยำ",
+    "dish_type_en": "Salad/Yum",
     "main_ingredient": "มะละกอ",
+    "main_ingredient_en": "Papaya",
     "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
     "cooking_method": "ตำ",
-    "flavors": ["เผ็ด", "เปรี้ยว", "เค็มปลาร้า"],
+    "cooking_method_en": "Pounded",
+    "flavors": [
+      "เผ็ด",
+      "เปรี้ยว",
+      "เค็มปลาร้า"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Sour",
+      "Salty Fermented Fish"
+    ],
     "spice_level": 4,
-    "serving_temperature": "อุณหภูมิห้อง"
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
   },
   {
     "collection": "thai",
     "name": "ตำแตงไข่ต้ม",
+    "name_en": "Cucumber Salad with Boiled Egg (Tam Taeng)",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคอีสาน",
+    "region_en": "Northeastern Region (Isan)",
     "dish_type": "สลัด/ยำ",
+    "dish_type_en": "Salad/Yum",
     "main_ingredient": "แตงกวา",
+    "main_ingredient_en": "Cucumber",
     "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
     "cooking_method": "ตำ",
-    "flavors": ["เผ็ด", "เปรี้ยว", "เค็ม"],
+    "cooking_method_en": "Pounded",
+    "flavors": [
+      "เผ็ด",
+      "เปรี้ยว",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Sour",
+      "Salty"
+    ],
     "spice_level": 3,
-    "serving_temperature": "อุณหภูมิห้อง"
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
   },
   {
     "collection": "thai",
     "name": "ตำถั่วหมูกรอบ",
+    "name_en": "Pounded Long Bean Salad with Crispy Pork",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคอีสาน",
+    "region_en": "Northeastern Region (Isan)",
     "dish_type": "สลัด/ยำ",
+    "dish_type_en": "Salad/Yum",
     "main_ingredient": "ถั่วฝักยาว",
+    "main_ingredient_en": "Long Beans",
     "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
     "cooking_method": "ตำ",
-    "flavors": ["เผ็ด", "เค็ม", "เปรี้ยว"],
+    "cooking_method_en": "Pounded",
+    "flavors": [
+      "เผ็ด",
+      "เค็ม",
+      "เปรี้ยว"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Salty",
+      "Sour"
+    ],
     "spice_level": 3,
-    "serving_temperature": "อุณหภูมิห้อง"
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
   },
   {
     "collection": "thai",
     "name": "ยำคะน้ากุ้งสด",
+    "name_en": "Kale Salad with Fresh Shrimp",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "สลัด/ยำ",
+    "dish_type_en": "Salad/Yum",
     "main_ingredient": "ยอดคะน้า",
+    "main_ingredient_en": "Kale Shoots",
     "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
     "cooking_method": "ยำ",
-    "flavors": ["เปรี้ยว", "เผ็ด", "หวาน"],
+    "cooking_method_en": "Tossed (Yum-style)",
+    "flavors": [
+      "เปรี้ยว",
+      "เผ็ด",
+      "หวาน"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Spicy",
+      "Sweet"
+    ],
     "spice_level": 3,
-    "serving_temperature": "เย็น"
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
   },
   {
     "collection": "thai",
     "name": "ยำปลาดุกฟู",
+    "name_en": "Crispy Catfish Salad",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "สลัด/ยำ",
+    "dish_type_en": "Salad/Yum",
     "main_ingredient": "เนื้อปลาดุก",
+    "main_ingredient_en": "Catfish",
     "ingredient_group": "ปลา",
+    "ingredient_group_en": "Fish",
     "cooking_method": "ทอด/ยำ",
-    "flavors": ["เปรี้ยว", "หวาน", "เผ็ด"],
+    "cooking_method_en": "Fried/Tossed",
+    "flavors": [
+      "เปรี้ยว",
+      "หวาน",
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Sweet",
+      "Spicy"
+    ],
     "spice_level": 3,
-    "serving_temperature": "อุณหภูมิห้อง"
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
   },
   {
     "collection": "thai",
     "name": "ยำเนื้อย่าง",
+    "name_en": "Grilled Beef Salad",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "สลัด/ยำ",
+    "dish_type_en": "Salad/Yum",
     "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
     "ingredient_group": "สัตว์เนื้อแดง",
+    "ingredient_group_en": "Red Meat",
     "cooking_method": "ย่าง/ยำ",
-    "flavors": ["เปรี้ยว", "เผ็ด", "เค็ม"],
+    "cooking_method_en": "Grilled/Tossed",
+    "flavors": [
+      "เปรี้ยว",
+      "เผ็ด",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Spicy",
+      "Salty"
+    ],
     "spice_level": 3,
-    "serving_temperature": "อุณหภูมิห้อง"
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
   },
   {
     "collection": "thai",
     "name": "หมูน้ำตกกระทะร้อน",
+    "name_en": "Sizzling Pork Nam Tok",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคอีสาน",
+    "region_en": "Northeastern Region (Isan)",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "คอหมูย่าง",
+    "main_ingredient_en": "Grilled Pork Neck",
     "ingredient_group": "เนื้อหมู",
+    "ingredient_group_en": "Pork",
     "cooking_method": "ย่าง/ผัด",
-    "flavors": ["เปรี้ยว", "เผ็ด", "เค็ม"],
+    "cooking_method_en": "Grilled/Stir-fried",
+    "flavors": [
+      "เปรี้ยว",
+      "เผ็ด",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Spicy",
+      "Salty"
+    ],
     "spice_level": 3,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "คอหมูย่าง",
+    "name_en": "Grilled Pork Neck",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคอีสาน",
+    "region_en": "Northeastern Region (Isan)",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "สันคอหมู",
+    "main_ingredient_en": "Pork Collar",
     "ingredient_group": "เนื้อหมู",
+    "ingredient_group_en": "Pork",
     "cooking_method": "ย่าง",
-    "flavors": ["หวาน", "เค็ม", "หอมควัน"],
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "หวาน",
+      "เค็ม",
+      "หอมควัน"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Salty",
+      "Smoky Aroma"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ไก่ย่างวิเชียรบุรี",
+    "name_en": "Wichian Buri-style Grilled Chicken",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคเหนือ",
+    "region_en": "Northern Region",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "เนื้อไก่",
+    "main_ingredient_en": "Chicken",
     "ingredient_group": "สัตว์เนื้อขาว",
+    "ingredient_group_en": "White Meat",
     "cooking_method": "ย่าง",
-    "flavors": ["เค็ม", "หอมกระเทียมพริกไทย"],
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เค็ม",
+      "หอมกระเทียมพริกไทย"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Garlic-Pepper Aroma"
+    ],
     "spice_level": 1,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ไส้อั่ว",
+    "name_en": "Northern Thai Herbal Sausage (Sai Ua)",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคเหนือ",
+    "region_en": "Northern Region",
     "dish_type": "อาหารว่าง",
+    "dish_type_en": "Light Snack",
     "main_ingredient": "หมูบดผสมเครื่องแกง",
+    "main_ingredient_en": "Ground Pork Mixed with Curry Paste",
     "ingredient_group": "เนื้อหมู",
+    "ingredient_group_en": "Pork",
     "cooking_method": "ย่าง",
-    "flavors": ["เผ็ด", "หอมสมุนไพร"],
+    "cooking_method_en": "Grilled",
+    "flavors": [
+      "เผ็ด",
+      "หอมสมุนไพร"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Herbal Aroma"
+    ],
     "spice_level": 3,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "แคบหมู",
+    "name_en": "Thai Pork Rinds",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคเหนือ",
+    "region_en": "Northern Region",
     "dish_type": "เครื่องเคียง",
+    "dish_type_en": "Accompaniment",
     "main_ingredient": "หนังหมู",
+    "main_ingredient_en": "Pork Skin",
     "ingredient_group": "เนื้อหมู",
+    "ingredient_group_en": "Pork",
     "cooking_method": "ทอด",
-    "flavors": ["เค็มมัน"],
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็มมัน"
+    ],
+    "flavors_en": [
+      "Salty and Rich"
+    ],
     "spice_level": 0,
-    "serving_temperature": "อุณหภูมิห้อง"
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
   },
   {
     "collection": "thai",
     "name": "น้ำพริกอ่อง",
+    "name_en": "Northern Thai Tomato-Pork Chili Dip",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคเหนือ",
+    "region_en": "Northern Region",
     "dish_type": "น้ำพริก",
+    "dish_type_en": "Chili Dip",
     "main_ingredient": "หมูสับและมะเขือส้ม",
+    "main_ingredient_en": "Minced Pork and Sour Eggplant",
     "ingredient_group": "เนื้อหมู/ผัก",
+    "ingredient_group_en": "Pork/Vegetables",
     "cooking_method": "ผัด",
-    "flavors": ["เปรี้ยว", "หวาน", "เผ็ดน้อย"],
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เปรี้ยว",
+      "หวาน",
+      "เผ็ดน้อย"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Sweet",
+      "Mildly Spicy"
+    ],
     "spice_level": 2,
-    "serving_temperature": "อุณหภูมิห้อง"
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
   },
   {
     "collection": "thai",
     "name": "น้ำพริกหนุ่ม",
+    "name_en": "Green Chili Dip (Nam Prik Num)",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคเหนือ",
+    "region_en": "Northern Region",
     "dish_type": "น้ำพริก",
+    "dish_type_en": "Chili Dip",
     "main_ingredient": "พริกหนุ่มเผา",
+    "main_ingredient_en": "Roasted Green Chilies",
     "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
     "cooking_method": "โขลก",
-    "flavors": ["เผ็ด", "เค็มอ่อน"],
+    "cooking_method_en": "Pounded (Mortar)",
+    "flavors": [
+      "เผ็ด",
+      "เค็มอ่อน"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Lightly Salty"
+    ],
     "spice_level": 3,
-    "serving_temperature": "อุณหภูมิห้อง"
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
   },
   {
     "collection": "thai",
     "name": "น้ำพริกกะปิ",
+    "name_en": "Shrimp Paste Chili Dip",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "น้ำพริก",
+    "dish_type_en": "Chili Dip",
     "main_ingredient": "กะปิ",
+    "main_ingredient_en": "Shrimp Paste",
     "ingredient_group": "เครื่องปรุง",
+    "ingredient_group_en": "Seasoning",
     "cooking_method": "โขลก",
-    "flavors": ["เปรี้ยว", "เผ็ด", "เค็มกะปิ"],
+    "cooking_method_en": "Pounded (Mortar)",
+    "flavors": [
+      "เปรี้ยว",
+      "เผ็ด",
+      "เค็มกะปิ"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Spicy",
+      "Salty Shrimp Paste"
+    ],
     "spice_level": 3,
-    "serving_temperature": "อุณหภูมิห้อง"
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
   },
   {
     "collection": "thai",
     "name": "น้ำพริกลงเรือ",
+    "name_en": "Nam Prik Long Ruea",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "น้ำพริก",
+    "dish_type_en": "Chili Dip",
     "main_ingredient": "กะปิและหมูกระเทียม",
+    "main_ingredient_en": "Shrimp Paste and Garlic Pork",
     "ingredient_group": "เนื้อหมู",
+    "ingredient_group_en": "Pork",
     "cooking_method": "ผัด",
-    "flavors": ["เปรี้ยว", "หวาน", "เค็ม"],
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เปรี้ยว",
+      "หวาน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Sweet",
+      "Salty"
+    ],
     "spice_level": 2,
-    "serving_temperature": "อุณหภูมิห้อง"
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
   },
   {
     "collection": "thai",
     "name": "หลนเต้าเจี้ยว",
+    "name_en": "Fermented Soybean Coconut Dip",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "น้ำพริก",
+    "dish_type_en": "Chili Dip",
     "main_ingredient": "เต้าเจี้ยวขาว",
+    "main_ingredient_en": "White Fermented Soybean",
     "ingredient_group": "ถั่ว",
+    "ingredient_group_en": "Beans/Nuts",
     "cooking_method": "เคี่ยวกะทิ",
-    "flavors": ["หวาน", "มัน", "เค็มอ่อน"],
+    "cooking_method_en": "Simmered in Coconut Milk",
+    "flavors": [
+      "หวาน",
+      "มัน",
+      "เค็มอ่อน"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Rich",
+      "Lightly Salty"
+    ],
     "spice_level": 1,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ข้าวคลุกกะปิ",
+    "name_en": "Shrimp Paste Fried Rice (Khao Khluk Kapi)",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "จานเดียว",
+    "dish_type_en": "One-Dish Meal",
     "main_ingredient": "ข้าวสวยคลุกกะปิ",
+    "main_ingredient_en": "Rice Mixed with Shrimp Paste",
     "ingredient_group": "ข้าว",
+    "ingredient_group_en": "Rice",
     "cooking_method": "ผัด/จัดจาน",
-    "flavors": ["เค็ม", "เปรี้ยว", "หวานหมูหวาน"],
+    "cooking_method_en": "Stir-fried and Plated",
+    "flavors": [
+      "เค็ม",
+      "เปรี้ยว",
+      "หวานหมูหวาน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Sour",
+      "Sweet Candied Pork"
+    ],
     "spice_level": 1,
-    "serving_temperature": "อุณหภูมิห้อง"
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
   },
   {
     "collection": "thai",
     "name": "ผัดแขนงหมูกรอบ",
+    "name_en": "Stir-fried Brussels Sprouts with Crispy Pork",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "ผักแขนง",
+    "main_ingredient_en": "Brussels Sprouts",
     "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
     "cooking_method": "ผัด",
-    "flavors": ["เค็ม", "เผ็ดน้อย"],
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม",
+      "เผ็ดน้อย"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Mildly Spicy"
+    ],
     "spice_level": 1,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ผัดสะตอกุ้งสด",
+    "name_en": "Stir-fried Stink Beans with Fresh Shrimp",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคใต้",
+    "region_en": "Southern Region",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "สะตอและกุ้ง",
+    "main_ingredient_en": "Stink Beans and Shrimp",
     "ingredient_group": "ผัก/อาหารทะเล",
+    "ingredient_group_en": "Vegetables/Seafood",
     "cooking_method": "ผัดกะปิ",
-    "flavors": ["เค็มกะปิ", "เผ็ด", "เปรี้ยวเล็กน้อย"],
+    "cooking_method_en": "Stir-fried with Shrimp Paste",
+    "flavors": [
+      "เค็มกะปิ",
+      "เผ็ด",
+      "เปรี้ยวเล็กน้อย"
+    ],
+    "flavors_en": [
+      "Salty Shrimp Paste",
+      "Spicy",
+      "Slightly Sour"
+    ],
     "spice_level": 3,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ใบเหลียงผัดไข่",
+    "name_en": "Pak Liang Leaves Stir-fried with Egg",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคใต้",
+    "region_en": "Southern Region",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "ใบเหลียง",
+    "main_ingredient_en": "Pak Liang Leaves",
     "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
     "cooking_method": "ผัด",
-    "flavors": ["เค็มมัน", "หวานผัก"],
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็มมัน",
+      "หวานผัก"
+    ],
+    "flavors_en": [
+      "Salty and Rich",
+      "Vegetable Sweetness"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "แกงเห็ดแผลง (แกงเห็ดรวม)",
+    "name_en": "Mixed Mushroom Curry (Kaeng Het Phlaeng)",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคอีสาน",
+    "region_en": "Northeastern Region (Isan)",
     "dish_type": "แกง",
+    "dish_type_en": "Curry",
     "main_ingredient": "เห็ดรวม",
+    "main_ingredient_en": "Mixed Mushrooms",
     "ingredient_group": "เห็ด",
+    "ingredient_group_en": "Mushrooms",
     "cooking_method": "ต้ม",
-    "flavors": ["เค็มปลาร้า", "เผ็ด", "หอมใบแมงลัก"],
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็มปลาร้า",
+      "เผ็ด",
+      "หอมใบแมงลัก"
+    ],
+    "flavors_en": [
+      "Salty Fermented Fish",
+      "Spicy",
+      "Lemon Basil Aroma"
+    ],
     "spice_level": 3,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "อ่อมไก่ใบชะพลู",
+    "name_en": "Chicken Aom with Wild Betel Leaves",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคอีสาน",
+    "region_en": "Northeastern Region (Isan)",
     "dish_type": "แกง",
+    "dish_type_en": "Curry",
     "main_ingredient": "เนื้อไก่",
+    "main_ingredient_en": "Chicken",
     "ingredient_group": "สัตว์เนื้อขาว",
+    "ingredient_group_en": "White Meat",
     "cooking_method": "ต้มแกง",
-    "flavors": ["เค็ม", "เผ็ด", "หอมสมุนไพร"],
+    "cooking_method_en": "Boiled Curry",
+    "flavors": [
+      "เค็ม",
+      "เผ็ด",
+      "หอมสมุนไพร"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Spicy",
+      "Herbal Aroma"
+    ],
     "spice_level": 3,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "หมกฮวก (หมกลูกอ๊อด)",
+    "name_en": "Steamed Tadpole Curry (Mok Huak)",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคอีสาน",
+    "region_en": "Northeastern Region (Isan)",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "ลูกอ๊อด",
+    "main_ingredient_en": "Tadpoles",
     "ingredient_group": "สัตว์พื้นบ้าน",
+    "ingredient_group_en": "Local Wildlife",
     "cooking_method": "นึ่งใบตอง",
-    "flavors": ["เผ็ด", "เค็ม", "นัว"],
+    "cooking_method_en": "Steamed in Banana Leaf",
+    "flavors": [
+      "เผ็ด",
+      "เค็ม",
+      "นัว"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Salty",
+      "Savory (Umami)"
+    ],
     "spice_level": 4,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ไข่มดแดงผัดไข่",
+    "name_en": "Red Ant Eggs Stir-fried with Egg",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคอีสาน",
+    "region_en": "Northeastern Region (Isan)",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "ไข่มดแดง",
+    "main_ingredient_en": "Red Ant Eggs",
     "ingredient_group": "วัตถุดิบฤดูกาล",
+    "ingredient_group_en": "Seasonal Ingredient",
     "cooking_method": "ผัด",
-    "flavors": ["เค็มมัน", "เปรี้ยวละมุน"],
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็มมัน",
+      "เปรี้ยวละมุน"
+    ],
+    "flavors_en": [
+      "Salty and Rich",
+      "Gently Sour"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ต้มยำปลาช่อนหม้อไฟ",
+    "name_en": "Snakehead Fish Hot Pot Tom Yum",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "ซุป",
+    "dish_type_en": "Soup",
     "main_ingredient": "ปลาช่อน",
+    "main_ingredient_en": "Snakehead Fish",
     "ingredient_group": "ปลา",
+    "ingredient_group_en": "Fish",
     "cooking_method": "ต้ม",
-    "flavors": ["เปรี้ยว", "เผ็ด", "หอมพริกแห้ง"],
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เปรี้ยว",
+      "เผ็ด",
+      "หอมพริกแห้ง"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Spicy",
+      "Dried Chili Aroma"
+    ],
     "spice_level": 4,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ปลาราดพริก",
+    "name_en": "Fried Fish with Chili Sauce",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "ปลากระพง",
+    "main_ingredient_en": "Sea Bass",
     "ingredient_group": "ปลา",
+    "ingredient_group_en": "Fish",
     "cooking_method": "ทอด/ราดซอส",
-    "flavors": ["หวาน", "เปรี้ยว", "เผ็ด"],
+    "cooking_method_en": "Fried/Sauced",
+    "flavors": [
+      "หวาน",
+      "เปรี้ยว",
+      "เผ็ด"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Sour",
+      "Spicy"
+    ],
     "spice_level": 2,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ฉู่ฉี่ปลาหมอ",
+    "name_en": "Choo Chee Climbing Perch",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "ปลาหมอ",
+    "main_ingredient_en": "Climbing Perch",
     "ingredient_group": "ปลา",
+    "ingredient_group_en": "Fish",
     "cooking_method": "ผัดฉู่ฉี่",
-    "flavors": ["เผ็ด", "หวาน", "มันกะทิ"],
+    "cooking_method_en": "Choo Chee Stir-fried",
+    "flavors": [
+      "เผ็ด",
+      "หวาน",
+      "มันกะทิ"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Sweet",
+      "Rich Coconut Milk"
+    ],
     "spice_level": 3,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ห่อหมกทะเลมะพร้าวอ่อน",
+    "name_en": "Steamed Seafood Curry in Young Coconut",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "อาหารทะเลรวม",
+    "main_ingredient_en": "Mixed Seafood",
     "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
     "cooking_method": "นึ่ง",
-    "flavors": ["เค็ม", "หวาน", "มันกะทิ"],
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "เค็ม",
+      "หวาน",
+      "มันกะทิ"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Sweet",
+      "Rich Coconut Milk"
+    ],
     "spice_level": 2,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ไข่พะโล้หมูกรอบ",
+    "name_en": "Stewed Eggs with Crispy Pork (Kai Palo)",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "แกง",
+    "dish_type_en": "Curry",
     "main_ingredient": "ไข่ต้มและหมูสามชั้น",
+    "main_ingredient_en": "Boiled Eggs and Pork Belly",
     "ingredient_group": "ไข่/หมู",
+    "ingredient_group_en": "Eggs/Pork",
     "cooking_method": "เคี่ยว",
-    "flavors": ["หวาน", "เค็ม"],
+    "cooking_method_en": "Simmered",
+    "flavors": [
+      "หวาน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ไข่ตุ๋นหมูสับทรงเครื่อง",
+    "name_en": "Steamed Egg with Minced Pork",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "ไข่ไก่",
+    "main_ingredient_en": "Chicken Egg",
     "ingredient_group": "ไข่",
+    "ingredient_group_en": "Eggs",
     "cooking_method": "นึ่ง",
-    "flavors": ["เค็มกลมกล่อม"],
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "เค็มกลมกล่อม"
+    ],
+    "flavors_en": [
+      "Balanced Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ไข่ลูกเขย",
+    "name_en": "Son-in-Law Eggs",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "ไข่ต้มทอด",
+    "main_ingredient_en": "Fried Boiled Eggs",
     "ingredient_group": "ไข่",
+    "ingredient_group_en": "Eggs",
     "cooking_method": "ทอด/ราดซอส",
-    "flavors": ["หวาน", "เปรี้ยว", "เค็มอ่อน"],
+    "cooking_method_en": "Fried/Sauced",
+    "flavors": [
+      "หวาน",
+      "เปรี้ยว",
+      "เค็มอ่อน"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Sour",
+      "Lightly Salty"
+    ],
     "spice_level": 1,
-    "serving_temperature": "อุณหภูมิห้อง"
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
   },
   {
     "collection": "thai",
     "name": "หมูแดดเดียวทอด",
+    "name_en": "Fried Sun-dried Pork",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "เนื้อหมู",
+    "main_ingredient_en": "Pork",
     "ingredient_group": "เนื้อหมู",
+    "ingredient_group_en": "Pork",
     "cooking_method": "ตาก/ทอด",
-    "flavors": ["เค็ม", "หวานอ่อน"],
+    "cooking_method_en": "Sun-dried/Fried",
+    "flavors": [
+      "เค็ม",
+      "หวานอ่อน"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Mildly Sweet"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "เนื้อแดดเดียวทอด",
+    "name_en": "Fried Sun-dried Beef",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "เนื้อวัว",
+    "main_ingredient_en": "Beef",
     "ingredient_group": "สัตว์เนื้อแดง",
+    "ingredient_group_en": "Red Meat",
     "cooking_method": "ตาก/ทอด",
-    "flavors": ["เค็ม", "หอมงา"],
+    "cooking_method_en": "Sun-dried/Fried",
+    "flavors": [
+      "เค็ม",
+      "หอมงา"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Sesame Aroma"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ซี่โครงหมูบาร์บีคิวไทย",
+    "name_en": "Thai BBQ Pork Ribs",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "ซี่โครงหมู",
+    "main_ingredient_en": "Pork Ribs",
     "ingredient_group": "เนื้อหมู",
+    "ingredient_group_en": "Pork",
     "cooking_method": "อบ/ย่าง",
-    "flavors": ["หวาน", "เค็ม", "หอมพริกไทย"],
+    "cooking_method_en": "Baked/Grilled",
+    "flavors": [
+      "หวาน",
+      "เค็ม",
+      "หอมพริกไทย"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Salty",
+      "Peppery Aroma"
+    ],
     "spice_level": 1,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ปีกไก่ทอดน้ำปลา",
+    "name_en": "Fish Sauce Fried Chicken Wings",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
     "dish_type": "อาหารว่าง",
+    "dish_type_en": "Light Snack",
     "main_ingredient": "ปีกไก่",
+    "main_ingredient_en": "Chicken Wings",
     "ingredient_group": "สัตว์เนื้อขาว",
+    "ingredient_group_en": "White Meat",
     "cooking_method": "ทอด",
-    "flavors": ["เค็ม", "หอมน้ำปลา"],
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม",
+      "หอมน้ำปลา"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Fish Sauce Aroma"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "กุ้งแช่น้ำปลา",
+    "name_en": "Shrimp in Fish Sauce",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "อาหารว่าง/กับแกล้ม",
+    "dish_type_en": "Snack / Drinking Snack",
     "main_ingredient": "กุ้งสด",
+    "main_ingredient_en": "Fresh Shrimp",
     "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
     "cooking_method": "แช่เย็น/ราดน้ำจิ้ม",
-    "flavors": ["เปรี้ยว", "เผ็ด", "เค็ม"],
+    "cooking_method_en": "Chilled/Served with Dipping Sauce",
+    "flavors": [
+      "เปรี้ยว",
+      "เผ็ด",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Spicy",
+      "Salty"
+    ],
     "spice_level": 4,
-    "serving_temperature": "เย็น"
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
   },
   {
     "collection": "thai",
     "name": "แซลมอนแซ่บ",
+    "name_en": "Spicy Salmon Salad",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "สลัด/ยำ",
+    "dish_type_en": "Salad/Yum",
     "main_ingredient": "เนื้อปลาแซลมอน",
+    "main_ingredient_en": "Salmon",
     "ingredient_group": "ปลา",
+    "ingredient_group_en": "Fish",
     "cooking_method": "ยำ",
-    "flavors": ["เปรี้ยว", "เผ็ด", "เค็ม"],
+    "cooking_method_en": "Tossed (Yum-style)",
+    "flavors": [
+      "เปรี้ยว",
+      "เผ็ด",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Spicy",
+      "Salty"
+    ],
     "spice_level": 4,
-    "serving_temperature": "เย็น"
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
   },
   {
     "collection": "thai",
     "name": "ก๋วยจั๊บน้ำข้น",
+    "name_en": "Kuay Jub with Thick Broth",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "จานเดียว",
+    "dish_type_en": "One-Dish Meal",
     "main_ingredient": "เส้นก๋วยจั๊บ",
+    "main_ingredient_en": "Kuay Jub Noodles",
     "ingredient_group": "เส้น",
+    "ingredient_group_en": "Noodles",
     "cooking_method": "ต้ม",
-    "flavors": ["เค็ม", "หวาน", "หอมเครื่องพะโล้"],
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "เค็ม",
+      "หวาน",
+      "หอมเครื่องพะโล้"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Sweet",
+      "Five-Spice Aroma"
+    ],
     "spice_level": 1,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ก๋วยจั๊บน้องหมูน้ำใส",
+    "name_en": "Kuay Jub with Pork Offal in Clear Broth",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "จานเดียว",
+    "dish_type_en": "One-Dish Meal",
     "main_ingredient": "เส้นก๋วยจั๊บ",
+    "main_ingredient_en": "Kuay Jub Noodles",
     "ingredient_group": "เส้น",
+    "ingredient_group_en": "Noodles",
     "cooking_method": "ต้ม",
-    "flavors": ["กลมกล่อม", "เผ็ดพริกไทย"],
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "กลมกล่อม",
+      "เผ็ดพริกไทย"
+    ],
+    "flavors_en": [
+      "Well-balanced",
+      "Peppery Spicy"
+    ],
     "spice_level": 2,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ขนมจีนน้ำยาป่า",
+    "name_en": "Rice Noodles with Jungle Curry (Khanom Jeen Nam Ya Pa)",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคอีสาน",
+    "region_en": "Northeastern Region (Isan)",
     "dish_type": "จานเดียว",
+    "dish_type_en": "One-Dish Meal",
     "main_ingredient": "เส้นขนมจีน",
+    "main_ingredient_en": "Rice Vermicelli (Khanom Jeen)",
     "ingredient_group": "เส้น",
+    "ingredient_group_en": "Noodles",
     "cooking_method": "ต้มน้ำยา",
-    "flavors": ["เผ็ด", "เค็ม", "หอมกระชาย"],
+    "cooking_method_en": "Boiled in Curry Sauce",
+    "flavors": [
+      "เผ็ด",
+      "เค็ม",
+      "หอมกระชาย"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Salty",
+      "Fingerroot Aroma"
+    ],
     "spice_level": 4,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ขนมจีนน้ำยากะทิ",
+    "name_en": "Rice Noodles with Coconut Curry",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "จานเดียว",
+    "dish_type_en": "One-Dish Meal",
     "main_ingredient": "เส้นขนมจีน",
+    "main_ingredient_en": "Rice Vermicelli (Khanom Jeen)",
     "ingredient_group": "เส้น",
+    "ingredient_group_en": "Noodles",
     "cooking_method": "ต้มน้ำยา",
-    "flavors": ["เผ็ด", "มัน", "เค็ม"],
+    "cooking_method_en": "Boiled in Curry Sauce",
+    "flavors": [
+      "เผ็ด",
+      "มัน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Rich",
+      "Salty"
+    ],
     "spice_level": 3,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ขนมจีนน้ำเงี้ยว",
+    "name_en": "Rice Noodles with Nam Ngiao",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคเหนือ",
+    "region_en": "Northern Region",
     "dish_type": "จานเดียว",
+    "dish_type_en": "One-Dish Meal",
     "main_ingredient": "เส้นขนมจีน",
+    "main_ingredient_en": "Rice Vermicelli (Khanom Jeen)",
     "ingredient_group": "เส้น",
+    "ingredient_group_en": "Noodles",
     "cooking_method": "เคี่ยว",
-    "flavors": ["เปรี้ยว", "เค็ม", "เผ็ดน้อย"],
+    "cooking_method_en": "Simmered",
+    "flavors": [
+      "เปรี้ยว",
+      "เค็ม",
+      "เผ็ดน้อย"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Salty",
+      "Mildly Spicy"
+    ],
     "spice_level": 2,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ผัดหมี่โคราช",
+    "name_en": "Korat-style Stir-fried Noodles",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคอีสาน",
+    "region_en": "Northeastern Region (Isan)",
     "dish_type": "จานเดียว",
+    "dish_type_en": "One-Dish Meal",
     "main_ingredient": "เส้นหมี่โคราช",
+    "main_ingredient_en": "Korat Rice Noodles",
     "ingredient_group": "เส้น",
+    "ingredient_group_en": "Noodles",
     "cooking_method": "ผัด",
-    "flavors": ["เผ็ด", "หวาน", "เค็ม"],
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เผ็ด",
+      "หวาน",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Spicy",
+      "Sweet",
+      "Salty"
+    ],
     "spice_level": 2,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ผัดสายบัวกุ้งสด",
+    "name_en": "Stir-fried Lotus Stem with Fresh Shrimp",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "สายบัว",
+    "main_ingredient_en": "Lotus Stem",
     "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
     "cooking_method": "ผัด",
-    "flavors": ["เค็ม", "หวานผัก"],
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม",
+      "หวานผัก"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Vegetable Sweetness"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ต้มกะทิสายบัวปลาทู",
+    "name_en": "Coconut Milk Soup with Lotus Stem and Mackerel",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "แกง",
+    "dish_type_en": "Curry",
     "main_ingredient": "สายบัวและปลาทู",
+    "main_ingredient_en": "Lotus Stem and Mackerel",
     "ingredient_group": "ผัก/ปลา",
+    "ingredient_group_en": "Vegetables/Fish",
     "cooking_method": "ต้มกะทิ",
-    "flavors": ["เปรี้ยว", "หวาน", "มัน"],
+    "cooking_method_en": "Boiled in Coconut Milk",
+    "flavors": [
+      "เปรี้ยว",
+      "หวาน",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Sweet",
+      "Rich"
+    ],
     "spice_level": 1,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "แกงจืดมะระขมสอดไส้หมูสับ",
+    "name_en": "Clear Soup with Stuffed Bitter Gourd",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "ซุป",
+    "dish_type_en": "Soup",
     "main_ingredient": "มะระ",
+    "main_ingredient_en": "Bitter Gourd",
     "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
     "cooking_method": "ต้ม",
-    "flavors": ["กลมกล่อม", "ขมเล็กร้อย"],
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "กลมกล่อม",
+      "ขมเล็กร้อย"
+    ],
+    "flavors_en": [
+      "Well-balanced",
+      "Slightly Bitter"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ผัดดอกขจรไข่ใส่กุ้ง",
+    "name_en": "Stir-fried Cowslip Creeper Flowers with Egg and Shrimp",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "ดอกขจร",
+    "main_ingredient_en": "Cowslip Creeper Flowers",
     "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
     "cooking_method": "ผัด",
-    "flavors": ["เค็ม", "หวานธรรมชาติ"],
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม",
+      "หวานธรรมชาติ"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Naturally Sweet"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ยำหัวปลี",
+    "name_en": "Banana Blossom Salad",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "สลัด/ยำ",
+    "dish_type_en": "Salad/Yum",
     "main_ingredient": "หัวปลี",
+    "main_ingredient_en": "Banana Blossom",
     "ingredient_group": "ผัก",
+    "ingredient_group_en": "Vegetables",
     "cooking_method": "ยำ",
-    "flavors": ["เปรี้ยว", "หวาน", "มันกะทิ"],
+    "cooking_method_en": "Tossed (Yum-style)",
+    "flavors": [
+      "เปรี้ยว",
+      "หวาน",
+      "มันกะทิ"
+    ],
+    "flavors_en": [
+      "Sour",
+      "Sweet",
+      "Rich Coconut Milk"
+    ],
     "spice_level": 2,
-    "serving_temperature": "อุณหภูมิห้อง"
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
   },
   {
     "collection": "thai",
     "name": "กุ้งฝอยทอดขมิ้น",
+    "name_en": "Turmeric Fried River Shrimp",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคใต้",
+    "region_en": "Southern Region",
     "dish_type": "อาหารว่าง",
+    "dish_type_en": "Light Snack",
     "main_ingredient": "กุ้งฝอย",
+    "main_ingredient_en": "Freshwater Shrimp",
     "ingredient_group": "อาหารทะเล",
+    "ingredient_group_en": "Seafood",
     "cooking_method": "ทอด",
-    "flavors": ["เค็มมัน", "หอมขมิ้น"],
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็มมัน",
+      "หอมขมิ้น"
+    ],
+    "flavors_en": [
+      "Salty and Rich",
+      "Turmeric Aroma"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ปลาทอดขมิ้น",
+    "name_en": "Turmeric Fried Fish",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคใต้",
+    "region_en": "Southern Region",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "ปลาทราย",
+    "main_ingredient_en": "Sand Goby Fish",
     "ingredient_group": "ปลา",
+    "ingredient_group_en": "Fish",
     "cooking_method": "ทอด",
-    "flavors": ["เค็ม", "หอมขมิ้นกระเทียม"],
+    "cooking_method_en": "Fried",
+    "flavors": [
+      "เค็ม",
+      "หอมขมิ้นกระเทียม"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Turmeric-Garlic Aroma"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "แกงพริกหมูอาชา",
+    "name_en": "Southern Thai Pork Chili Curry",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคใต้",
+    "region_en": "Southern Region",
     "dish_type": "แกง",
+    "dish_type_en": "Curry",
     "main_ingredient": "กระดูกหมู",
+    "main_ingredient_en": "Pork Bones",
     "ingredient_group": "เนื้อหมู",
+    "ingredient_group_en": "Pork",
     "cooking_method": "ต้มแกง",
-    "flavors": ["เผ็ดร้อนมาก", "เค็ม"],
+    "cooking_method_en": "Boiled Curry",
+    "flavors": [
+      "เผ็ดร้อนมาก",
+      "เค็ม"
+    ],
+    "flavors_en": [
+      "Extremely Fiery",
+      "Salty"
+    ],
     "spice_level": 5,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "หมูผัดกะปิสะตอ",
+    "name_en": "Stir-fried Pork with Shrimp Paste and Stink Beans",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคใต้",
+    "region_en": "Southern Region",
     "dish_type": "กับข้าว",
+    "dish_type_en": "Side Dish",
     "main_ingredient": "หมูสามชั้น",
+    "main_ingredient_en": "Pork Belly",
     "ingredient_group": "เนื้อหมู",
+    "ingredient_group_en": "Pork",
     "cooking_method": "ผัด",
-    "flavors": ["เค็ม", "เผ็ด", "กลิ่นกะปิ"],
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "เค็ม",
+      "เผ็ด",
+      "กลิ่นกะปิ"
+    ],
+    "flavors_en": [
+      "Salty",
+      "Spicy",
+      "Shrimp Paste Aroma"
+    ],
     "spice_level": 3,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ข้าวผัดสับปะรด",
+    "name_en": "Pineapple Fried Rice",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "จานเดียว",
+    "dish_type_en": "One-Dish Meal",
     "main_ingredient": "ข้าวสวยและสับปะรด",
+    "main_ingredient_en": "Rice and Pineapple",
     "ingredient_group": "ข้าว",
+    "ingredient_group_en": "Rice",
     "cooking_method": "ผัด",
-    "flavors": ["หวาน", "เค็ม", "หอมผงกะหรี่"],
+    "cooking_method_en": "Stir-fried",
+    "flavors": [
+      "หวาน",
+      "เค็ม",
+      "หอมผงกะหรี่"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Salty",
+      "Curry Powder Aroma"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ข้าวต้มกุ้ง",
+    "name_en": "Rice Soup with Shrimp",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
     "dish_type": "จานเดียว/ซุป",
+    "dish_type_en": "One-Dish Meal / Soup",
     "main_ingredient": "ข้าวสวยและกุ้ง",
+    "main_ingredient_en": "Rice and Shrimp",
     "ingredient_group": "ข้าว/อาหารทะเล",
+    "ingredient_group_en": "Rice/Seafood",
     "cooking_method": "ต้ม",
-    "flavors": ["กลมกล่อม", "เค็มอ่อน"],
+    "cooking_method_en": "Boiled",
+    "flavors": [
+      "กลมกล่อม",
+      "เค็มอ่อน"
+    ],
+    "flavors_en": [
+      "Well-balanced",
+      "Lightly Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "โจ๊กหมูใส่ไข่ออนเซ็น",
+    "name_en": "Pork Congee with Onsen Egg",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
     "dish_type": "จานเดียว",
+    "dish_type_en": "One-Dish Meal",
     "main_ingredient": "ปลายข้าวต้ม",
+    "main_ingredient_en": "Broken Rice Porridge",
     "ingredient_group": "ข้าว",
+    "ingredient_group_en": "Rice",
     "cooking_method": "เคี่ยว",
-    "flavors": ["กลมกล่อม"],
+    "cooking_method_en": "Simmered",
+    "flavors": [
+      "กลมกล่อม"
+    ],
+    "flavors_en": [
+      "Well-balanced"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ข้าวเหนียวมะม่วง",
+    "name_en": "Mango Sticky Rice",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
     "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
     "main_ingredient": "ข้าวเหนียวและมะม่วงสุก",
+    "main_ingredient_en": "Sticky Rice and Ripe Mango",
     "ingredient_group": "ของหวาน",
+    "ingredient_group_en": "Sweets",
     "cooking_method": "มูน",
-    "flavors": ["หวาน", "มัน", "เค็มตัดปลาย"],
+    "cooking_method_en": "Sweetened with Coconut Cream",
+    "flavors": [
+      "หวาน",
+      "มัน",
+      "เค็มตัดปลาย"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Rich",
+      "Salty with a Clean Finish"
+    ],
     "spice_level": 0,
-    "serving_temperature": "อุณหภูมิห้อง"
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
   },
   {
     "collection": "thai",
     "name": "ข้าวเหนียวทุเรียน",
+    "name_en": "Durian Sticky Rice",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
     "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
     "main_ingredient": "ทุเรียนและข้าวเหนียว",
+    "main_ingredient_en": "Durian and Sticky Rice",
     "ingredient_group": "ของหวาน",
+    "ingredient_group_en": "Sweets",
     "cooking_method": "ต้มน้ำกะทิ/มูน",
-    "flavors": ["หวาน", "มัน"],
+    "cooking_method_en": "Boiled in Coconut Milk/Sweetened",
+    "flavors": [
+      "หวาน",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Rich"
+    ],
     "spice_level": 0,
-    "serving_temperature": "อุณหภูมิห้อง"
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
   },
   {
     "collection": "thai",
     "name": "ทับทิมกรอบ",
+    "name_en": "Red Rubies (Tub Tim Krob)",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
     "main_ingredient": "แห้ว",
+    "main_ingredient_en": "Water Chestnut",
     "ingredient_group": "ของหวาน",
+    "ingredient_group_en": "Sweets",
     "cooking_method": "ต้ม/เชื่อม",
-    "flavors": ["หวาน", "หอมกะทิอบควันเทียน"],
+    "cooking_method_en": "Boiled/Candied",
+    "flavors": [
+      "หวาน",
+      "หอมกะทิอบควันเทียน"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Candle-smoked Coconut Aroma"
+    ],
     "spice_level": 0,
-    "serving_temperature": "เย็น"
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
   },
   {
     "collection": "thai",
     "name": "สลิ่มน้ำกะทิ",
+    "name_en": "Salim in Coconut Milk",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
     "main_ingredient": "แป้งถั่วเขียว",
+    "main_ingredient_en": "Mung Bean Flour",
     "ingredient_group": "ของหวาน",
+    "ingredient_group_en": "Sweets",
     "cooking_method": "กวน/กดเส้น",
-    "flavors": ["หวาน", "มัน", "หอมควันเทียน"],
+    "cooking_method_en": "Stirred and Pressed into Strands",
+    "flavors": [
+      "หวาน",
+      "มัน",
+      "หอมควันเทียน"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Rich",
+      "Candle-smoke Aroma"
+    ],
     "spice_level": 0,
-    "serving_temperature": "เย็น"
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
   },
   {
     "collection": "thai",
     "name": "เฉาก๊วยชากังราว",
+    "name_en": "Chakangrao Grass Jelly",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคเหนือ",
+    "region_en": "Northern Region",
     "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
     "main_ingredient": "เฉาก๊วย",
+    "main_ingredient_en": "Grass Jelly",
     "ingredient_group": "ของหวาน",
+    "ingredient_group_en": "Sweets",
     "cooking_method": "เคี่ยว/เคี่ยวใบบัวบก-เฉาก๊วย",
-    "flavors": ["หวาน", "หอมน้ำตาลอ้อย"],
+    "cooking_method_en": "Simmered (Grass Jelly Style)",
+    "flavors": [
+      "หวาน",
+      "หอมน้ำตาลอ้อย"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Cane Sugar Aroma"
+    ],
     "spice_level": 0,
-    "serving_temperature": "เย็น"
+    "serving_temperature": "เย็น",
+    "serving_temperature_en": "Cold"
   },
   {
     "collection": "thai",
     "name": "บัวลอยไข่หวาน",
+    "name_en": "Bua Loy with Sweet Egg",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
     "main_ingredient": "แป้งข้าวเหนียวและไข่ไก่",
+    "main_ingredient_en": "Glutinous Rice Flour and Egg",
     "ingredient_group": "ของหวาน",
+    "ingredient_group_en": "Sweets",
     "cooking_method": "ต้มกะทิ",
-    "flavors": ["หวาน", "มัน", "เค็มอ่อน"],
+    "cooking_method_en": "Boiled in Coconut Milk",
+    "flavors": [
+      "หวาน",
+      "มัน",
+      "เค็มอ่อน"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Rich",
+      "Lightly Salty"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "กล้วยบวชชี",
+    "name_en": "Banana in Coconut Milk",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
     "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
     "main_ingredient": "กล้วยน้ำว้า",
+    "main_ingredient_en": "Namwa Banana",
     "ingredient_group": "ของหวาน",
+    "ingredient_group_en": "Sweets",
     "cooking_method": "ต้มกะทิ",
-    "flavors": ["หวาน", "มัน", "เค็มตัดปลาย"],
+    "cooking_method_en": "Boiled in Coconut Milk",
+    "flavors": [
+      "หวาน",
+      "มัน",
+      "เค็มตัดปลาย"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Rich",
+      "Salty with a Clean Finish"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "ทองหยิบ",
+    "name_en": "Thong Yip (Golden Petals)",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "ขนมไทยโบราณ",
+    "dish_type_en": "Traditional Thai Sweet",
     "main_ingredient": "ไข่แดง",
+    "main_ingredient_en": "Egg Yolk",
     "ingredient_group": "ของหวาน",
+    "ingredient_group_en": "Sweets",
     "cooking_method": "หยอดน้ำเชื่อม",
-    "flavors": ["หวานจัด"],
+    "cooking_method_en": "Drizzled with Syrup",
+    "flavors": [
+      "หวานจัด"
+    ],
+    "flavors_en": [
+      "Very Sweet"
+    ],
     "spice_level": 0,
-    "serving_temperature": "อุณหภูมิห้อง"
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
   },
   {
     "collection": "thai",
     "name": "ทองหยอด",
+    "name_en": "Thong Yod (Golden Egg Drops)",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "ขนมไทยโบราณ",
+    "dish_type_en": "Traditional Thai Sweet",
     "main_ingredient": "ไข่แดงและแป้ง",
+    "main_ingredient_en": "Egg Yolk and Flour",
     "ingredient_group": "ของหวาน",
+    "ingredient_group_en": "Sweets",
     "cooking_method": "หยอดน้ำเชื่อม",
-    "flavors": ["หวานจัด"],
+    "cooking_method_en": "Drizzled with Syrup",
+    "flavors": [
+      "หวานจัด"
+    ],
+    "flavors_en": [
+      "Very Sweet"
+    ],
     "spice_level": 0,
-    "serving_temperature": "อุณหภูมิห้อง"
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
   },
   {
     "collection": "thai",
     "name": "ฝอยทอง",
+    "name_en": "Foi Thong (Golden Threads)",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "ขนมไทยโบราณ",
+    "dish_type_en": "Traditional Thai Sweet",
     "main_ingredient": "ไข่แดง",
+    "main_ingredient_en": "Egg Yolk",
     "ingredient_group": "ของหวาน",
+    "ingredient_group_en": "Sweets",
     "cooking_method": "โรยเส้นในน้ำเชื่อม",
-    "flavors": ["หวานจัด"],
+    "cooking_method_en": "Strands Dripped in Syrup",
+    "flavors": [
+      "หวานจัด"
+    ],
+    "flavors_en": [
+      "Very Sweet"
+    ],
     "spice_level": 0,
-    "serving_temperature": "อุณหภูมิห้อง"
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
   },
   {
     "collection": "thai",
     "name": "ขนมครก",
+    "name_en": "Coconut Rice Pancakes (Khanom Krok)",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ทั่วประเทศ",
+    "region_en": "Nationwide",
     "dish_type": "ของหวาน/อาหารว่าง",
+    "dish_type_en": "Dessert / Snack",
     "main_ingredient": "แป้งข้าวเจ้าและกะทิ",
+    "main_ingredient_en": "Rice Flour and Coconut Milk",
     "ingredient_group": "ของหวาน",
+    "ingredient_group_en": "Sweets",
     "cooking_method": "หยอดเตาหม้อดิน",
-    "flavors": ["หวาน", "มัน", "เค็มปลาย"],
+    "cooking_method_en": "Poured into Clay Pot",
+    "flavors": [
+      "หวาน",
+      "มัน",
+      "เค็มปลาย"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Rich",
+      "Salty Aftertaste"
+    ],
     "spice_level": 0,
-    "serving_temperature": "ร้อน"
+    "serving_temperature": "ร้อน",
+    "serving_temperature_en": "Hot"
   },
   {
     "collection": "thai",
     "name": "สังขยาฟักทอง",
+    "name_en": "Pumpkin Custard",
     "country": "ไทย",
+    "country_en": "Thailand",
     "continent": "เอเชีย",
+    "continent_en": "Asia",
     "region": "ภาคกลาง",
+    "region_en": "Central Region",
     "dish_type": "ของหวาน",
+    "dish_type_en": "Dessert",
     "main_ingredient": "ไข่เป็ดและฟักทอง",
+    "main_ingredient_en": "Duck Egg and Pumpkin",
     "ingredient_group": "ของหวาน",
+    "ingredient_group_en": "Sweets",
     "cooking_method": "นึ่ง",
-    "flavors": ["หวาน", "มัน"],
+    "cooking_method_en": "Steamed",
+    "flavors": [
+      "หวาน",
+      "มัน"
+    ],
+    "flavors_en": [
+      "Sweet",
+      "Rich"
+    ],
     "spice_level": 0,
-    "serving_temperature": "อุณหภูมิห้อง"
+    "serving_temperature": "อุณหภูมิห้อง",
+    "serving_temperature_en": "Room Temperature"
   }
 ]

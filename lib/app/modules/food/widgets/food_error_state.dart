@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 
 import '../theme/foodle_theme.dart';
 
@@ -17,9 +18,9 @@ class FoodErrorState extends StatelessWidget {
           children: [
             const Icon(Icons.error_outline, color: kFoodIncorrectColor, size: 48),
             const SizedBox(height: 12),
-            const Text(
-              'ไม่พบข้อมูลอาหาร',
-              style: TextStyle(
+            Text(
+              'food_notFoundTitle'.tr,
+              style: const TextStyle(
                 color: Colors.white,
                 fontSize: 16,
                 fontWeight: FontWeight.bold,
@@ -27,16 +28,16 @@ class FoodErrorState extends StatelessWidget {
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: 6),
-            const Text(
-              'ตรวจสอบว่าประกาศ assets/data/food/food.json ไว้ใน pubspec.yaml แล้วหรือยัง',
-              style: TextStyle(color: Colors.white70, fontSize: 13),
+            Text(
+              'food_assetsMissingHint'.tr,
+              style: const TextStyle(color: Colors.white70, fontSize: 13),
               textAlign: TextAlign.center,
             ),
             const SizedBox(height: 16),
             ElevatedButton.icon(
               onPressed: onRetry,
               icon: const Icon(Icons.refresh),
-              label: const Text('ลองใหม่'),
+              label: Text('common_retry'.tr),
             ),
           ],
         ),
