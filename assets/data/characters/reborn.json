@@ -503,7 +503,7 @@
     "first_arc": "10 ปีข้างหน้า",
     "first_arc_en": "Ten Years Later Arc",
     "arc_order": 4,
-    "image_url": null
+    "image_url": "https://s4.anilist.co/file/anilistcdn/character/large/b10641-51jDjieLkd4P.jpg"
   },
   {
     "collection": "reborn",
@@ -802,7 +802,7 @@
     "first_arc": "10 ปีข้างหน้า",
     "first_arc_en": "Ten Years Later Arc",
     "arc_order": 4,
-    "image_url": null
+    "image_url": "https://s4.anilist.co/file/anilistcdn/character/large/23336.jpg"
   },
   {
     "collection": "reborn",
@@ -1124,7 +1124,7 @@
     "first_arc": "ปฐมบทวองโกเล่",
     "first_arc_en": "Vongola Primo Arc",
     "arc_order": 6,
-    "image_url": null
+    "image_url": "https://s4.anilist.co/file/anilistcdn/character/large/b31330-2711zJ9YchBs.png"
   },
   {
     "collection": "reborn",
@@ -1169,7 +1169,8 @@
     "gender_en": "Male",
     "first_arc": "ปฐมบทวองโกเล่",
     "first_arc_en": "Vongola Primo Arc",
-    "arc_order": 6
+    "arc_order": 6,
+    "image_url": "https://s4.anilist.co/file/anilistcdn/character/large/n31338-Gyc0JVxidWjY.png"
   },
   {
     "collection": "reborn",
@@ -1283,7 +1284,8 @@
     "gender_en": "Female",
     "first_arc": "10 ปีข้างหน้า",
     "first_arc_en": "Ten Years Later Arc",
-    "arc_order": 4
+    "arc_order": 4,
+    "image_url": "https://s4.anilist.co/file/anilistcdn/character/large/b18211-4q0V6qUe84Gq.png"
   },
   {
     "collection": "reborn",
@@ -1305,7 +1307,8 @@
     "gender_en": "Male",
     "first_arc": "10 ปีข้างหน้า",
     "first_arc_en": "Ten Years Later Arc",
-    "arc_order": 4
+    "arc_order": 4,
+    "image_url": "https://s4.anilist.co/file/anilistcdn/character/large/b17565-vLHXvL5I4v5v.png"
   },
   {
     "collection": "reborn",
@@ -1373,7 +1376,8 @@
     "gender_en": "Male",
     "first_arc": "ชีวิตประจำวัน",
     "first_arc_en": "Daily Life Arc",
-    "arc_order": 1
+    "arc_order": 1,
+    "image_url": "https://s4.anilist.co/file/anilistcdn/character/large/1856.jpg"
   },
   {
     "collection": "reborn",
@@ -1418,7 +1422,8 @@
     "gender_en": "Male",
     "first_arc": "เกาะโคคุโย",
     "first_arc_en": "Kokuyo Island Arc",
-    "arc_order": 2
+    "arc_order": 2,
+    "image_url": "https://s4.anilist.co/file/anilistcdn/character/large/1884.jpg"
   },
   {
     "collection": "reborn",

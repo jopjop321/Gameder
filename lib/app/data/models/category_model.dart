@@ -110,6 +110,60 @@ final List<GameCategory> animeHubCategories = [
     textColor: Colors.white,
     gameType: 'reborn',
   ),
+  const GameCategory(
+    title: 'Onepiecedle',
+    icon: Icons.sailing_outlined,
+    textColor: Colors.white,
+    gameType: 'onepiece',
+  ),
+  const GameCategory(
+    title: 'Narutodle',
+    icon: Icons.filter_vintage_outlined,
+    textColor: Colors.white,
+    gameType: 'naruto',
+  ),
+  const GameCategory(
+    title: 'Titandle',
+    icon: Icons.shield_outlined,
+    textColor: Colors.white,
+    gameType: 'aot',
+  ),
+  const GameCategory(
+    title: 'Kimetsudle',
+    icon: Icons.water_drop_outlined,
+    textColor: Colors.white,
+    gameType: 'demonslayer',
+  ),
+  const GameCategory(
+    title: 'Herodle',
+    icon: Icons.bolt_outlined,
+    textColor: Colors.white,
+    gameType: 'mha',
+  ),
+  const GameCategory(
+    title: 'Cloverdle',
+    icon: Icons.eco_outlined,
+    textColor: Colors.white,
+    gameType: 'blackclover',
+  ),
+  const GameCategory(
+    title: 'Bleachdle',
+    icon: Icons.dark_mode_outlined,
+    textColor: Colors.white,
+    gameType: 'bleach',
+  ),
+  const GameCategory(
+    title: 'Fairydle',
+    icon: Icons.auto_awesome_outlined,
+    textColor: Colors.white,
+    gameType: 'fairytail',
+  ),
+  const GameCategory(
+    title: 'Hunterdle',
+    icon: Icons.forest_outlined,
+    textColor: Colors.white,
+    gameType: 'hxh',
+  ),
 ];
 
 /// Sub-categories for the Pokedle selection screen.
@@ -396,6 +450,15 @@ final List<GameCategory> allTopics = [
   ...musicCategories,
   ...brandCategories,
   animeHubCategories[1], // Reborndle
+  animeHubCategories[2], // Onepiecedle
+  animeHubCategories[3], // Narutodle
+  animeHubCategories[4], // Titandle
+  animeHubCategories[5], // Kimetsudle
+  animeHubCategories[6], // Herodle
+  animeHubCategories[7], // Cloverdle
+  animeHubCategories[8], // Bleachdle
+  animeHubCategories[9], // Fairydle
+  animeHubCategories[10], // Hunterdle
 ];
 
 /// Curated leaf-level topics for the Home "ใหม่" tab, newest first — mixed
@@ -407,5 +470,12 @@ final List<GameCategory> newTopics = [
   musicCategories[0], // Music (just added)
   brandCategories[0], // Brands (just added)
   foodCategories[5], // Southeast Asian food
-  animeHubCategories[1], // Reborndle
+  animeHubCategories[3], // Narutodle (just added)
+  animeHubCategories[4], // Titandle (just added)
+  animeHubCategories[5], // Kimetsudle (just added)
+  animeHubCategories[6], // Herodle (just added)
+  animeHubCategories[7], // Cloverdle (just added)
+  animeHubCategories[8], // Bleachdle (just added)
+  animeHubCategories[9], // Fairydle (just added)
+  animeHubCategories[10], // Hunterdle (just added)
 ];
