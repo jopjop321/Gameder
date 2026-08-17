@@ -2,6 +2,7 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:gameder/widgets/common/surrender_confirmation_dialog.dart';
 
 import '../models/movie.dart';
 import '../models/movie_guess_result.dart';
@@ -12,6 +13,7 @@ import '../widgets/movie_dex_dialog.dart';
 import '../widgets/movie_error_state.dart';
 import '../widgets/moviedle_guess_row.dart';
 import '../widgets/moviedle_header_row.dart';
+import '../widgets/moviedle_known_facts_row.dart';
 
 class MoviedleScreen extends StatefulWidget {
   final String collectionId;
@@ -141,6 +143,16 @@ class _MoviedleScreenState extends State<MoviedleScreen> {
 
   void _revealAnswer() => setState(() => _isAnswerRevealed = true);
 
+  Future<void> _confirmSurrender() async {
+    if (_status != MovieLoadStatus.ready || _isAnswerRevealed || _hasWon) return;
+    final shouldSurrender = await showSurrenderConfirmation(
+      context,
+      cardColor: kMovieHeaderCellColor,
+    );
+    if (!mounted || !shouldSurrender) return;
+    _revealAnswer();
+  }
+
   Future<void> _openMovieDex() async {
     final selected = await showMovieDexDialog(context, _availableMovies);
     if (!mounted || selected == null) return;
@@ -167,6 +179,22 @@ class _MoviedleScreenState extends State<MoviedleScreen> {
               onPressed: _openMovieDex,
               icon: const Icon(Icons.menu_book_rounded),
               tooltip: 'movie_dexTooltip'.tr,
+            ),
+          if (_status == MovieLoadStatus.ready && !_isAnswerRevealed && !_hasWon)
+            IconButton(
+              tooltip: 'pokedle_surrenderTooltip'.tr,
+              onPressed: _confirmSurrender,
+              icon: const Icon(Icons.flag_outlined),
+            ),
+          if (_status == MovieLoadStatus.ready && !_isAnswerRevealed && !_hasWon)
+            Padding(
+              padding: const EdgeInsets.only(right: 16),
+              child: Center(
+                child: Text(
+                  'pokedle_guessCount'.trParams({'count': '${_guesses.length}'}),
+                  style: const TextStyle(color: Colors.white70, fontSize: 14),
+                ),
+              ),
             ),
         ],
       ),
@@ -205,6 +233,7 @@ class _MoviedleScreenState extends State<MoviedleScreen> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             const MoviedleHeaderRow(),
+            MoviedleKnownFactsRow(guesses: _guesses),
             ..._guesses.asMap().entries.map(
                   (entry) => MoviedleGuessRow(
                     key: ValueKey(entry.value.movie.name),
@@ -319,12 +348,6 @@ class _MoviedleScreenState extends State<MoviedleScreen> {
                       ),
                     ),
                   ),
-                ),
-                const SizedBox(width: 8),
-                OutlinedButton(
-                  onPressed: _isAnswerRevealed || _hasWon ? null : _revealAnswer,
-                  style: OutlinedButton.styleFrom(foregroundColor: Colors.white),
-                  child: Text('common_giveUp'.tr),
                 ),
               ],
             ),

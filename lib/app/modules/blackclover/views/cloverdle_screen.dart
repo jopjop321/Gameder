@@ -3,6 +3,7 @@ import 'dart:math';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:gameder/widgets/common/surrender_confirmation_dialog.dart';
 
 import '../models/blackclover_character.dart';
 import '../models/blackclover_guess_result.dart';
@@ -13,6 +14,7 @@ import '../widgets/blackclover_dex_dialog.dart';
 import '../widgets/blackclover_error_state.dart';
 import '../widgets/cloverdle_guess_row.dart';
 import '../widgets/cloverdle_header_row.dart';
+import '../widgets/cloverdle_known_facts_row.dart';
 
 class CloverdleScreen extends StatefulWidget {
   const CloverdleScreen({super.key});
@@ -137,6 +139,16 @@ class _CloverdleScreenState extends State<CloverdleScreen> {
 
   void _revealAnswer() => setState(() => _isAnswerRevealed = true);
 
+  Future<void> _confirmSurrender() async {
+    if (_status != BlackcloverLoadStatus.ready || _isAnswerRevealed || _hasWon) return;
+    final shouldSurrender = await showSurrenderConfirmation(
+      context,
+      cardColor: kBlackcloverHeaderCellColor,
+    );
+    if (!mounted || !shouldSurrender) return;
+    _revealAnswer();
+  }
+
   Future<void> _openBlackcloverDex() async {
     final selected = await showBlackcloverDexDialog(context, _availableCharacters);
     if (!mounted || selected == null) return;
@@ -163,6 +175,22 @@ class _CloverdleScreenState extends State<CloverdleScreen> {
               onPressed: _openBlackcloverDex,
               icon: const Icon(Icons.menu_book_rounded),
               tooltip: 'blackclover_dexTooltip'.tr,
+            ),
+          if (_status == BlackcloverLoadStatus.ready && !_isAnswerRevealed && !_hasWon)
+            IconButton(
+              tooltip: 'pokedle_surrenderTooltip'.tr,
+              onPressed: _confirmSurrender,
+              icon: const Icon(Icons.flag_outlined),
+            ),
+          if (_status == BlackcloverLoadStatus.ready && !_isAnswerRevealed && !_hasWon)
+            Padding(
+              padding: const EdgeInsets.only(right: 16),
+              child: Center(
+                child: Text(
+                  'pokedle_guessCount'.trParams({'count': '${_guesses.length}'}),
+                  style: const TextStyle(color: Colors.white70, fontSize: 14),
+                ),
+              ),
             ),
         ],
       ),
@@ -201,6 +229,7 @@ class _CloverdleScreenState extends State<CloverdleScreen> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             const CloverdleHeaderRow(),
+            CloverdleKnownFactsRow(guesses: _guesses),
             ..._guesses.asMap().entries.map(
                   (entry) => CloverdleGuessRow(
                     key: ValueKey(entry.value.character.name),
@@ -332,12 +361,6 @@ class _CloverdleScreenState extends State<CloverdleScreen> {
                       ),
                     ),
                   ),
-                ),
-                const SizedBox(width: 8),
-                OutlinedButton(
-                  onPressed: _isAnswerRevealed || _hasWon ? null : _revealAnswer,
-                  style: OutlinedButton.styleFrom(foregroundColor: Colors.white),
-                  child: Text('common_giveUp'.tr),
                 ),
               ],
             ),

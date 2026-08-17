@@ -2,6 +2,7 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:gameder/widgets/common/surrender_confirmation_dialog.dart';
 
 import '../models/game_guess_result.dart';
 import '../models/game_load_status.dart';
@@ -12,6 +13,7 @@ import '../widgets/game_dex_dialog.dart';
 import '../widgets/game_error_state.dart';
 import '../widgets/gamedle_guess_row.dart';
 import '../widgets/gamedle_header_row.dart';
+import '../widgets/gamedle_known_facts_row.dart';
 
 class GamedleScreen extends StatefulWidget {
   final String platformId;
@@ -141,6 +143,16 @@ class _GamedleScreenState extends State<GamedleScreen> {
 
   void _revealAnswer() => setState(() => _isAnswerRevealed = true);
 
+  Future<void> _confirmSurrender() async {
+    if (_status != GameLoadStatus.ready || _isAnswerRevealed || _hasWon) return;
+    final shouldSurrender = await showSurrenderConfirmation(
+      context,
+      cardColor: kGameHeaderCellColor,
+    );
+    if (!mounted || !shouldSurrender) return;
+    _revealAnswer();
+  }
+
   Future<void> _openGameDex() async {
     final selected = await showGameDexDialog(context, _availableGames);
     if (!mounted || selected == null) return;
@@ -167,6 +179,22 @@ class _GamedleScreenState extends State<GamedleScreen> {
               onPressed: _openGameDex,
               icon: const Icon(Icons.menu_book_rounded),
               tooltip: 'game_dexTooltip'.tr,
+            ),
+          if (_status == GameLoadStatus.ready && !_isAnswerRevealed && !_hasWon)
+            IconButton(
+              tooltip: 'pokedle_surrenderTooltip'.tr,
+              onPressed: _confirmSurrender,
+              icon: const Icon(Icons.flag_outlined),
+            ),
+          if (_status == GameLoadStatus.ready && !_isAnswerRevealed && !_hasWon)
+            Padding(
+              padding: const EdgeInsets.only(right: 16),
+              child: Center(
+                child: Text(
+                  'pokedle_guessCount'.trParams({'count': '${_guesses.length}'}),
+                  style: const TextStyle(color: Colors.white70, fontSize: 14),
+                ),
+              ),
             ),
         ],
       ),
@@ -205,6 +233,7 @@ class _GamedleScreenState extends State<GamedleScreen> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             const GamedleHeaderRow(),
+            GamedleKnownFactsRow(guesses: _guesses),
             ..._guesses.asMap().entries.map(
                   (entry) => GamedleGuessRow(
                     key: ValueKey(entry.value.game.name),
@@ -319,12 +348,6 @@ class _GamedleScreenState extends State<GamedleScreen> {
                       ),
                     ),
                   ),
-                ),
-                const SizedBox(width: 8),
-                OutlinedButton(
-                  onPressed: _isAnswerRevealed || _hasWon ? null : _revealAnswer,
-                  style: OutlinedButton.styleFrom(foregroundColor: Colors.white),
-                  child: Text('common_giveUp'.tr),
                 ),
               ],
             ),

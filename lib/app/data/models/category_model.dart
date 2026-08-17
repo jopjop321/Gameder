@@ -230,6 +230,34 @@ final List<GameCategory> foodCategories = [
     gameType: 'food_quiz',
     gameId: 'southeast_asia',
   ),
+  const GameCategory(
+    title: 'food_thaiCentral',
+    imagePath: 'assets/images/food.png',
+    textColor: Colors.black,
+    gameType: 'food_quiz',
+    gameId: 'thai_central',
+  ),
+  const GameCategory(
+    title: 'food_thaiNortheast',
+    imagePath: 'assets/images/food.png',
+    textColor: Colors.black,
+    gameType: 'food_quiz',
+    gameId: 'thai_northeast',
+  ),
+  const GameCategory(
+    title: 'food_thaiNorth',
+    imagePath: 'assets/images/food.png',
+    textColor: Colors.black,
+    gameType: 'food_quiz',
+    gameId: 'thai_north',
+  ),
+  const GameCategory(
+    title: 'food_thaiSouth',
+    imagePath: 'assets/images/food.png',
+    textColor: Colors.black,
+    gameType: 'food_quiz',
+    gameId: 'thai_south',
+  ),
 ];
 
 final List<GameCategory> gameCategories = [

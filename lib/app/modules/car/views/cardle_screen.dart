@@ -2,6 +2,7 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:gameder/widgets/common/surrender_confirmation_dialog.dart';
 
 import '../models/car.dart';
 import '../models/car_guess_result.dart';
@@ -12,6 +13,7 @@ import '../widgets/car_dex_dialog.dart';
 import '../widgets/car_error_state.dart';
 import '../widgets/cardle_guess_row.dart';
 import '../widgets/cardle_header_row.dart';
+import '../widgets/cardle_known_facts_row.dart';
 
 class CardleScreen extends StatefulWidget {
   final String collectionId;
@@ -141,6 +143,16 @@ class _CardleScreenState extends State<CardleScreen> {
 
   void _revealAnswer() => setState(() => _isAnswerRevealed = true);
 
+  Future<void> _confirmSurrender() async {
+    if (_status != CarLoadStatus.ready || _isAnswerRevealed || _hasWon) return;
+    final shouldSurrender = await showSurrenderConfirmation(
+      context,
+      cardColor: kCarHeaderCellColor,
+    );
+    if (!mounted || !shouldSurrender) return;
+    _revealAnswer();
+  }
+
   Future<void> _openCarDex() async {
     final selected = await showCarDexDialog(context, _availableCars);
     if (!mounted || selected == null) return;
@@ -167,6 +179,22 @@ class _CardleScreenState extends State<CardleScreen> {
               onPressed: _openCarDex,
               icon: const Icon(Icons.menu_book_rounded),
               tooltip: 'car_dexTooltip'.tr,
+            ),
+          if (_status == CarLoadStatus.ready && !_isAnswerRevealed && !_hasWon)
+            IconButton(
+              tooltip: 'pokedle_surrenderTooltip'.tr,
+              onPressed: _confirmSurrender,
+              icon: const Icon(Icons.flag_outlined),
+            ),
+          if (_status == CarLoadStatus.ready && !_isAnswerRevealed && !_hasWon)
+            Padding(
+              padding: const EdgeInsets.only(right: 16),
+              child: Center(
+                child: Text(
+                  'pokedle_guessCount'.trParams({'count': '${_guesses.length}'}),
+                  style: const TextStyle(color: Colors.white70, fontSize: 14),
+                ),
+              ),
             ),
         ],
       ),
@@ -205,6 +233,7 @@ class _CardleScreenState extends State<CardleScreen> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             const CardleHeaderRow(),
+            CardleKnownFactsRow(guesses: _guesses),
             ..._guesses.asMap().entries.map(
                   (entry) => CardleGuessRow(
                     key: ValueKey(entry.value.car.name),
@@ -319,12 +348,6 @@ class _CardleScreenState extends State<CardleScreen> {
                       ),
                     ),
                   ),
-                ),
-                const SizedBox(width: 8),
-                OutlinedButton(
-                  onPressed: _isAnswerRevealed || _hasWon ? null : _revealAnswer,
-                  style: OutlinedButton.styleFrom(foregroundColor: Colors.white),
-                  child: Text('common_giveUp'.tr),
                 ),
               ],
             ),

@@ -2,6 +2,7 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:gameder/widgets/common/surrender_confirmation_dialog.dart';
 
 import '../models/food.dart';
 import '../models/food_guess_result.dart';
@@ -12,6 +13,7 @@ import '../widgets/food_dex_dialog.dart';
 import '../widgets/food_error_state.dart';
 import '../widgets/foodle_guess_row.dart';
 import '../widgets/foodle_header_row.dart';
+import '../widgets/foodle_known_facts_row.dart';
 
 class FoodleScreen extends StatefulWidget {
   final String regionId;
@@ -143,6 +145,16 @@ class _FoodleScreenState extends State<FoodleScreen> {
 
   void _revealAnswer() => setState(() => _isAnswerRevealed = true);
 
+  Future<void> _confirmSurrender() async {
+    if (_status != FoodLoadStatus.ready || _isAnswerRevealed || _hasWon) return;
+    final shouldSurrender = await showSurrenderConfirmation(
+      context,
+      cardColor: kFoodHeaderCellColor,
+    );
+    if (!mounted || !shouldSurrender) return;
+    _revealAnswer();
+  }
+
   Future<void> _openFoodDex() async {
     final selected = await showFoodDexDialog(context, _availableFoods);
     if (!mounted || selected == null) return;
@@ -169,6 +181,22 @@ class _FoodleScreenState extends State<FoodleScreen> {
               onPressed: _openFoodDex,
               icon: const Icon(Icons.menu_book_rounded),
               tooltip: 'food_dexTooltip'.tr,
+            ),
+          if (_status == FoodLoadStatus.ready && !_isAnswerRevealed && !_hasWon)
+            IconButton(
+              tooltip: 'pokedle_surrenderTooltip'.tr,
+              onPressed: _confirmSurrender,
+              icon: const Icon(Icons.flag_outlined),
+            ),
+          if (_status == FoodLoadStatus.ready && !_isAnswerRevealed && !_hasWon)
+            Padding(
+              padding: const EdgeInsets.only(right: 16),
+              child: Center(
+                child: Text(
+                  'pokedle_guessCount'.trParams({'count': '${_guesses.length}'}),
+                  style: const TextStyle(color: Colors.white70, fontSize: 14),
+                ),
+              ),
             ),
         ],
       ),
@@ -207,6 +235,7 @@ class _FoodleScreenState extends State<FoodleScreen> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             FoodleHeaderRow(includeRegion: _includeRegion),
+            FoodleKnownFactsRow(guesses: _guesses, includeRegion: _includeRegion),
             ..._guesses.asMap().entries.map(
                   (entry) => FoodleGuessRow(
                     key: ValueKey(entry.value.food.name),
@@ -322,12 +351,6 @@ class _FoodleScreenState extends State<FoodleScreen> {
                       ),
                     ),
                   ),
-                ),
-                const SizedBox(width: 8),
-                OutlinedButton(
-                  onPressed: _isAnswerRevealed || _hasWon ? null : _revealAnswer,
-                  style: OutlinedButton.styleFrom(foregroundColor: Colors.white),
-                  child: Text('common_giveUp'.tr),
                 ),
               ],
             ),

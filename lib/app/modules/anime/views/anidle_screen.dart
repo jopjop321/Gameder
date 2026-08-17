@@ -3,6 +3,7 @@ import 'dart:math';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:gameder/widgets/common/surrender_confirmation_dialog.dart';
 
 import '../models/anime.dart';
 import '../models/anime_guess_result.dart';
@@ -13,6 +14,7 @@ import '../widgets/anime_dex_dialog.dart';
 import '../widgets/anime_error_state.dart';
 import '../widgets/anidle_guess_row.dart';
 import '../widgets/anidle_header_row.dart';
+import '../widgets/anidle_known_facts_row.dart';
 
 class AnidleScreen extends StatefulWidget {
   final String difficultyId;
@@ -138,6 +140,16 @@ class _AnidleScreenState extends State<AnidleScreen> {
 
   void _revealAnswer() => setState(() => _isAnswerRevealed = true);
 
+  Future<void> _confirmSurrender() async {
+    if (_status != AnimeLoadStatus.ready || _isAnswerRevealed || _hasWon) return;
+    final shouldSurrender = await showSurrenderConfirmation(
+      context,
+      cardColor: kAnimeHeaderCellColor,
+    );
+    if (!mounted || !shouldSurrender) return;
+    _revealAnswer();
+  }
+
   Future<void> _openAnimeDex() async {
     final selected = await showAnimeDexDialog(context, _availableAnimes);
     if (!mounted || selected == null) return;
@@ -164,6 +176,22 @@ class _AnidleScreenState extends State<AnidleScreen> {
               onPressed: _openAnimeDex,
               icon: const Icon(Icons.menu_book_rounded),
               tooltip: 'anime_dexTooltip'.tr,
+            ),
+          if (_status == AnimeLoadStatus.ready && !_isAnswerRevealed && !_hasWon)
+            IconButton(
+              tooltip: 'pokedle_surrenderTooltip'.tr,
+              onPressed: _confirmSurrender,
+              icon: const Icon(Icons.flag_outlined),
+            ),
+          if (_status == AnimeLoadStatus.ready && !_isAnswerRevealed && !_hasWon)
+            Padding(
+              padding: const EdgeInsets.only(right: 16),
+              child: Center(
+                child: Text(
+                  'pokedle_guessCount'.trParams({'count': '${_guesses.length}'}),
+                  style: const TextStyle(color: Colors.white70, fontSize: 14),
+                ),
+              ),
             ),
         ],
       ),
@@ -202,6 +230,7 @@ class _AnidleScreenState extends State<AnidleScreen> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             const AnidleHeaderRow(),
+            AnidleKnownFactsRow(guesses: _guesses),
             ..._guesses.asMap().entries.map(
                   (entry) => AnidleGuessRow(
                     key: ValueKey(entry.value.anime.name),
@@ -333,12 +362,6 @@ class _AnidleScreenState extends State<AnidleScreen> {
                       ),
                     ),
                   ),
-                ),
-                const SizedBox(width: 8),
-                OutlinedButton(
-                  onPressed: _isAnswerRevealed || _hasWon ? null : _revealAnswer,
-                  style: OutlinedButton.styleFrom(foregroundColor: Colors.white),
-                  child: Text('common_giveUp'.tr),
                 ),
               ],
             ),
